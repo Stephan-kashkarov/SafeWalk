@@ -7,8 +7,7 @@ stops = pd.concat([
     pd.read_csv(f"data/gtfs (0)/stops.txt"),
     pd.read_csv(f"data/gtfs (1)/stops.txt"),
     pd.read_csv(f"data/gtfs (2)/stops.txt"),
-    pd.read_csv(f"data/gtfs (3)/stops.txt"),
-    pd.read_csv(f"data/gtfs (4)/stops.txt")
+    pd.read_csv(f"data/gtfs (3)/stops.txt")
 ])
 print('1')
 times0 = pd.concat([
@@ -19,7 +18,6 @@ print('1')
 times1 = pd.concat([
     pd.read_csv(f"data/gtfs (2)/stop_times.txt"),
     pd.read_csv(f"data/gtfs (3)/stop_times.txt"),
-    pd.read_csv(f"data/gtfs (4)/stop_times.txt")
 ])
 print('1')
 out = pd.DataFrame()
