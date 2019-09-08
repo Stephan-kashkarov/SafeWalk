@@ -1,0 +1,2757 @@
+,id,name,lat,lon,fequency
+0,201,Fremantle Dr after 1st McKail Cr,-35.347043,149.047943,444
+1,300,Ainslie PS Donaldson St,-35.27362,149.140829,465
+2,401,MacFarlane Burnet Av after 1st Eccles Cct,-35.216085,149.002982,891
+3,402,MacFarlane Burnet Av before Hollows Cct,-35.212835999999996,149.004189,891
+4,403,MacFarlane Burnet Av after Hollows Cct,-35.212665,149.00401599999998,891
+5,404,MacFarlane Burnet Av before De Gruchy Pl,-35.216072,149.003355,891
+6,405,MacFarlane Burnet Av after Constance Stone St,-35.209343,149.00322,891
+7,406,MacFarlane Burnet Av opp Constance Stone St,-35.209295000000004,149.002975,891
+8,600,O'Hanlon Pl after Gold Creek Rd,-35.192122,149.08597,720
+9,601,O'Hanlon Pl before Gold Creek Rd,-35.192143,149.08607,760
+10,1001,Drumston St opp MacKillop College,-35.426111999999996,149.091607,785
+11,1002,Mackillop College Drumston St,-35.425974,149.091709,750
+12,1007,Ellerston Av opp Isabella Plains Shops,-35.427862,149.091027,807
+13,1008,Isabella Plains Shops Ellerston Av,-35.427477,149.09142,796
+14,1009,Mackillop College Ellerston Av,-35.425653999999994,149.095483,391
+15,1010,Ellerston Av opp Mackillop College,-35.425764,149.095466,415
+16,1011,Ellerston Av before 1st Abercorn Cr,-35.426368,149.09800800000002,391
+17,1012,Ellerston Av opp 2nd Abercorn Cr,-35.426603,149.09811399999998,415
+18,1013,Ellerston Av before 2nd Abercorn Cr,-35.428486,149.10062299999998,391
+19,1014,Ellerston Av before 2nd Groveland Cr,-35.428391,149.10036000000002,415
+20,1015,Ellerston Av before Ashley Dr,-35.42879,149.10288899999998,391
+21,1016,Ellerston Av after Ashley Dr,-35.428922,149.102838,415
+22,1017,Calwell Shops Webber Cr,-35.435094,149.113745,2417
+23,1018,Boddington Cr after Bacchus Cct,-35.379387,149.05488300000002,189
+24,1019,Casey Cr before Carpenter Cl,-35.436661,149.11129,480
+25,1020,Casey Cr opp Carpenter Cl,-35.436859000000005,149.110846,468
+26,1027,Duggan St after Downard St,-35.439864,149.098624,466
+27,1028,Duggan St after Beckett St,-35.439836,149.098479,477
+28,1029,Duggan St before 1st Pennington Cr,-35.441602,149.100907,477
+29,1030,Duggan St before 2nd Andrew Cr,-35.441603,149.101116,466
+30,1031,Tharwa Dr after Duggan St,-35.444823,149.10572,465
+31,1032,Tharwa Dr before Duggan St,-35.444455,149.103996,476
+32,1033,Lawrence Wackett Cr opp Theodore PS,-35.447275,149.12461299999998,479
+33,1034,Theodore PS Lawrence Wackett Cr,-35.447346,149.12448700000002,470
+34,1035,Lawrence Wackett Cr after 1st Burdett Cr,-35.449867,149.12256599999998,468
+35,1036,Lawrence Wackett Cr before Chippindall Cct,-35.450002000000005,149.122491,479
+36,1037,Chippindall Cct opp Goldfinch Cct,-35.450823,149.120097,468
+37,1038,Chippindall Cct after Latchford St,-35.450720000000004,149.120304,479
+38,1044,Hurtle Av after 1st Noarlunga Cr,-35.434802000000005,149.086149,724
+39,1045,Hurtle Av opp 2nd Noarlunga Cr,-35.434726,149.085969,697
+40,1046,Barr Smith Av after Salas St,-35.42673,149.074178,809
+41,1047,Barr Smith Av after Don Dunstan Dr,-35.426899,149.074185,828
+42,1052,Barr Smith Av opp Hurtle Av,-35.431101,149.08000800000002,809
+43,1053,Barr Smith Av after Hurtle Av,-35.431263,149.08006,828
+44,1054,Hurtle Av opp Ebenezer St,-35.434405,149.08358700000002,697
+45,1055,Hurtle Av after Ebenezer St,-35.433937,149.08288100000001,724
+46,1056,Hurtle Av opp Bonython PS,-35.432126000000004,149.08231,724
+47,1057,Bonython PS Hurtle Av,-35.431441,149.082295,697
+48,1059,Homeworld Soward Way,-35.418682000000004,149.067883,4787
+49,1060,Boddington Cr before Reynell Pl,-35.379517,149.055117,124
+50,1061,Soward Way after Anketell St,-35.417271,149.070695,2373
+51,1062,Soward Way before Anketell St,-35.417379,149.070745,2413
+52,1063,Tuggeranong Bus Depot Scollay St,-35.422657,149.06973,890
+53,1064,Scollay St opp Tuggeranong Bus Depot,-35.421808,149.069227,871
+54,1065,Anketell St before Oakden St,-35.422697,149.072912,933
+55,1066,Anketell St before Athllon Dr,-35.423711,149.07387,906
+56,1067,Anketell St opp Tuggeranong Square,-35.419798,149.070847,918
+57,1068,Tuggeranong Square Anketell St,-35.419976,149.070832,933
+58,1069,Ellerston Av before Noorooma St,-35.430392,149.08816000000002,596
+59,1070,Ellerston Av opp Noorooma St,-35.430127,149.088257,579
+60,1071,Ellerston Av after Keverstone Cct,-35.431594,149.088799,596
+61,1072,Ellerston Av opp Keverstone Cct,-35.431554999999996,149.088905,579
+62,1073,Ellerston Av after Jasper Cl,-35.431903000000005,149.09237099999999,596
+63,1074,Ellerston Av before 2nd Kadina Cr,-35.431674,149.092063,579
+64,1075,Ellerston Av after Johnston Dr,-35.433965,149.094672,596
+65,1076,Ellerston Av before Johnson Dr,-35.433781,149.094651,579
+66,1077,Outtrim Av before Duggan St,-35.435753000000005,149.09866499999998,531
+67,1078,Outtrim Av opp Duggan St,-35.435688,149.09841,525
+68,1079,Outtrim Av before 2nd Carter Cr,-35.435899,149.102015,525
+69,1080,Outtrim Av after Gurr St,-35.435978999999996,149.101939,531
+70,1081,Outtrim Av after 2nd Carter Cr,-35.436062,149.104675,525
+71,1082,Outtrim Av before Gurr St,-35.436087,149.10483200000002,531
+72,1083,Outtrim Av after Costello Cct,-35.435623,149.109478,525
+73,1084,Outtrim Av after Mountain Cct,-35.435705,149.109488,531
+74,1085,Calwell PS Casey Cr,-35.438693,149.110352,473
+75,1086,Casey Cr opp Calwell PS,-35.43858,149.11041200000003,484
+76,1089,Casey Cr after O'Connor Cct,-35.440019,149.11313700000002,468
+77,1090,Casey Cr opp O'Connor Cct,-35.439958000000004,149.113233,480
+78,1091,Calwell Park & Ride Johnson Dr,-35.433499,149.111284,790
+79,1092,Casey Cr opp Calwell HS,-35.441119,149.115918,470
+80,1093,Johnson Dr Opp Calwell Park & Ride,-35.433209999999995,149.112594,431
+81,1094,St Francis of Assisi PS Casey Cr,-35.441065,149.11888100000002,474
+82,1095,Were St before Tharwa Dr,-35.440384,149.12072,480
+83,1096,Were St after Tharwa Dr,-35.440535,149.120676,468
+84,1109,Louis Loder St at 1st Vonwiller Cr,-35.445646,149.116782,465
+85,1110,Louis Loder St before 2nd Hartung Cr,-35.445576,149.11667,476
+86,1111,Louis Loder St after 2nd Mehaffey Cr,-35.446537,149.114521,476
+87,1112,Louis Loder St opp 1st Hartung Cr,-35.446523,149.114891,465
+88,1113,Louis Loder St after 1st Cochrane Cr,-35.44801,149.115224,465
+89,1114,44 Louis Loder St,-35.448128000000004,149.115262,476
+90,1115,Louis Loder St before 2nd Vonwiller Cr,-35.450545,149.117412,465
+91,1116,Louis Loder St at 2nd Conlon Cr,-35.450595,149.117269,476
+92,1117,Clift Cr before Johnson Dr,-35.43325,149.118429,421
+93,1118,Clift Cr after Johnson Dr,-35.433112,149.11822800000002,423
+94,1119,Clift Cr after 2nd Chauncy Cr,-35.431157,149.119171,423
+95,1120,Clift Cr after Fullerton Cr,-35.431117,149.119349,421
+96,1121,Deamer Cr before Meeson St,-35.429241,149.12143899999998,373
+97,1122,Deamer Cr before Clift Cr,-35.429355,149.12094199999999,388
+98,1123,Deamer Cr before 2nd Twamley Cr,-35.430849,149.123538,373
+99,1124,Deamer Cr opp 1st Twamley Cr,-35.430915,149.123421,388
+100,1125,69 Deamer Cr,-35.431494,149.127065,373
+101,1126,Deamer Cr opp 69,-35.431723999999996,149.126983,388
+102,1127,Deamer Cr opp 1st Nina Jones Cr,-35.429424,149.128794,373
+103,1128,Deamer Cr after 2nd Nina Jones Cr,-35.429786,149.128673,388
+104,1129,Deamer Cr after Heagney Cr,-35.427319,149.129802,388
+105,1130,Deamer Cr before Heagney Cr,-35.427189,149.12961299999998,373
+106,1131,Heagney Cr before Deamer Cr,-35.426486,149.130996,388
+107,1132,Heagney Cr opp Deamer Cr,-35.426567,149.130245,373
+108,1133,Heagney Cr before 2nd Couchman Cr,-35.424588,149.13321200000001,388
+109,1134,Heagney Cr before Enid Lorimer Cct,-35.424695,149.133027,373
+110,1135,Heagney Cr before 1st Couchman Cr,-35.423045,149.13492,388
+111,1136,Heagney Cr after Enid Lorimer Cct,-35.423025,149.13453,373
+112,1137,Heagney Cr after 1st Henry Melville Cr,-35.421378999999995,149.13599399999998,388
+113,1138,Heagney Cr after 2nd Emily Bulcock Cr,-35.420927,149.136018,373
+114,1139,Heagney Cr opp Gilmore PS,-35.419229,149.136097,388
+115,1140,Gilmore PS Heagney Cr,-35.419093,149.135985,373
+116,1143,Proctor St opp Maclean St,-35.415211,149.12515,379
+117,1144,Proctor St after MacLean St,-35.415327000000005,149.125257,393
+118,1147,Chisholm Shops Benham St,-35.414421000000004,149.129066,820
+119,1148,Benham St opp Chisholm Shops,-35.414484,149.129233,1166
+120,1149,Coyne St before Carson St,-35.409005,149.127953,756
+121,1150,Coyne St opp Carson St,-35.409158000000005,149.127772,728
+122,1151,19 Coyne St,-35.409167,149.123106,756
+123,1152,Coyne St opp 19,-35.409226000000004,149.122726,728
+124,1153,Bugden Av before 2nd Larcombe Cr,-35.406964,149.12043300000002,433
+125,1154,Bugden Av before Coyne St,-35.406757,149.120472,443
+126,1155,Bugden Av before 2nd Demaine Cr,-35.404229,149.122455,433
+127,1156,Bugden Av after Fihelly St,-35.404353,149.121963,443
+128,1157,Bugden Av before 1st Mullan St,-35.402395,149.124135,433
+129,1158,Bugden Av opp 2nd Mullan St,-35.401345,149.12354299999998,443
+130,1159,Bugden Av after 2nd Mullan St,-35.398518,149.122122,433
+131,1160,Bugden Av opp 309,-35.398528999999996,149.122194,443
+132,1161,Bugden Av after 1st Dash Cr,-35.400242,149.115685,433
+133,1162,Bugden Av after Partridge St,-35.401436,149.114272,396
+134,1163,Bugden Av opp 2nd Maughan Cr,-35.40132,149.112769,429
+135,1164,Bugden Av before 2nd Maughan Cr,-35.401832,149.110301,396
+136,1165,Bugden Av after 1st Appel Cr,-35.401740999999994,149.110016,429
+137,1166,Bugden Av after Sternberg Cr,-35.40265,149.107483,429
+138,1167,Bugden Av before Sternberg Cr,-35.402691,149.10755600000002,396
+139,1168,Bugden Av before 2nd Appel Cr,-35.39954,149.115823,443
+140,1170,Sternberg Cr after Erindale Dr,-35.402260999999996,149.103288,402
+141,1171,Sternberg Cr after Ashley Dr,-35.401941,149.100575,782
+142,1172,Erindale Interchange Plt 1,-35.403649,149.099162,2392
+143,1173,Erindale Interchange Plt 2,-35.403801,149.09937299999999,2785
+144,1174,Sternberg Cr before Maltby Cct,-35.401992,149.102749,416
+145,1176,Erindale College McBryde Cr,-35.403907000000004,149.095995,872
+146,1177,McBryde Cr opp Erindale College,-35.404013,149.095842,885
+147,1178,Amsinck St after McBryde Cr,-35.405553999999995,149.093547,513
+148,1179,Amsinck St before McBryde Cr,-35.405601000000004,149.093296,505
+149,1180,MacKillop College McBryde Cr,-35.406139,149.09058100000001,497
+150,1181,McBryde Cr opp MacKillop College,-35.406264,149.090564,502
+151,1182,Woodcock Dr before Clare Dennis Av,-35.441863,149.086183,508
+152,1183,Woodcock Dr opp Clare Dennis Av,-35.441691999999996,149.086154,529
+153,1184,Clare Dennis Av before Armbruster St,-35.443044,149.085974,516
+154,1185,Clare Dennis Av before 1st Fred Ln Cr,-35.445159000000004,149.0878,516
+155,1186,Clare Dennis Av before 2nd Fred Ln Cr,-35.446768,149.086077,516
+156,1187,Clare Dennis Av before Preddey Way,-35.447089,149.08383999999998,516
+157,1188,Lewis Luxton Av after Preddy Way,-35.448402,149.086122,516
+158,1189,Lewis Luxton Av opp Blinkhorn Pl,-35.450435999999996,149.08909,516
+159,1190,Lewis Luxton Av opp 2nd Cerutty Cr,-35.452903000000006,149.08796999999998,516
+160,1191,Knoke Av opp Gordon PS,-35.458121000000006,149.086118,538
+161,1192,Knoke Av before Oxenham Cct,-35.460578000000005,149.08565900000002,538
+162,1193,Knoke Av after Jim Pike Av,-35.462281,149.083208,538
+163,1194,Jim Pike Av before Clem Hill St,-35.462016,149.079911,1056
+164,1195,Callaway Cr at 1st Myles Connell Cr,-35.459068,149.080047,1056
+165,1196,39 Callaway Cr,-35.460035999999995,149.081737,1056
+166,1197,Bugden Av after 2nd Chataway Cr,-35.398638,149.117563,433
+167,1198,Bugden Av opp 1st Chataway Cr,-35.398045,149.118252,443
+168,1199,Knoke Av after Clem Hill St,-35.464786,149.08418799999998,538
+169,1200,Knoke Av after 2nd Harry Hopman Cct,-35.467259000000006,149.087641,538
+170,1201,Knoke Av after 1st Harry Hopman Cct,-35.472807,149.089281,538
+171,1202,Pockett Av after Bellchambers Cr,-35.474078000000006,149.093168,537
+172,1203,Pockett Av after Wilson Cr,-35.471702,149.096924,1046
+173,1204,Pockett Av after 2nd Ironbark Cr,-35.469475,149.097634,536
+174,1205,Pockett Av after Perrin Cct,-35.467558000000004,149.09536200000002,536
+175,1206,Pockett Av before Thomas Hart St,-35.46528,149.094099,536
+176,1207,Tom Roberts Av before Box Hill Av,-35.463823,149.096494,539
+177,1208,Tom Roberts Av opp Charles Conder PS,-35.465324,149.098411,539
+178,1210,Tom Roberts Av before Jane Sutherland St,-35.466303,149.10560700000002,540
+179,1211,Tom Roberts Av before 1st Templestowe Av,-35.462228,149.10519299999999,540
+180,1212,Tom Roberts Av opp John Russell Cct,-35.461222,149.10220800000002,540
+181,1213,Tom Roberts Av after Box Hill Av,-35.460419,149.099253,540
+182,1214,Tom Roberts Av after 1st Beaumaris St,-35.466403,149.10041999999999,512
+183,1215,Box Hill Av opp Lanyon Marketplace,-35.456171000000005,149.09249499999999,1598
+184,1216,Box Hill Av opp St Clare of Assisi PS,-35.457716,149.097362,1582
+185,1217,Lanyon Marketplace Box Hill Av,-35.456354,149.09246299999998,1347
+186,1218,St Clare of Assisi PS Box Hill Av,-35.457981,149.097464,1561
+187,1219,Tom Roberts Av before Box Hill Av,-35.46047,149.09901499999998,514
+188,1220,Tom Roberts Av before Altson Cct,-35.461296999999995,149.10181,514
+189,1221,Tom Roberts Av before Lethbridge St,-35.462199,149.104985,514
+190,1223,Charles Conder PS Tom Roberts Av,-35.464853999999995,149.097978,512
+191,1224,Pockett Av before Box Hill Av,-35.464987,149.093953,515
+192,1225,Pockett Av before 2nd Tregellas Cr,-35.46759,149.095269,515
+193,1226,Pockett Av opp Wiburd St,-35.470394,149.097662,1052
+194,1227,Banks Shops Pockett Av,-35.472431,149.095951,1052
+195,1228,Pockett Av before Brockway Cct,-35.473496999999995,149.091731,516
+196,1229,Knoke Av after Coventry Cl,-35.472849,149.08945400000002,518
+197,1230,Knoke Av after Minnett Cl,-35.470765,149.088898,518
+198,1231,Knoke Av opp O'Hara Cl,-35.470876000000004,149.088786,538
+199,1232,Knoke Av before 2nd Mina Wylie Cr,-35.467176,149.087682,518
+200,1233,Knoke Av before Matson St,-35.46567,149.085585,518
+201,1234,Knoke Av opp Jim Pike Av,-35.461984,149.08364699999998,518
+202,1235,Knoke Av after Midge St,-35.460663000000004,149.085728,518
+203,1237,Lewis Luxton Av before 1st Cerutty Cr,-35.452995,149.087346,537
+204,1238,Lewis Luxton Av before Blinkhorn Pl,-35.450896,149.089342,537
+205,1239,61 Lewis Luxton Av,-35.448733000000004,149.087143,537
+206,1240,Preddy Way at Fingleton Cr,-35.448164,149.084205,537
+207,1241,Clare Dennis Av before 2nd Noel Ryan Gdn,-35.446543,149.085447,537
+208,1242,Clare Dennis Av opp Churchill Way,-35.444641,149.087167,537
+209,1243,Clare Dennis Av after Woodfull Lp,-35.44312,149.085845,537
+210,1246,Cooleman Court Terminus,-35.340841999999995,149.05234099999998,960
+211,1248,Streeton Dr before 1st Fremantle Dr,-35.34468,149.047096,444
+212,1249,Streeton Dr before Hindmarsh Dr,-35.344613,149.04703600000002,443
+213,1250,Fremantle Dr after Streeton Dr,-35.346407,149.04693600000002,444
+214,1251,Fremantle Dr before Streeton Dr,-35.3466,149.047038,443
+215,1252,Fremantle Dr before Bunbury St,-35.348284,149.049235,444
+216,1253,Fremantle Dr opp 1st McKail Cr,-35.347359999999995,149.048194,443
+217,1258,Namatjira Dr opp St John Vianney,-35.352146000000005,149.053761,388
+218,1259,Namatjira Dr after Streeton Dr,-35.355188,149.050493,833
+219,1260,St John Vianney Namatjira Dr,-35.351921999999995,149.05415,394
+220,1261,Tom Roberts Av after Wiburd St,-35.466561,149.100512,539
+221,1262,Wiburd St before Pockett Av,-35.469931,149.098659,510
+222,1263,Namatjira Dr after Badimara St,-35.355115000000005,149.050801,840
+223,1264,Namatjira Dr opp Perry Dr,-35.35848,149.047931,800
+224,1265,Namatjira Dr before Kapunda St,-35.360591,149.047806,395
+225,1266,Namatjira Dr opp 204,-35.363484,149.04971899999998,395
+226,1267,241 Namatjira Dr,-35.366088,149.051516,395
+227,1268,Namatjira Dr opp 241,-35.366007,149.051368,389
+228,1269,Namatjira Dr after Perry Dr,-35.358207,149.047876,804
+229,1270,Namatjira Dr before Perry Dr,-35.360443,149.04765700000002,389
+230,1271,204 Namatjira Dr,-35.363559,149.049614,389
+231,1272,Kambah Pool Rd after Sulwood Dr,-35.375136,149.048963,603
+232,1273,Kambah Pool Rd after Barritt St,-35.37534,149.04861499999998,603
+233,1274,Barritt St after Kambah Pool Rd,-35.377990999999994,149.048365,607
+234,1275,Barritt St before Kambah Pool Rd,-35.378093,149.048299,608
+235,1276,Barritt St before Boddington Cr,-35.380209,149.05186,607
+236,1277,Barritt St after Boddington Cr,-35.379861,149.051195,608
+237,1278,Boddington Cr before Barritt St,-35.381211,149.05177700000002,420
+238,1279,Boddington Cr after Carleton St,-35.382090999999996,149.051152,421
+239,1280,Boddington Cr opp Carleton St,-35.382089,149.05128100000002,420
+240,1281,Boddington Cr before 1st Castley Cct,-35.385031,149.05056399999998,420
+241,1282,Boddington Cr after 2nd Crozier Cct,-35.385778,149.05041599999998,421
+242,1283,Boddington Cr after 2nd Castley Cct,-35.389283,149.05164299999998,420
+243,1284,Boddington Cr after Bateman St,-35.389192,149.051368,421
+244,1285,Boddington Cr opp McLeod Pl,-35.390043,149.05365600000002,420
+245,1286,Boddington Cr opp Broad Pl,-35.389199,149.056659,420
+246,1287,Boddington Cr after McLeod Pl,-35.390316,149.053797,421
+247,1288,Boddington Cr before Broad Pl,-35.389395,149.05715800000002,421
+248,1289,O'Halloran Cct opp Boddington Cr,-35.390376,149.05903600000002,420
+249,1290,O'Halloran Cct before Boddington Cr,-35.390364,149.058859,421
+250,1291,O'Halloran Cct after 2nd Springbett St,-35.392912,149.058194,420
+251,1292,O'Halloran Cct before 2nd McKillop Cct,-35.393119,149.058008,421
+252,1293,O'Halloran Cct before 1st Snodgrass Cr,-35.395621999999996,149.059255,420
+253,1294,O'Halloran Cct opp 2nd Snodgrass Cr,-35.395814,149.059279,421
+254,1295,O'Halloran Cct before Vansittart Cr,-35.395790000000005,149.06288600000002,420
+255,1296,O'Halloran Cct after Vansittart Cr,-35.395919,149.062892,421
+256,1297,O'Halloran Cct before Ashby Cct,-35.394099,149.065924,833
+257,1298,O'Halloran Cct opp Ashby Cct,-35.393972,149.065792,831
+258,1299,O'Halloran Cct opp Namadgi School,-35.393073,149.067676,835
+259,13,Tuggeranong Interchange Arrivals,-35.414871000000005,149.06603,6330
+260,1300,Namadgi School O'Halloran Cct,-35.392579,149.068207,831
+261,1301,Summerland Cct after Vanzetti Cr,-35.391096000000005,149.071581,419
+262,1302,Summerland Cct before 1st Kingsmill St,-35.390978999999994,149.071495,414
+263,1303,Summerland Cct before 2nd Kingsmill St,-35.390028,149.073554,414
+264,1304,Summerland Cct after Livingston Av,-35.390173,149.073483,419
+265,1319,Wheeler Cr before Wanniassa HS,-35.394195,149.08436899999998,212
+266,1320,St Anthonys PS Wheeler Cr,-35.394895,149.080012,206
+267,1321,Wheeler Cr after Wanniassa HS,-35.394279,149.08497,211
+268,1322,Wheeler Cr opp St Anthonys PS,-35.394982,149.079947,209
+269,1323,Fincham Cr after Morrissey St,-35.396159999999995,149.078911,434
+270,1324,Fincham Cr after Wheeler Cr,-35.3963,149.079126,448
+271,1325,Fincham Cr before Stutt St,-35.398613,149.080301,448
+272,1326,Fincham Cr after 1st DeGraves Cr,-35.398902,149.08051799999998,434
+273,1327,Forlonge St after Fincham Cr,-35.401053999999995,149.081262,312
+274,1328,Forlonge St before Gair Pl,-35.401413,149.080926,303
+275,1335,Sternberg Cr opp Houston St,-35.402386,149.09281000000001,876
+276,1336,Sternberg Cr opp Whiteman Cr,-35.4012,149.09498200000002,876
+277,1337,Sternberg Cr before Houston St,-35.40235,149.09272099999998,884
+278,1338,Sternberg Cr after Whiteman St,-35.401034,149.095201,884
+279,1339,Sternberg Cr after Langdon Av,-35.401439,149.098251,1822
+280,1340,Sternberg Cr after Comrie St,-35.401696,149.098671,1778
+281,1341,Drakeford Dr after Boddington Cr,-35.377342999999996,149.056195,293
+282,1342,Drakeford Dr before Marconi Cr,-35.377347,149.056592,301
+283,1343,Marconi Cr opp Kambah Village,-35.378927000000004,149.057634,418
+284,1344,Kambah Village Marconi Cr,-35.379135999999995,149.057769,414
+285,1345,Marconi Cr before 2nd Harrington Cct,-35.377833,149.06063600000002,419
+286,1346,Marconi Cr after Wyselaskie Cct,-35.378267,149.06011,414
+287,1347,Marconi Cr opp Taylor PS,-35.377614,149.064032,419
+288,1348,Taylor PS Marconi Cr,-35.377741,149.06406,414
+289,1349,Marconi Cr after 2nd Lascelles Cct,-35.378684,149.065348,414
+290,1350,Marconi Cr after Inkster St,-35.378728,149.06549099999998,419
+291,1351,Marconi Cr after 1st Lascelles Cct,-35.381701,149.065314,414
+292,1352,Marconi Cr after Hutchison Cr,-35.381402,149.065583,419
+293,1353,Summerland Cct before Hutchison Cr,-35.383371999999994,149.06747,419
+294,1354,Summerland Cct opp Hutchison Cr,-35.383463,149.067486,414
+295,1355,Summerland Cct before Mannheim St,-35.384914,149.070892,419
+296,1356,Summerland Cct before 1st Gallagher St,-35.385020000000004,149.071134,414
+297,1357,Summerland Cct after 2nd Lee-Steere Cr,-35.387624,149.075039,419
+298,1358,Summerland Cct opp 1st Lee-Steere Cr,-35.387515,149.074926,414
+299,1359,Langdon Av after Dyer Pl,-35.392409,149.089645,804
+300,1360,Langdon Av after Macbain St,-35.392319,149.089323,822
+301,1361,Langdon Av before Carr Cr,-35.392568,149.093016,822
+302,1362,Langdon Av before Billson Pl,-35.392174,149.09368500000002,804
+303,1363,Wanniassa Hills PS Langdon Av,-35.392151,149.095783,804
+304,1364,Langdon Av opp Wanniassa Hills PS,-35.392879,149.09656,822
+305,1365,Langdon Av after Gaunson Cr,-35.396342,149.09638700000002,822
+306,1366,Langdon Av after Kirkton St,-35.396096,149.09623100000002,804
+307,1367,Langdon Av before 2nd Brunton St,-35.397873,149.09741699999998,944
+308,1368,Langdon Av before Longmore Cr,-35.397754,149.09741599999998,957
+309,1369,Langdon Av before Embling St,-35.40037,149.097398,902
+310,1370,Langdon Av before Bussau Cl,-35.400017,149.097735,938
+311,1371,Drakeford Dr after Mortimer Lewis Dr,-35.402577,149.074423,459
+312,1372,Drakeford Dr before Taverner St,-35.401228,149.074572,464
+313,1373,Drakeford Dr after Taverner St,-35.408028,149.07353899999998,464
+314,1374,Drakeford Dr after Soward Way,-35.408348,149.07307600000001,459
+315,1375,Athllon Dr before Reed St,-35.418158,149.064405,4794
+316,1376,Hindmarsh Dr after Ball St,-35.348742,149.08783,2207
+317,1400,Newman-Morris Cct opp 2nd Connibere Cr,-35.407463,149.075673,446
+318,1401,Newman-Morris Cct before 1st Connibere Cr,-35.407218,149.07568999999998,438
+319,1402,Newman-Morris Cct before 1st Singleton Cr,-35.410852,149.075058,438
+320,1403,77 Newman-Morris Cct,-35.410988,149.075168,446
+321,1404,Newman-Morris Cct after 1st Collocott Cr,-35.413455,149.07607099999998,438
+322,1405,Newman-Morris Cct opp 2nd Collocott Cr,-35.413534999999996,149.076332,446
+323,1406,Newman-Morris Cct before 2nd Cuthbertson Cr,-35.412838,149.079376,446
+324,1407,Newman-Morris Cct before 2nd Maconochie Cr,-35.413294,149.078626,438
+325,1408,Lakeside Leisure Centre Anketell St,-35.41215,149.063186,2488
+326,1409,Learmonth Dr after Vansittart Cr,-35.401969,149.060866,414
+327,1410,Learmonth Dr opp Vansittart Cr,-35.402084,149.060775,411
+328,1411,Vansittart Cr after 1st Stieglitz Cct,-35.400156,149.062603,414
+329,1412,Vansittart Cr after 1st Ragless Cct,-35.400089,149.06246399999998,411
+330,1413,Learmonth Dr after Athllon Dr,-35.403181,149.063357,411
+331,1414,Learmonth Dr before Athllon Dr,-35.403084,149.06351999999998,414
+332,1415,Vansittart Cr opp Pinkerton Cct,-35.397225,149.064054,411
+333,1416,Vansittart Cr before Pinkerton Cct,-35.397462,149.064247,414
+334,1417,Tuggeranong Pkwy after Sulwood Dr,-35.373045,149.056882,507
+335,1418,Tuggeranong Pkwy before Sulwood Dr,-35.372603999999995,149.057409,275
+336,1435,Clive Steele Av before 2nd Priddle St,-35.410718,149.100686,441
+337,1436,Clive Steele Av opp 1st Priddle St,-35.410892,149.100719,440
+338,1437,Clive Steele Av opp 2nd Brain St,-35.41236,149.100027,441
+339,1438,Clive Steele Av before 2nd Brain St,-35.412884999999996,149.099366,440
+340,1439,Clive Steele Av before 2nd Fraenkel St,-35.414112,149.09704299999999,441
+341,1440,Clive Steele Av before 2nd Coode St,-35.414441,149.09673999999998,440
+342,1441,Monash Shops Cockcroft Av,-35.417059,149.098237,309
+343,1442,Cockcroft Av opp Monash Shops,-35.416742,149.098198,305
+344,1443,Cockcroft Av before Kneeshaw St,-35.419885,149.097304,309
+345,1444,Goodwin Aged Care Cockcroft Av,-35.419751,149.09704299999999,305
+346,1445,Charleston St after 2nd William Hudson Cr,-35.416281,149.079178,757
+347,1446,Charleston St after Blakey Cl,-35.416263,149.07936,731
+348,1447,Charleston St before 1st William Hudson Cr,-35.418192,149.082438,757
+349,1448,Charleston St after Hallstrom Cct,-35.41809,149.082409,731
+350,1449,Clive Steele Av before 1st Balsillie Cr,-35.416677,149.086218,440
+351,1450,Clive Steele Av opp 2nd Balsillie Cr,-35.41661,149.086533,448
+352,1451,Clive Steele Av before 2nd Balsillie Cr,-35.416239000000004,149.088005,440
+353,1452,Clive Steele Av before Harkness St,-35.416298,149.088358,448
+354,1453,Monash PS Corlette Cr,-35.41534,149.08956899999998,447
+355,1454,Corlette Cr after Hebblewhite St,-35.414164,149.087577,447
+356,1456,Corlette Cr opp Monash PS,-35.414787,149.088975,439
+357,1457,Corlette Cr opp Hebblewhite St,-35.414229,149.08727199999998,439
+358,1458,Hebblewhite St after Forwood St,-35.411989,149.087664,447
+359,1459,Hebblewhite St before Burnell Pl,-35.412096000000005,149.087407,439
+360,1460,Harricks Cr after 1st Michell St,-35.410713,149.091178,447
+361,1461,Harricks Cr after 1st Michell St,-35.410765000000005,149.09088300000002,439
+362,1462,Harricks Cr after 1st Cracknell St,-35.408807,149.092679,447
+363,1463,Harricks Cr opp 2nd Cracknell St,-35.408936,149.092449,439
+364,1465,MacKillop College MacKinnon St SSO,-35.40532,149.08965,95
+365,1466,Wheeler Cr after Sternberg Cr,-35.402337,149.09178300000002,446
+366,1467,Wheeler Cr before Hanna St,-35.400526,149.089227,446
+367,1468,Wheeler Cr before Sternberg Cr,-35.402094,149.09179699999999,448
+368,1469,Wheeler Cr opp Hanna St,-35.400409,149.089292,448
+369,1470,Wheeler Cr after Guthridge Cr,-35.398153,149.088372,446
+370,1471,Wheeler Cr after Kirkton St,-35.398117,149.088481,448
+371,1472,Wanniassa HS Wheeler Cr,-35.394803,149.086693,299
+372,1473,Wheeler Cr opp Wanniassa HS,-35.394653000000005,149.086594,308
+373,1486,Clift Cr after Ashley Dr,-35.424738,149.104019,582
+374,1487,Clift Cr before Ashley Dr,-35.424896999999994,149.104043,615
+375,1488,29 Clift Cr,-35.42628,149.107056,582
+376,1489,Clift Cr opp 29,-35.426372,149.10704199999998,615
+377,1490,Clift Cr before 2nd Kiddle Cr,-35.427562,149.109589,582
+378,1491,Clift Cr opp 1st Kiddle Cr,-35.427624,149.10978,615
+379,1492,Clift Cr before Heagney Cr,-35.426282,149.11228799999998,582
+380,1493,Clift Cr opp Heagney Cr,-35.426308,149.112478,615
+381,1494,Heagney Cr before Beattie Cr,-35.425383000000004,149.114077,634
+382,1495,Heagney Cr before 2nd Mclorinan St,-35.425238,149.114285,650
+383,1496,Beattie Cr before 2nd McBurney Cr,-35.422762,149.112019,385
+384,1497,Beattie Cr before Swanton St,-35.423058000000005,149.112178,409
+385,1498,Beattie Cr after Hemmings Cr,-35.420984000000004,149.113621,385
+386,1499,Beattie Cr opp Hemmings Cr,-35.420965,149.113865,409
+387,1500,Beattie Cr after Goldstein Cr,-35.418313,149.115569,409
+388,1501,Beattie Cr after 2nd Longman St,-35.418601,149.115219,385
+389,1504,Gowrie Shops Castleton Cr,-35.41387,149.109327,433
+390,1505,Castleton Cr opp Gowrie Shops,-35.414013,149.109397,410
+391,1506,Castleton Cr after 2nd Wheatley St,-35.412065999999996,149.105807,433
+392,1507,Castleton Cr opp 1st Wheatley St,-35.411981,149.105556,410
+393,1508,Castleton Cr before Easterbrook Pl,-35.409963,149.10488600000002,410
+394,1509,Castleton Cr opp Easterbrook Pl,-35.410090000000004,149.104967,433
+395,1510,Castleton Cr after Farcomb Pl,-35.407348999999996,149.10646599999998,451
+396,1511,Castleton Cr after Middleton Cct,-35.407182,149.106505,428
+397,1512,Castleton Cr after Peeler Pl,-35.406056,149.11105600000002,427
+398,1513,Castleton Cr before Wray Pl,-35.406197,149.111205,450
+399,1529,Bugden Av after Mactier Pl,-35.414471,149.104533,416
+400,1530,Bugden Av opp Denehy Pl,-35.414685,149.10460600000002,429
+401,1531,Bugden Av after 1st Dalziel St,-35.417136,149.10485500000001,416
+402,1532,Bugden Av after 1st Stacey St,-35.416934999999995,149.10478700000002,429
+403,1533,Bugden Av after 2nd Dalziel St,-35.418079,149.10738500000002,416
+404,1534,Bugden Av before 1st Ingram St,-35.417955,149.107856,429
+405,1535,Bugden Av after Beardsmore Pl,-35.415811,149.10984,416
+406,1536,Bugden Av before 2nd Galleghan Cct,-35.415728,149.110049,429
+407,1537,Norriss St after 1st Woodburn St,-35.416852,149.117772,379
+408,1538,Norriss St opp 2nd Woodburn St,-35.416911999999996,149.117961,393
+409,1539,Norriss St opp Caroline Chisholm Senior School,-35.416431,149.121032,379
+410,1540,Caroline Chisholm Senior School Norriss St,-35.416575,149.120836,393
+411,1542,Hambidge Cr before Proctor St,-35.416041,149.130189,423
+412,1543,Hambidge Cr opp 64,-35.418268,149.12721200000001,433
+413,1544,64 Hambidge Cr,-35.418096999999996,149.12733500000002,423
+414,1545,Hambidge Cr after 1st Alice Jackson Cr,-35.416602000000005,149.129855,433
+415,1546,Baskerville St after Hambidge Cr,-35.41953,149.125425,370
+416,1547,Baskerville St before Hambidge Cr,-35.419584,149.12533100000002,378
+417,1548,Baskerville St before 1st Laughton St,-35.422051,149.12438999999998,378
+418,1549,Baskerville St opp 2nd Laughton St,-35.421960999999996,149.124524,370
+419,1550,Heagney Cr after Alston St,-35.424281,149.123477,378
+420,1551,Heagney Cr after 1st Muntz St,-35.424407,149.123683,370
+421,1552,Heagney Cr after Goldstein Cr,-35.424252,149.121332,378
+422,1553,Heagney Cr before 1st Moffin St,-35.424343,149.121259,370
+423,1554,Heagney Cr after 2nd Mofflin St,-35.424314,149.11744199999998,371
+424,1555,Heagney Cr opp 2nd McLorinan St,-35.4242,149.117209,379
+425,1556,Richardson Shops Clift Cr,-35.427259,149.115792,583
+426,1557,Clift Cr after Deamer Cr,-35.428668,149.118497,583
+427,1558,Clift Cr before Meeson St,-35.428604,149.11858,566
+428,1559,Clift Cr opp Richardson Shops,-35.427334,149.116004,566
+429,1560,Louisa Lawson Cr before Gellatly Pl,-35.417691,149.137217,323
+430,1561,Louisa Lawson Cr after 1st May Maxwell Cr,-35.4176,149.13726,308
+431,1562,Louisa Lawson Cr after Fenston Pl,-35.416144,149.13943799999998,323
+432,1563,Louisa Lawson Cr opp Fenston Pl,-35.416088,149.13935800000002,308
+433,1564,Louisa Lawson Cr before 1st Aronson Cr,-35.412316,149.137509,308
+434,1565,Louisa Lawson Cr after 2nd Willoughby Cr,-35.412259000000006,149.1374,323
+435,1566,Louisa Lawson Cr before 2nd Willoughby Cr,-35.412511,149.135275,323
+436,1567,Louisa Lawson Cr after 1st Aronson Cr,-35.412578,149.135104,308
+437,1568,Louisa Lawson Cr before 2nd Aronson Cr,-35.413875,149.133002,308
+438,1569,Louisa Lawson Cr before Litchfield Pl,-35.413853,149.132904,323
+439,1576,Duggan St after Outtrim Av,-35.436524,149.09774299999998,466
+440,1577,Duggan St before Outtrim Av,-35.436485,149.097607,477
+441,1596,Newman-Morris Cct before Taverner St,-35.404247,149.077479,464
+442,1597,Newman-Morris Cct after Taverner St,-35.404262,149.077609,477
+443,1599,McBryde Cr opp Trinity Christian School,-35.407416,149.087085,432
+444,1600,Trinity Christian School McBryde Cr,-35.407527,149.086841,467
+445,1601,Ashley Dr before Michaelis Ct,-35.403464,149.10163899999998,379
+446,1602,Ashley Dr before Lansell Cct,-35.403512,149.101825,199
+447,1606,Calwell HS Casey Cr,-35.441239,149.116884,484
+448,1608,St Clares College McMillan Cr SSO,-35.323219,149.146183,6
+449,1609,St Edmunds College McMillan Cr SSO,-35.323215000000005,149.14603300000002,3
+450,1615,Holy Family PS Castleton Cr,-35.410953000000006,149.115701,132
+451,1630,Laurens St before McBryde Cr,-35.406727000000004,149.08428999999998,432
+452,1631,Laurens St after McBryde Cr,-35.40687,149.084323,437
+453,1637,Weston Creek Terminus Hindmarsh Dr,-35.343932,149.027668,1441
+454,1638,Forsythe St before Pockett Av,-35.47449,149.094704,538
+455,1639,Forsythe St after Pockett Av,-35.474525,149.094926,511
+456,1641,Lanyon Marketplace Terminus,-35.456203,149.092232,735
+457,1642,Barraclough Cr opp Goodwin Village,-35.416332000000004,149.096259,439
+458,1649,Lawrence Wackett Cr before Tharwa Dr,-35.442646,149.122636,280
+459,1650,Lawrence Wackett Cr after Scantlebury Cr,-35.442652,149.122792,479
+460,1651,Goodwin Village Barraclough Cr,-35.41628,149.095901,440
+461,1660,Barr Smith Av after 1st Derrington Cr,-35.432228,149.07665,724
+462,1661,Barr Smith Av before 2nd Derrington Cr,-35.431019,149.07484499999998,724
+463,1666,Gordon PS Knoke Av,-35.458172,149.08623899999998,518
+464,1667,Duggan St before Downard St,-35.438992,149.098285,466
+465,1668,Duggan St before Pennington Cr,-35.439074,149.0982,477
+466,1669,Clive Steele Av opp 187,-35.41987,149.085653,309
+467,1670,189 Clive Steele Av,-35.419968,149.085854,291
+468,1671,Clive Steele Av opp Falconer St,-35.421359,149.088592,309
+469,1672,Clive Steele Av after Falconer St,-35.421377,149.08875,291
+470,1675,Forsythe St after Bellchambers Cr,-35.475141,149.09761899999998,538
+471,1676,Forsythe St after 1st Smeaton Cct,-35.474882,149.09715400000002,511
+472,1677,Forsythe St after 2nd Olive Pink Cr,-35.476552000000005,149.099793,538
+473,1678,Forsythe St after 2nd Smeaton Cct,-35.476442999999996,149.09981499999998,511
+474,1679,Forsythe St after 2nd Alison Ashby Cr,-35.475241,149.101068,538
+475,1680,73 Forsythe St,-35.474990000000005,149.100909,511
+476,1681,Paperbark St after Galbraith Cl,-35.472398999999996,149.103205,538
+477,1682,Paperbark St after Troughton St,-35.472405,149.103104,511
+478,1683,Paperbark St before 2nd Kettlewell Cr,-35.469198999999996,149.104669,538
+479,1684,Paperbark St opp 1st Kettlewell Cr,-35.469854999999995,149.104424,511
+480,1685,Paperbark St after 1st Kettlewell Cr,-35.468348999999996,149.10568899999998,538
+481,1686,Paperbark St before Jane Sutherland St,-35.468242,149.105985,511
+482,1687,Templestowe Av after Eaglemont Rt,-35.463891,149.111349,539
+483,1688,Templestowe Av opp Eaglemont Rt,-35.46383,149.111208,513
+484,1689,Templestowe Av after 2nd Barringer St,-35.462639,149.10978899999998,539
+485,1690,Templestowe Av opp 2nd Barringer St,-35.462751000000004,149.10949399999998,513
+486,1691,Templestowe Av after 1st Barringer St,-35.462497,149.107923,539
+487,1692,Templestowe Av opp 2nd Barringer St,-35.462229,149.107194,513
+488,1696,Barr Smith Av opp 2nd Derrington Cr,-35.432179999999995,149.076794,697
+489,1697,Barr Smith Av opp 1st Derrington Cr,-35.430952000000005,149.075074,697
+490,1698,Bugden Av opp Holy Family PS,-35.410007,149.118394,297
+491,1699,Holy Family PS Bugden Av,-35.410011,149.118277,315
+492,1708,City Interchange Plt 7 Arrivals,-35.278027,149.13081499999998,178
+493,1721,City Interchange Plt 11 Arrivals,-35.279332000000004,149.13042099999998,626
+494,1723,City Interchange Arrivals,-35.278552000000005,149.130596,4070
+495,1734,Canberra Hospital Hospital Rd,-35.346021,149.101947,1166
+496,1736,UC Public Hospital Thirriwirri St,-35.233663,149.08193899999998,70
+497,1737,Thirriwirri St opp UC Public Hospital,-35.233762,149.081085,68
+498,1738,Pantowora St before Allawoona St,-35.234349,149.086534,70
+499,1739,Pantowora St after Allawoona St,-35.234327,149.08626999999998,68
+500,1766,Barrier St before Ipswich St,-35.326234,149.16751299999999,371
+501,1768,Barrier St opp Isa St,-35.327690000000004,149.170232,371
+502,1770,Barrier St before Pirie St,-35.326446999999995,149.168193,361
+503,1771,Barrier St before Isa St,-35.327768,149.170613,361
+504,1772,Newcastle St after Isa St,-35.325413,149.17259099999998,361
+505,1776,Battye St opp CIT Bruce,-35.246442,149.096983,649
+506,1777,Langton Cr before King Edward Tce,-35.298929,149.127197,268
+507,1778,Langton Cr after Newlands St,-35.299451,149.127409,272
+508,1790,Anthony Rolfe Av after Gundaroo Rd,-35.18271,149.130429,2500
+509,1791,Summerland Cct after Mannheim St,-35.385383000000004,149.073318,419
+510,1792,Summerland Cct after Mason St,-35.385438,149.073249,414
+511,1802,North Weston Park & Ride,-35.32168,149.05829599999998,845
+512,1803,Tuggeranong Interchange Plt 3,-35.414718,149.06576299999998,1343
+513,1804,Tuggeranong Interchange Plt 4,-35.414423,149.06555600000002,1912
+514,1807,Tuggeranong Interchange Plt 7,-35.414582,149.06538899999998,917
+515,1808,Tuggeranong Interchange Plt 8,-35.414919,149.065658,1956
+516,1809,Opp North Weston Park & Ride,-35.322590999999996,149.057622,834
+517,1810,Anketell St opp Lakeside Leisure Centre,-35.412279,149.063313,435
+518,1811,Theodore Terminus Chippindall Cct,-35.453058,149.118563,943
+519,1812,Lanyon Marketplace Terminus,-35.456354,149.09246299999998,964
+520,1815,Barr Smith Av opp Coombe St,-35.429014,149.074577,724
+521,1816,Barr Smith Av after Coombe St,-35.428804,149.074735,697
+522,1821,City West Marcus Clarke St,-35.279146000000004,149.125574,2700
+523,1825,IKEA Majura Rd,-35.296085,149.187705,415
+524,1836,Ashley Dr before Erindale Dr,-35.407621,149.10241000000002,1366
+525,1837,Ashley Dr after Erindale Dr,-35.407441999999996,149.10269,1376
+526,1838,Ashley Dr opp Bugden Av,-35.413342,149.102358,1045
+527,1839,Ashley Dr before Bugden Av,-35.412420000000004,149.102769,1052
+528,1840,Ashley Dr before Isabella Dr,-35.424109,149.10323200000002,899
+529,1841,Ashley Dr after Isabella Dr,-35.422616,149.103499,905
+530,1903,Callaway Cr after 2nd Myles Connell Cr,-35.461905,149.08222800000001,1056
+531,1904,Knoke Av after 1st Mina Wylie Cr,-35.463902000000004,149.08317399999999,518
+532,1905,Wanniassa Shops Langdon Av,-35.391052,149.086784,908
+533,1906,Langdon Av opp Wanniassa Shops,-35.391088,149.086937,926
+534,1907,Carruthers St before Theodore St SSO,-35.331821000000005,149.079279,286
+535,1908,Wanniassa Park & Ride,-35.389589,149.084686,1960
+536,1909,Wanniassa Park & Ride,-35.390178999999996,149.083559,2054
+537,2,Athllon Dr after Learmonth Dr,-35.402611,149.064747,1980
+538,2002,Launceston St before Furzer St,-35.3408,149.084461,6132
+539,2003,Theodore St before 1st James St,-35.335696,149.08125900000002,483
+540,2004,Theodore St before 2nd James St,-35.333496999999994,149.07975,483
+541,2005,Carruthers St opp Curtin PS,-35.33051,149.077728,483
+542,2006,Carruthers St after 2nd McCormack St,-35.327662,149.07558799999998,483
+543,2007,Carruthers St after Jennings St,-35.324566,149.075576,483
+544,2008,Throssell St after Kennerley St,-35.322986,149.074811,483
+545,2009,Throssell St after Jennings St,-35.32116,149.074925,483
+546,2010,Throssell St opp Prendergast St,-35.319388000000004,149.07703899999998,483
+547,2011,Dunstan St before McCulloch St,-35.318746999999995,149.080242,483
+548,2012,McCulloch St before 2nd Morgan Cr,-35.321608000000005,149.081954,483
+549,2013,McCulloch St after 2nd Morgan Cr,-35.323188,149.082576,483
+550,2014,Carruthers St opp Curtin Shops,-35.324606,149.082777,483
+551,2015,Carruthers St after Allan St,-35.325514,149.085024,483
+552,2016,Carruthers St before Groom St,-35.326917,149.090011,623
+553,2017,Carruthers St after Yarra Glen,-35.325826,149.085235,493
+554,2018,Curtin Shops Carruthers St,-35.324994000000004,149.083001,493
+555,2019,McCulloch St before Propsting St,-35.323287,149.0824,493
+556,2020,McCulloch St after Reynolds St,-35.320926,149.081591,493
+557,2021,Dunstan St after McCulloch St,-35.318862,149.080228,493
+558,2022,Throssell St after Prendergast St,-35.319479,149.076987,493
+559,2023,Throssell St after 2nd Robertson St,-35.321521000000004,149.074953,493
+560,2024,Throssell St after Storey St,-35.323040999999996,149.074948,493
+561,2025,Carruthers St opp Jennings St,-35.324712,149.07565400000001,493
+562,2026,Carruthers St after Nelson Pl,-35.327788,149.075785,493
+563,2027,Carruthers St before Curtin PS,-35.330288,149.077684,493
+564,2028,Theodore St opp 1st James St,-35.333686,149.079877,493
+565,2029,Theodore St before 2nd Holman St,-35.335553999999995,149.081246,493
+566,2030,Marrawah St after Theodore St,-35.338597,149.082031,493
+567,2031,Launceston St after Irving St,-35.340665,149.084709,4010
+568,2032,Melrose Dr opp Phillip Pool,-35.339084,149.082813,3161
+569,2033,Melrose Dr before Launceston St,-35.339215,149.083122,2755
+570,2034,Beasley St opp Torrens PS,-35.372251,149.089791,372
+571,2035,Torrens PS Beasley St,-35.371876,149.090661,375
+572,2036,Beasley St after Lambrigg St,-35.371947999999996,149.095472,373
+573,2037,Beasley St after Athllon Dr,-35.371865,149.095493,376
+574,2038,Badimara St after Yambina St,-35.358505,149.060114,446
+575,2039,Beasley St before Wilkins St,-35.371718,149.098123,376
+576,2040,Wilkins St after Hoadley St,-35.370606,149.099632,738
+577,2041,Wilkins St after Beasley St,-35.370504,149.099423,747
+578,2042,Heard St after Wilkins St,-35.368165000000005,149.09768799999998,747
+579,2043,Heard St before Wilkins St,-35.368034,149.09757199999999,528
+580,2044,Heard St opp Southlands Shops,-35.365578,149.095423,528
+581,2045,Southlands Shops Heard St,-35.365471,149.095324,747
+582,2050,Pearce Shops Macfarland Cr,-35.363040000000005,149.081436,376
+583,2052,Nemarang Cr after Larakia St,-35.351855,149.063909,445
+584,2053,Hodgson Cr at Murphy Cr,-35.366273,149.082523,537
+585,2054,Hodgson Cr after Brinsmead St,-35.366257,149.082326,537
+586,2055,Macfarland Cr before 2nd Threlfall St,-35.358228999999994,149.075663,376
+587,2056,Macfarland Cr after Wilsmore Cr,-35.358115999999995,149.075496,373
+588,2057,Macfarland Cr after Collings St,-35.361305,149.077995,376
+589,2058,Macfarland Cr before Sheehan St,-35.361502,149.078048,373
+590,2059,Macfarland Cr after Waldock St,-35.355623,149.075247,373
+591,2060,Macfarland Cr opp Waldock St,-35.355734999999996,149.075326,376
+592,2061,Chifley Shops Eggleston Cr,-35.35253,149.075535,376
+593,2062,Eggleston Cr opp Chifley Shops,-35.35215,149.07530500000001,373
+594,2063,Eggleston Cr after McDonald St,-35.349594,149.07613899999998,373
+595,2064,Eggleston Cr after Plunkett St,-35.349676,149.076187,376
+596,2065,Launceston St opp Dennes Pl,-35.346677,149.07413200000002,377
+597,2066,Launceston St after Dennes Pl,-35.346726000000004,149.074034,374
+598,2067,Launceston St before 2nd Tarraleah Cr,-35.343412,149.074526,377
+599,2068,Launceston St after Port Arthur St,-35.342863,149.07467,374
+600,2069,Lyons Shops Launceston St,-35.339708,149.076986,766
+601,2070,Launceston St opp Lyons Shops,-35.340408000000004,149.076472,377
+602,2071,Launceston St after Glenorchy St,-35.339541,149.079974,766
+603,2072,Launceston St after Burnie St,-35.339601,149.07984,776
+604,2073,Beasley St opp Gepp Pl,-35.368643,149.084696,376
+605,2074,Torrens Shops Beasley St,-35.373089,149.086631,376
+606,2075,Beasley St before Hawker St,-35.370810999999996,149.085237,373
+607,2076,Beasley St before Wyatt St,-35.370744,149.085364,376
+608,2077,Beasley St before Gepp Pl,-35.368483000000005,149.084474,373
+609,2090,Badimara St after 1st Kalgoorlie Cr,-35.358631,149.060178,445
+610,2091,Canberra College Launceston St,-35.341081,149.088575,1748
+611,2092,Launceston St opp Canberra College,-35.340313,149.090339,1767
+612,2093,Yamba Dr opp St Peter & St Pauls PS,-35.340546999999994,149.093514,1626
+613,2094,Yamba Dr after Kitchener St,-35.342457,149.096397,1626
+614,2095,Yamba Dr opp Canberra Hospital,-35.3467,149.09958,724
+615,2096,Tyagarah St before Culgoa Cct,-35.350118,149.106441,359
+616,2097,Culgoa Cct after 2nd Jindalee Cr,-35.352203,149.104392,353
+617,2098,Culgoa Cct before Bulwarra Cl,-35.352339,149.104555,359
+618,2099,Culgoa Cct after 1st Jindalee Cr,-35.35438,149.104996,353
+619,2100,Culgoa Cct opp 2nd Jindalee Cr,-35.354306,149.105101,359
+620,2101,Kareelah Vsta after Mialli Pl,-35.35546,149.10726699999998,359
+621,2102,Kareelah Vsta after Gerogery Pl,-35.355484999999994,149.107132,353
+622,2103,Kareelah Vsta before Numeralla St,-35.357431,149.107688,353
+623,2104,Kareelah Vsta after Taronga Pl,-35.35778,149.108376,359
+624,2105,Ngunawal Dr before Kareelah Vsta,-35.359443,149.109038,353
+625,2106,Ngunawal Dr after Kareelah Vsta,-35.359623,149.10908700000002,359
+626,2107,Bromby St before Cobbadah St,-35.36213,149.106953,353
+627,2108,Bromby St opp Cobbadah St,-35.36208,149.107125,359
+628,2109,Bromby St after William Wilkins Cr,-35.363601,149.107772,359
+629,2110,Bromby St after Julia Flynn Av,-35.363640999999994,149.107655,352
+630,2111,Julia Flynn Av after Adkinson Cl,-35.364206,149.110548,359
+631,2112,St Judes PS Mulley St,-35.335532,149.05109099999999,832
+632,2113,Mulley St opp St Judes PS,-35.335615000000004,149.051045,815
+633,2114,Heysen St opp Gruner St,-35.331083,149.058611,392
+634,2115,Heysen St before Gruner St,-35.3313,149.05879099999999,399
+635,2116,Heysen St before Bellette St,-35.333356,149.060901,392
+636,2117,Heysen St after Bunny St,-35.333324,149.060689,399
+637,2118,Dixon Dr after Twynam St,-35.329561,149.046439,400
+638,2119,Dixon Dr opp Guy Pl,-35.329473,149.046258,407
+639,2120,Dixon Dr opp Hyndes Cr,-35.329679,149.04385,407
+640,2121,Dixon Dr after Hyndes Cr,-35.329814,149.04386399999999,400
+641,2122,Dixon Dr opp Warragamba Av,-35.330037,149.041986,400
+642,2123,Dixon Dr after Warragamba Av,-35.329947,149.041878,407
+643,2124,Warragamba Av before Dixon Dr,-35.330175,149.038159,407
+644,2125,Warragamba Av after Dixon Dr,-35.330281,149.03817,400
+645,2128,Burrinjuck Cr opp Duffy PS,-35.334199,149.03227900000002,422
+646,2129,Duffy PS Burrinjuck Cr,-35.334835,149.03188899999998,414
+647,2130,Burrinjuck Cr before Serpentine St,-35.333467999999996,149.034789,422
+648,2131,Burrinjuck Cr before 2nd Blowering St,-35.333604,149.034653,414
+649,2132,Burrinjuck Cr after 1st Blowering St,-35.333022,149.037223,414
+650,2133,Duffy Shops Burrinjuck Cr,-35.336822999999995,149.031757,414
+651,2134,Burrinjuck Cr opp Duffy Shops,-35.337046,149.031593,422
+652,2135,Renmark St after 1st Jemalong St,-35.338440999999996,149.030275,422
+653,2136,Renmark St after Eungella St,-35.338454,149.030462,414
+654,2137,Eucumbene Dr opp 22,-35.341042,149.027533,424
+655,2138,22 Eucumbene Dr,-35.341193,149.027549,416
+656,2139,Hindmarsh Dr opp Weston Creek Terminus,-35.34382,149.027823,960
+657,2140,Hindmarsh Dr opp Darwinia Tce,-35.343831,149.030117,602
+658,2141,Wyangala St at Tullaroop St,-35.34252,149.032159,599
+659,2142,Wyangala St after 2nd Burdekin St,-35.341375,149.03308700000002,601
+660,2143,Wyangala St opp 1st Burdekin St,-35.340785,149.033719,599
+661,2144,Hindmarsh Dr after Dixon Dr,-35.342053,149.042443,601
+662,2145,Hindmarsh Dr opp Dixon Dr,-35.342162,149.042575,603
+663,2147,Hindmarsh Dr before Darwinia Tce,-35.343913,149.030307,604
+664,2148,Darwinia Tce opp Kathner St,-35.346607,149.02871399999998,417
+665,2149,Darwinia Tce after Kathner St,-35.346302,149.028606,407
+666,2150,Darwinia Tce after Angophora St,-35.34998,149.030099,417
+667,2151,Darwinia Tce after Rafferty St,-35.350173,149.030192,407
+668,2152,Darwinia Tce opp Rafferty St,-35.351417,149.03216,417
+669,2153,Darwinia Tce before Rafferty St,-35.351395000000004,149.031963,407
+670,2154,Darwinia Tce after Casuarina St,-35.352323,149.034142,417
+671,2155,Darwinia Tce after Perry Dr,-35.352445,149.034245,407
+672,2156,Perry Dr before Rene St,-35.354717,149.034561,417
+673,2157,Perry Dr after 2nd Sidaway St,-35.354636,149.03446,407
+674,2158,Perry Dr before Musgrove St,-35.356882,149.036443,417
+675,2159,Perry Dr after Lipman St,-35.357012,149.036867,407
+676,2160,Perry Dr opp Chapman Shops,-35.356227000000004,149.04011100000002,407
+677,2161,Chapman Shops Perry Dr,-35.356077,149.04038300000002,417
+678,2162,Perry Dr opp Chapman PS,-35.356885999999996,149.042435,407
+679,2163,Chapman PS Perry Dr,-35.356825,149.042603,417
+680,2164,Perry Dr at Bertel Cr,-35.359509,149.04453999999998,407
+681,2165,Perry Dr opp Bertel Cr,-35.359309,149.044375,417
+682,2166,Kalgoorlie Cr before Callide St,-35.360207,149.053153,445
+683,2167,Kalgoorlie Cr before Kapunda St,-35.360215999999994,149.05293500000002,446
+684,2168,Fisher Shops Kalgoorlie Cr,-35.36197,149.056644,445
+685,2169,Kalgoorlie Cr opp Fisher Shops,-35.362054,149.05648,446
+686,2170,Kalgoorlie Cr after Kambalda Cr,-35.362863,149.058952,446
+687,2171,Kalgoorlie Cr opp Kambalda Cr,-35.362777,149.058672,445
+688,2172,Kalgoorlie Cr before 2nd Jarrahdale St,-35.360351,149.06088799999998,445
+689,2173,Kalgoorlie Cr after 1st Pandanus St,-35.36006,149.061206,446
+690,2182,Badimara St after Hindmarsh Dr,-35.349921,149.068161,446
+691,2183,Badimara St before Hindmarsh Dr,-35.349777,149.067994,445
+692,2184,McInnes St after Hindmarsh Dr,-35.345983000000004,149.06278799999998,580
+693,2185,McInnes St after 2nd Buvelot St,-35.345901,149.062983,581
+694,2186,McInnes St after 1st Chevalier St,-35.34394,149.061455,580
+695,2187,40 McInnes St,-35.343856,149.061492,581
+696,2188,McInnes St after 2nd Chevalier St,-35.343242,149.059143,580
+697,2189,McInnes St after 1st Buvelot St,-35.342631,149.058639,581
+698,2190,McInnes St opp Conder St,-35.340911,149.058409,401
+699,2191,McInnes St after Conder St,-35.340937,149.058201,406
+700,2192,McInnes St before Gritten St,-35.338539000000004,149.059434,406
+701,2193,McInnes St before Ironside St,-35.338414,149.05953,401
+702,2194,Hilder St before Gritten St,-35.336872,149.05793,406
+703,2195,Hilder St opp McInnes St,-35.336791,149.057818,401
+704,2196,Hilder St after 1st Lycett St,-35.336748,149.056141,401
+705,2197,Hilder St after Gritten St,-35.336841,149.05565,406
+706,2198,Hilder St at McCubbin St,-35.335566,149.053869,401
+707,2199,Hilder St before Streeton Dr,-35.335595,149.053752,406
+708,2200,Namatjira Dr after Dillon Cl,-35.33927,149.05455700000002,796
+709,2201,Namatjira Dr before Conder St,-35.340577,149.05659,796
+710,2202,Namatjira Dr after Conder St,-35.342273999999996,149.05726299999998,970
+711,2203,Parkinson St opp Backler Pl,-35.343276,149.055773,1690
+712,2204,Parkinson St at Backler Pl,-35.343409,149.05576399999998,1682
+713,2205,Cooleman Court Interchange Plt 1,-35.342359,149.05295,1691
+714,2206,Cooleman Court Interchange Plt 2,-35.342457,149.052865,1682
+715,2207,Blackwood Tce opp Holder Shops,-35.336677,149.044672,414
+716,2208,Holder Shops Blackwood Tce,-35.336563,149.044607,422
+717,2209,Blackwood Tce after Tyers St,-35.336096999999995,149.041154,422
+718,2210,Blackwood Tce opp Tyers St,-35.336054,149.04093400000002,414
+719,2212,Heysen St opp Preston St,-35.330242,149.055251,392
+720,2213,Heysen St before Preston St,-35.330333,149.055247,399
+721,2214,Canberra Girls Grammar Senior School Melbourne Av,-35.318042999999996,149.115331,935
+722,2216,Melbourne Av after National Cct,-35.313832,149.119077,1076
+723,2217,Melbourne Av after Canterbury Cr,-35.312177,149.120541,1075
+724,2218,State Cir after Melbourne Av,-35.311169,149.120628,447
+725,2219,Gawler Cr opp Canberra Girls Grammar Senior School,-35.317139000000005,149.11316000000002,946
+726,2220,Canberra Girls Grammar Senior School Gawler Cr,-35.317221999999994,149.113343,941
+727,2221,Gawler Cr before Robe St,-35.31442,149.110472,935
+728,2222,Hopetoun Cct before Grey St,-35.313076,149.10766,334
+729,2223,Hopetoun Cct after Grose St,-35.313062,149.107382,347
+730,2224,Hopetoun Cct after 1st Hampton Cct,-35.309643,149.106629,470
+731,2225,Hopetoun Cct after Weston St,-35.310257,149.106627,488
+732,2226,Hopetoun Cct before Loftus St,-35.307367,149.106482,488
+733,2227,Hopetoun Cct before 1st Hampton Cct,-35.307424,149.106565,470
+734,2228,Hopetoun Cct before Schlich St,-35.305177,149.106825,488
+735,2229,Schlich St before Broome Cr,-35.304590000000005,149.104681,488
+736,2230,Schlich St before Hopetoun Cct,-35.304595,149.106301,470
+737,2231,Schlich St before Musgrave St,-35.304428,149.103817,470
+738,2232,Eyre St after Howitt St,-35.31544,149.143959,1373
+739,2233,Wentworth Av after Giles St,-35.314296999999996,149.144498,838
+740,2234,Wentworth Av after Dawes St,-35.317353999999995,149.146322,838
+741,2235,Wentworth Av before Dawes St,-35.317088,149.145545,877
+742,2240,Nemarang Cr opp Larakia St,-35.351929999999996,149.063966,446
+743,2245,Parliament House Federation Mall Northbound,-35.305533000000004,149.126073,604
+744,2246,Parliament House Federation Mall Southbound,-35.306032,149.12704499999998,620
+745,2247,Commonwealth Av opp Albert Hall,-35.297891,149.126295,3274
+746,2248,Albert Hall Commonwealth Av,-35.297776,149.125878,3268
+747,2249,Nemarang Cr after Galibal St,-35.352321999999994,149.066874,445
+748,2251,Nemarang Cr after Yiman St,-35.352526,149.06715400000002,446
+749,2254,National Cct after Sydney Av,-35.311873999999996,149.132453,728
+750,2255,National Cct before Syndey Av,-35.312135,149.132407,707
+751,2256,National Cct before Bourke St,-35.310889,149.133151,707
+752,2257,National Cct after Darling St,-35.309925,149.133216,728
+753,2258,Barton Bus Stn Plt 1,-35.306076000000004,149.133149,2644
+754,2259,Barton Bus Stn Plt 2,-35.305591,149.133041,2562
+755,2261,Fairbairn Av before Creswell St,-35.283204,149.154216,379
+756,2262,Fairbairn Av after Mount Ainslie Dr,-35.28529,149.16237900000002,379
+757,2263,Fairbairn Av after Truscott St,-35.28525,149.161835,379
+758,2264,Gilmore Cr opp Garran PS,-35.343983,149.101423,1381
+759,2265,Garran PS Gilmore Cr,-35.343981,149.101604,1382
+760,2266,Kitchener St before 1st Gilmore Cr,-35.338278,149.102482,480
+761,2267,Kitchener St before Lynch St,-35.338147,149.102228,483
+762,2268,Kitchener St after McNicoll St,-35.335958000000005,149.100673,483
+763,2269,Kitchener St before Birdwood St,-35.335187,149.10001100000002,480
+764,2270,Kitchener St before Goble St,-35.333996,149.098343,480
+765,2271,Kitchener St opp Goble St,-35.333877,149.09786699999998,483
+766,2272,Kent St opp Hughes Shops,-35.333129,149.095038,622
+767,2273,Kent St before Birdwood St,-35.329608,149.09456799999998,467
+768,2274,Kent St after Jensen St,-35.329378000000005,149.094521,470
+769,2275,Kent St opp Alfred Deakin HS,-35.325357000000004,149.096393,466
+770,2276,Alfred Deakin HS Kent St,-35.324939,149.096525,469
+771,2277,Royal Life Saving House Kent St,-35.322316,149.09772900000002,469
+772,2278,Canberra Private Hospital Kent St,-35.319844,149.09817900000002,469
+773,2279,Kent St opp Canberra Private Hospital,-35.319342999999996,149.09831,466
+774,2280,Strickland Cr before Kent St,-35.318473,149.09885400000002,596
+775,2281,Strickland Cr before Macgregor St,-35.318425,149.099019,603
+776,2282,Macgregor St after Cairns St,-35.31718,149.101426,596
+777,2283,Macgregor St before Nathan St,-35.316947,149.10200700000001,603
+778,2284,Macgregor St before Stradbroke St,-35.316323,149.105658,596
+779,2285,Macgregor St after De Chair St,-35.316264000000004,149.105207,603
+780,2286,Macgregor St opp Deakin Shops,-35.315459999999995,149.10831000000002,596
+781,2287,Deakin Shops Hopetoun Cct,-35.314875,149.108376,603
+782,2288,Gawler Cr opp Robe St,-35.314785,149.11117,941
+783,2289,Yambina Cr after Nemarang Cr,-35.356553000000005,149.059737,446
+784,2290,Mawson Dr after Wilkins St,-35.363346,149.096533,362
+785,2291,Kent St opp Royal Life Saving House,-35.322115000000004,149.097904,466
+786,2292,Yambima Cr after Wirangu Pl,-35.356549,149.059626,445
+787,2293,Ainsworth St before Mawson Dr,-35.361447,149.098717,362
+788,2294,Mawson PS Ainsworth St,-35.3599,149.097833,362
+789,2295,Ainsworth St opp Mawson PS,-35.359881,149.097633,368
+790,2296,Canberra Christian School Ainsworth St,-35.356095,149.097686,362
+791,2297,Ainsworth St opp Canberra Christian School,-35.356543,149.097409,368
+792,2298,Streeton Dr before Bangalay Cr,-35.350687,149.04215,419
+793,2299,Streeton Dr after Darwinia Tce,-35.352503999999996,149.041594,419
+794,2300,Ainsworth St after Alsop Cl,-35.350578000000006,149.09341899999998,368
+795,2301,Ainsworth St after Hindmarsh Dr,-35.349841999999995,149.09379199999998,362
+796,2302,Gilmore Cr before 1st Eldridge Cr,-35.345755,149.104958,483
+797,2303,Gilmore Cr before Esson Pl,-35.345865,149.104937,480
+798,2304,John James Hospital Strickland Cr,-35.318467,149.09562,618
+799,2305,Strickland Cr opp John James Hospital,-35.318363,149.09534,604
+800,2306,Novar St after Kintore Cr,-35.311956,149.098203,470
+801,2307,Novar St before Weston St,-35.310115,149.098205,470
+802,2308,Yarralumla Shops Novar St,-35.307926,149.098184,470
+803,2313,Melbourne Av opp Canberra Girls Grammar Senior Sch,-35.318478999999996,149.115575,941
+804,2328,Canberra Av after Giles St,-35.320037,149.138344,1373
+805,2329,Giles St before Canberra Av,-35.319444,149.137537,1364
+806,2330,Giles St after Leichhardt St,-35.317203000000006,149.138968,1364
+807,2331,Eyre St before Leichhardt St,-35.318267,149.140351,1373
+808,2332,Dalrymple St before Goyder St,-35.342952000000004,149.138483,901
+809,2333,Dalrymple St after Goyder St,-35.343101000000004,149.13863700000002,905
+810,2334,Jindalee Aged Care Goyder St,-35.341372,149.142414,1171
+811,2335,Goyder St opp Jindalee Aged Care,-35.341204,149.142496,1167
+812,2336,Goyder St after Caley Cr,-35.339434000000004,149.146222,1363
+813,2337,Goyder St opp Caley Cr,-35.339548,149.14623500000002,1376
+814,2338,Narrabundah College Goyder St,-35.338409000000006,149.14800400000001,1363
+815,2339,Goyder St opp Narrabundah College,-35.338198999999996,149.148566,1376
+816,2340,Goyder St opp Kyeema St,-35.336696,149.153516,463
+817,2341,Goyder St after Kyeema St,-35.336754,149.152926,474
+818,2342,130 Goyder St,-35.337065,149.156005,463
+819,2343,Goyder St opp 128,-35.337125,149.15651200000002,474
+820,2344,92 Matina St,-35.334382,149.15864299999998,463
+821,2345,Matina St opp 98,-35.334740999999994,149.158479,474
+822,2346,Kootara Cr after Deeban Pl,-35.333006,149.15841799999998,474
+823,2347,Kootara Cr after Matina St,-35.333096000000005,149.158548,463
+824,2348,Kootara Cr before Boolimba Cr,-35.332972999999996,149.156621,463
+825,2350,Narrabundah Shops Kootara Cr,-35.332518,149.15471200000002,463
+826,2351,Kootara Cr opp Narrabundah Shops,-35.331939,149.153696,474
+827,2352,Kootara Cr before Bundeela St,-35.331173,149.152186,463
+828,2353,Narrabundah PS Kootara Cr,-35.329926,149.15098,474
+829,2354,Kootara Cr opp Narrabundah PS,-35.328893,149.150082,463
+830,2355,Kootara Cr before Keira St,-35.327325,149.149504,474
+831,2361,McIntyre St after Stuart St,-35.33147,149.145318,903
+832,2362,McIntyre St opp Stuart St,-35.331757,149.145026,901
+833,2363,Stuart St at Strzelecki Cr,-35.330777000000005,149.143752,901
+834,2364,Stuart St before Strzelecki Cr,-35.330178000000004,149.143406,903
+835,2365,Griffith Shops Stuart St,-35.328656,149.142124,903
+836,2366,Stuart St opp Griffith Shops,-35.327962,149.141294,901
+837,2367,Stuart St before Barrallier St,-35.325495000000004,149.13921200000001,901
+838,2368,Stuart St after Barrallier St,-35.325555,149.139401,903
+839,2369,Stuart St after Hann St,-35.323676,149.137787,903
+840,2370,Stuart St after Lockyer St,-35.323669,149.137651,901
+841,2371,Captain Cook Cr opp Manuka Shops,-35.321071,149.1351,1367
+842,2372,Manuka Shops Captain Cook Cr,-35.321678999999996,149.134521,1376
+843,2373,Wentworth Av opp Old Bus Depot Markets,-35.313088,149.143217,2250
+844,2374,Old Bus Depot Markets Wentworth Av,-35.311627,149.142874,1966
+845,2375,Brisbane Av after Macquarie St,-35.309258,149.136503,1725
+846,2376,Australian Federal Police College Brisbane Av,-35.309746000000004,149.13703999999998,1786
+847,2378,St Peter & St Pauls PS Yamba Dr,-35.339999,149.093123,1615
+848,2379,Yamba Dr before Kitchener St,-35.342473,149.09686200000002,1615
+849,2380,Yamba Dr opp Justinian St,-35.341133,149.094709,1614
+850,2382,Canberra Hospital Yamba Dr,-35.346484000000004,149.09975,715
+851,2387,Ipswich St after Wiluna St,-35.329128999999995,149.163029,371
+852,2389,Gladstone St before Maryborough St,-35.323608,149.172673,371
+853,2390,Gladstone St before Kembla St,-35.322264000000004,149.174749,371
+854,2391,86 Gladstone St,-35.322294,149.17963999999998,371
+855,2392,120 Gladstone St,-35.32397,149.18220300000002,371
+856,2394,Canberra Montessori School Mulley St,-35.331921,149.049059,410
+857,2395,Blackwood Tce after Calder Cr,-35.334339,149.04845500000002,422
+858,2396,Blackwood Tce after Mulley St,-35.334412,149.048503,414
+859,2397,Blackwood Tce after Pearson St,-35.335625,149.046473,414
+860,2398,Macfarland Cr opp Pearce Shops,-35.363155,149.08133,373
+861,2401,Newcastle St before Molonglo Mall,-35.32912,149.17816299999998,371
+862,2403,Wollongong St before Maryborough St,-35.327446,149.177492,371
+863,2406,Albany St before Collie St,-35.327405999999996,149.1812,361
+864,2407,Wollongong St after Collie St,-35.326724,149.178392,361
+865,2408,Blackwood Tce after Hyndes Cr,-35.335564,149.04636100000002,422
+866,2409,Burrinjuck Cr after 1st Serpentine St,-35.332888,149.03733799999998,422
+867,2410,Wyangala St before Hindmarsh Dr,-35.342558000000004,149.03230200000002,601
+868,2415,Waramanga Shops Nemerang Cr,-35.352477,149.060606,445
+869,2416,Nemarang Cr opp Waramanga Shops,-35.352678999999995,149.060601,446
+870,2417,Arawang PS Nemerang Cr,-35.355483,149.060234,445
+871,2418,Nemarang Cr opp Arawang PS,-35.355402000000005,149.060384,446
+872,2419,Yambina Cr before Wirangu Pl,-35.357395000000004,149.059464,445
+873,2421,Yambina Cr before Badimara St,-35.35776,149.059478,446
+874,2423,Fremantle Dr after Bunbury St,-35.349007,149.04955,444
+875,2424,Fremantle Dr opp Bunbury St,-35.34894,149.049422,443
+876,2425,Fremantle Dr after 2nd Mackie Cr,-35.352453000000004,149.049215,444
+877,2426,Fremantle Dr opp 2nd Reveley Cr,-35.352507,149.049037,443
+878,2427,Fremantle Dr after 1st Reveley Cr,-35.353363,149.04755,444
+879,2428,Fremantle Dr before Crowder Cct,-35.353851,149.04689,443
+880,2429,Bangalay Cr after Casuarina St,-35.349031,149.03646,419
+881,2430,Bangalay Cr opp Casuarina St,-35.349009,149.036661,407
+882,2431,Bangalay Cr opp Rivett Shops,-35.346779999999995,149.035971,419
+883,2432,Rivett Shops Bangalay Cr,-35.347034,149.036029,407
+884,2433,Carbeen St after Bangalay Cr,-35.344349,149.03950700000001,418
+885,2434,Carbeen St after 2nd Gungurra Cr,-35.34447,149.039452,406
+886,2435,Carbeen St opp 2nd Gungurra Cr,-35.344058000000004,149.043034,418
+887,2436,Carbeen St after 1st Gungurra Cr,-35.344128000000005,149.04298899999998,406
+888,2437,Carbeen St before Tristania St,-35.342446,149.04568999999998,406
+889,2438,Carbeen St before Hindmarsh Dr,-35.342385,149.045523,418
+890,2439,Kootara Cr after 2nd Gymea St,-35.332769,149.156052,474
+891,2444,Kootara Cr before McMillan Cr,-35.326259,149.14916599999998,463
+892,2448,Novar St before Kintore Cr,-35.312031,149.09829299999998,488
+893,2449,Novar St after Weston St,-35.310151,149.098289,488
+894,2450,Novar St opp Yarralumla Shops,-35.307386,149.09831100000002,488
+895,2451,Schlich St before Novar St,-35.303827000000005,149.09873000000002,488
+896,2452,Schlich St after Novar St,-35.303771999999995,149.099083,470
+897,2453,Tyagarah St after Culgoa Cct,-35.349919,149.106148,353
+898,2454,Julia Flynn Av before 1st Ellwood Cr,-35.364222,149.11032600000001,353
+899,2457,Julia Flynn Av before Crook Pl,-35.36558,149.112573,359
+900,2458,Julia Flynn Av before 2nd Ringrose Cr,-35.365765,149.112523,353
+901,2459,Julia Flynn Av opp Isaacs Shops,-35.36722,149.112822,359
+902,2460,Isaacs Shops Julia Flynn Av,-35.367296,149.112619,353
+903,2461,Julia Flynn Av after Dorsch St,-35.370031,149.111467,353
+904,2462,Julia Flynn Av opp Dorsch St,-35.370236,149.111729,359
+905,2463,Julia Flynn Av after 2nd Rule St,-35.37172,149.113458,359
+906,2464,Julia Flynn Av before 2nd Walton St,-35.371902,149.113857,353
+907,2465,Julia Flynn Av after Huffer Cl,-35.373262,149.11602,359
+908,2466,Julia Flynn Av opp Rooney Pl,-35.373338000000004,149.11588999999998,353
+909,2467,Julia Flynn Av after 2nd Rowntree Cr,-35.375625,149.114685,359
+910,2468,Julia Flynn Av after Alexander Mackie Cct,-35.375628999999996,149.11451599999998,353
+911,2469,Dookie St after Hawkesbury Cr,-35.376743,149.109216,359
+912,2470,Dookie St after Longerenong St,-35.376729,149.10911000000002,353
+913,2471,Farrer PS Lambrigg St,-35.378992,149.10714099999998,365
+914,2472,Lambrigg St opp Farrer PS,-35.379151,149.107245,371
+915,2473,Lambrigg St opp Prescott St,-35.377864,149.10394399999998,365
+916,2474,Lambrigg St after Prescott St,-35.377961,149.10376000000002,371
+917,2475,Marshall St opp Farrer Shops,-35.374983,149.101027,371
+918,2476,Farrer Shops Marshall St,-35.375147,149.101153,365
+919,2477,Marshall St opp Goodwin Village Farrer,-35.373633,149.10171100000002,365
+920,2478,Goodwin Village Farrer Marshall St,-35.372818,149.101828,371
+921,2479,Mawson Dr after Hurley St,-35.363194,149.096452,368
+922,2480,Ainsworth St after Mawson Dr,-35.361672999999996,149.09862900000002,368
+923,2481,Ainsworth St before Power St,-35.35342,149.09558,368
+924,2482,Ainsworth St before Butters Dr,-35.353955,149.096909,362
+925,2483,Ainsworth St opp Woden CIT,-35.347851,149.094895,481
+926,2484,CIT Woden Ainsworth St,-35.347935,149.095029,478
+927,2485,Ainsworth St after Kitchener St,-35.346014000000004,149.096768,478
+928,2486,Ainsworth St before Kitchener St,-35.345693,149.096674,481
+929,2487,Kitchener St after Ainsworth St,-35.344435,149.097398,481
+930,2488,Kitchener St before Ainsworth St,-35.344604,149.09724,478
+931,2492,Bangalay Cr before 1st Mirbelia Cr,-35.349342,149.038757,407
+932,2493,Bangalay Cr opp 2nd Mirabelia Cr,-35.349292999999996,149.039816,419
+933,2494,Kalgoorlie Cr after Mareeba St,-35.357795,149.053453,445
+934,2495,Kalgoorlie Cr before 2nd Bendigo St,-35.357755,149.053334,446
+935,2496,Mt Stromlo HS Badimara St,-35.355702,149.054441,445
+936,2497,Badimara St opp Mt Stromlo HS,-35.355706,149.054251,446
+937,2499,Devonport St opp Lyons Shops,-35.338826,149.07584599999998,399
+938,2500,Devonport St after 1st Scottsdale St,-35.336488,149.074674,392
+939,2501,41 Devonport St,-35.336459999999995,149.074514,399
+940,2502,Devonport St opp 1st Derwent St,-35.334276,149.072025,392
+941,2503,Devonport St after 2nd Derwent St,-35.334434,149.07201899999998,399
+942,2504,Heysen St before Devonport St,-35.333039,149.069297,392
+943,2505,Heysen St after Devonport St,-35.333242,149.06921599999998,399
+944,2506,Mulley St after Dixon Dr,-35.330708,149.048483,409
+945,2507,Warragamba Av before Jindabyne St,-35.330566,149.03491200000002,400
+946,2508,Warragamba Av opp Jindabyne St,-35.330467999999996,149.034831,407
+947,2509,Burrinjuck Cr after 2nd Tantangara St,-35.339542,149.036342,599
+948,2510,Burrinjuck Cr after Kallara Cl,-35.339579,149.036765,601
+949,2513,Mulley St opp Canberra Montessori School,-35.33265,149.048917,401
+950,2514,Mulley St before Dixon Dr,-35.330704,149.048379,401
+951,2520,Beasley St opp Torrens Shops,-35.373643,149.087106,373
+952,2521,Namatjira Dr after Bunbury St,-35.347093,149.05701100000002,388
+953,2522,Streeton Dr opp Darwinia Tce,-35.352406,149.041742,407
+954,2523,Streeton Dr opp Bangalay Cr,-35.350883,149.042233,407
+955,2530,Gilmore Cr at 1st Ingamells St,-35.339495,149.103561,480
+956,2531,Gilmore Cr after Sabine Cl,-35.339659000000005,149.10409199999998,483
+957,2532,Gilmore Cr after 2nd Ingamells St,-35.340067,149.107456,480
+958,2533,Gilmore Cr opp 1st Ingamells St,-35.340057,149.107089,483
+959,2534,Garran Shops Gilmore Cr,-35.342045,149.108792,483
+960,2535,Gilmore Cr opp Garran Shops,-35.342086,149.108972,480
+961,2536,Gilmore Cr before Hartigan St,-35.343476,149.108857,480
+962,2537,Gilmore Cr after Hopegood Pl,-35.34425,149.108032,483
+963,2539,Gilmore Cr opp 1st Eldridge Cr,-35.344997,149.10706399999998,480
+964,2540,Hughes Shops Wisdom St,-35.33292,149.094179,615
+965,2542,Streeton Dr before Namatjira Dr,-35.355681,149.048834,850
+966,2553,Gold Creek PS Kelleway Av,-35.18152,149.100659,146
+967,2556,Melbourne Av before Empire Cct,-35.316638,149.116575,935
+968,2558,Daramalan College Cowper St,-35.252645,149.139351,472
+969,2560,Ipima St before Wise St,-35.266106,149.136872,466
+970,2563,Starke St after Powell St,-35.227714,149.01811,341
+971,2565,Warragamba Av before Eucumbene Dr,-35.331036,149.02963,243
+972,2566,Warragamba Av after Eucumbene Dr,-35.330917,149.029804,407
+973,2569,Melba HS School Grounds SSO,-35.213834000000006,149.04915,35
+974,2571,Narrabundah College Jerrabomberra Av,-35.335868,149.14789299999998,902
+975,2572,St Michaels PS Tyrell Cct,-35.223607,149.108981,8
+976,2581,Brindabella Christian College Brigalow St,-35.24929,149.12742,222
+977,2582,Streeton Dr after Namatjira Dr,-35.355708,149.048641,862
+978,2586,Parliament House Parliament Dr Southbound,-35.307268,149.122739,680
+979,2587,Parliament House Parliament Dr Northbound,-35.309077,149.126087,664
+980,2589,Cooleman Court Interchange Plt 3,-35.340990000000005,149.05234199999998,1426
+981,2591,Namatjira Dr after Parkinson St,-35.343053999999995,149.057398,973
+982,2592,Callum St after Hindmarsh Dr,-35.34819,149.08934299999999,6543
+983,2593,Melbourne Av after Somers Cr,-35.312928,149.120525,1094
+984,2594,Melbourne Av at National Cct,-35.314611,149.119025,941
+985,2595,Melbourne Av at Empire Cct,-35.316413,149.117423,941
+986,2596,Kingston Shops Eyre St,-35.316625,149.14181299999998,1373
+987,2597,Brigalow St opp Brindabella Christian College,-35.249014,149.12728700000002,67
+988,2598,Kingston Shops Giles St,-35.315802000000005,149.140198,1364
+989,2601,Canberra Hospital Hospital Rd,-35.346322,149.101786,1162
+990,2604,Bateson Rd before Canberra Hospital,-35.348687,149.102701,1162
+991,2609,Southlands Shops Athllon Dr,-35.365023,149.09270700000002,3441
+992,2610,Athllon Dr opp Southlands Shops,-35.363343,149.092283,3328
+993,2613,Gladstone St before Cessnock St,-35.3232,149.1729,361
+994,2614,83 - 85 Gladstone St,-35.322006,149.179358,361
+995,2615,127 Gladstone St,-35.324015,149.18239599999998,361
+996,2616,Gladstone St opp Albany St,-35.325374,149.183654,361
+997,2617,Bateson Rd after Canberra Hospital,-35.348599,149.10280600000002,1166
+998,2623,Newcastle St after Wollongong St,-35.328876,149.178299,361
+999,2634,Canberra Av after Monaro Hwy,-35.330421,149.161125,844
+1000,2642,Gawler Cr before Deakin Shops,-35.314271000000005,149.108831,941
+1001,2643,Gawler Cr after Deakin Shops,-35.314215000000004,149.108768,936
+1002,2646,Namatjira Dr after Hindmarsh Dr,-35.347112,149.057165,394
+1003,2647,Namatjira Dr before Badimara St,-35.353404,149.052595,394
+1004,2650,Athllon Dr after Shea St,-35.351277,149.09069499999998,3325
+1005,2651,Athllon Dr opp Shea St,-35.352368,149.09127800000002,3431
+1006,2652,Athllon Dr after Beasley St,-35.371283,149.092671,3330
+1007,2653,Athllon Dr 2nd after Beasley St,-35.37578,149.093215,3441
+1008,2654,Beasley St after Marshall St,-35.371151,149.100719,371
+1009,2655,Beasley St opp Wilkins St,-35.371724,149.09871,373
+1010,2669,Streeton Dr opp Chapman PS,-35.354909,149.042503,407
+1011,2670,Chapman PS Streeton Dr,-35.354765,149.04218,419
+1012,2671,Ainsworth St opp Hobury St,-35.352035,149.09401,362
+1013,2672,Ainsworth St before Horbury St,-35.352021,149.093789,368
+1014,2673,Athllon Dr at Beasley St,-35.372591,149.093063,3443
+1015,2674,Beasley St after Torrens Pl,-35.372924,149.088827,376
+1016,2675,142 Beasley St,-35.372983000000005,149.088941,373
+1017,2676,Dixon Dr before Blackwood Tce,-35.333656,149.039023,422
+1018,2677,Dixon Dr before 2nd Burrinjuck Cr,-35.33359,149.038904,414
+1019,2678,Canberra Av before Mildura St,-35.326703,149.15551100000002,1220
+1020,2679,Westfield Woden Corinna St,-35.345915999999995,149.084212,2187
+1021,2680,Canberra Av after Nyrang St,-35.325695,149.153409,1062
+1022,2687,Athllon Dr opp Parramatta St,-35.355429,149.091612,3439
+1023,2688,Athllon Dr after Parramatta St,-35.354038,149.09131299999999,3325
+1024,2690,Namatjira Dr before Macnally St,-35.339349,149.05469399999998,793
+1025,2695,Tom Roberts Av opp 1st Templestowe Av,-35.465682,149.105927,514
+1026,2696,Tharwa Dr after Drakeford Dr,-35.44526,149.093656,1301
+1027,2697,Tharwa Dr before Drakeford Dr,-35.445199,149.093261,1265
+1028,2698,Tharwa Dr before Box Hill Av,-35.454626,149.091331,1301
+1029,2699,Tharwa Dr after Box Hill Av,-35.454625,149.090981,1265
+1030,2705,Woden Interchange Plt 5,-35.344481,149.08737,935
+1031,2706,Woden Interchange Plt 6,-35.344444,149.0876,2464
+1032,2709,Woden Interchange Plt 9,-35.34424,149.087812,2632
+1033,2710,Woden Interchange Plt 10,-35.34391,149.087758,575
+1034,2716,Woden Interchange Plt 16,-35.344446000000005,149.086941,801
+1035,2717,Jim Pike Av after 1st Charlton Cr,-35.460817,149.078202,1056
+1036,2718,Soward Way after Athllon Dr,-35.419474,149.066372,4764
+1037,2730,Kent St after Macartney Cr,-35.317013,149.098298,488
+1038,2731,Kent St after Strickland Cr,-35.317149,149.098201,470
+1039,2803,Steve Irwin Av before Ulysses Cct,-35.324372,149.036256,402
+1040,2804,Woden Interchange Plt 4,-35.344539000000005,149.08695600000001,1172
+1041,2805,Steve Irwin Av before David Fleay St,-35.324558,149.036357,409
+1042,2806,Steve Irwin Av after John Gorton Dr,-35.320231,149.03681699999999,409
+1043,2809,John Gorton Dr after Steve Irwin Av,-35.319416,149.036656,897
+1044,2810,John Gorton Dr after Fred Daly Av,-35.320015999999995,149.037916,754
+1045,2811,John Gorton Dr after Cotter Rd,-35.324779,149.043384,755
+1046,2812,John Gorton Dr after Harold White Av,-35.325386,149.044625,935
+1047,2814,Woden Interchange Plt 14,-35.344367,149.087541,1435
+1048,2815,Woden Interchange Plt 15,-35.344398999999996,149.08726399999998,1237
+1049,2820,Streeton Drive after Unwin Pl,-35.32918,149.05393,920
+1050,2821,Streeton Dr after Dixon Dr,-35.32795,149.05353,933
+1051,2822,Cotter Rd After Streeton Dr,-35.326971,149.05264,936
+1052,2824,Fyshwick Park & Ride Iron Knob St,-35.338688,149.182785,2394
+1053,2825,Canberra Av after Whyalla St,-35.335951,149.172779,702
+1054,2826,Wyndham Av after Bielski St,-35.305351,149.026999,419
+1055,2827,Wyndham Av before Bielski St,-35.305519,149.026776,122
+1056,2828,Kondelea Way before Ada Norris Av,-35.302958000000004,149.020901,122
+1057,2829,Kondelea Way at Ada Norris Av,-35.303490000000004,149.020793,122
+1058,2830,Denman Prospect Shops Felstead Vista,-35.298961,149.023583,122
+1059,2831,Felstead Vista opp Denman Prospect Shops,-35.298876,149.023317,522
+1060,2832,Holborow Av before Eureka Way,-35.299125,149.026735,320
+1061,2833,Holborow Av after Eureka Way,-35.298951,149.02663700000002,324
+1062,2834,Holborow Av after Greenwood St,-35.298835,149.030573,320
+1063,2835,Holborow Av after Greenwood St,-35.298709,149.03194,324
+1064,2836,John Gorton Dr after Wyndham Av,-35.304389,149.03203100000002,259
+1065,2837,John Gorton Dr before Wyndham Av,-35.304414,149.032259,324
+1066,2839,John Gorton Dr after Holborow Av,-35.299474,149.034148,324
+1067,2840,Annabelle View opp Madgwick St,-35.319246,149.045526,122
+1068,2841,Annabelle View before Madgwick St,-35.319140000000004,149.04536399999998,122
+1069,2842,Harold White Av after Woodberry Av,-35.324459000000004,149.044806,122
+1070,2843,Harold White Av before Woodberry Av,-35.324315999999996,149.044733,122
+1071,2845,John Gorton Dr after Opperman Av,-35.311997999999996,149.031926,442
+1072,2846,John Gorton Dr opp Opperman Av,-35.312967,149.032645,446
+1073,2916,Woden Interchange Arrivals,-35.344530999999996,149.087276,7247
+1074,2919,Ipswich St before Canberra Av,-35.329094,149.16279699999998,361
+1075,2925,Forrest PS National Cct,-35.315484999999995,149.12667,684
+1076,2926,National Cct opp Forrest PS,-35.315571000000006,149.126543,671
+1077,2941,Newcastle St after Gladstone St,-35.324994000000004,149.172318,371
+1078,2943,Canberra Av after Geelong St,-35.33335,149.16747,902
+1079,2944,Canberra Av before Faulding St,-35.335004999999995,149.16998700000002,728
+1080,2948,Canberra Outlet Centre Iron Knob St,-35.336290999999996,149.179587,2394
+1081,3,Athllon Dr opp Learmonth Dr,-35.402793,149.065015,2074
+1082,3000,City Interchange Plt 9 Arrivals,-35.278839000000005,149.130649,412
+1083,3003,London Cct opp Legislative Assembly,-35.281562,149.13185900000002,7198
+1084,3004,London Cct after Akuna St,-35.28228,149.13208999999998,1635
+1085,3005,National Convention Centre Constitution Av,-35.2851,149.134189,1634
+1086,3006,CIT Reid Constitution Av,-35.286770000000004,149.137069,1634
+1087,3007,Constitution Av opp Anzac Park West,-35.288281,149.13943899999998,1634
+1088,3008,Constitution Av opp Anzac Park East,-35.290279999999996,149.142899,1634
+1089,3009,Constitution Av after Creswell St,-35.291834,149.145516,1634
+1090,3011,Russell Offices Russell Dr,-35.297298,149.15026699999999,2072
+1091,3012,Edmund Barton Building Kings Av,-35.304365999999995,149.134859,919
+1092,3017,John James Hospital Denison St,-35.318962,149.09409399999998,618
+1093,3018,Denison St after Napier Cl,-35.32186,149.094042,618
+1094,3019,The Woden School Denison St,-35.326029999999996,149.091969,621
+1095,3020,Denison St opp The Woden School,-35.325909,149.09186100000002,603
+1096,3021,Denison St after King St,-35.322186,149.093885,604
+1097,3022,Royal Australian Mint Denison St,-35.318826,149.093972,604
+1098,3025,Carruthers St opp Groom St,-35.326753000000004,149.089967,605
+1099,3028,Kings Av before King Edward Tce,-35.303456,149.13613999999998,963
+1100,3029,Russell Dr opp Russell Offices,-35.297129999999996,149.149903,2085
+1101,3031,Constitution Av after Russell Dr,-35.291779999999996,149.145157,1658
+1102,3032,Anzac Park East Constitution Av,-35.290290999999996,149.14260900000002,1658
+1103,3033,Constitution Av after Anzac Park West,-35.288090000000004,149.138939,1728
+1104,3034,Constitution Av opp CIT Reid,-35.28618,149.13586999999998,1728
+1105,3035,Constitution Av opp National Convention Centre,-35.2848,149.133519,1728
+1106,3036,London Cct after Edinburgh Av,-35.282699,149.125554,2402
+1107,3037,London Cct opp City Police Station,-35.280645,149.125992,2402
+1108,3042,City West Alinga St,-35.278251000000004,149.127036,2415
+1109,3044,Narrabundah Terminus Matina St,-35.331421999999996,149.15891100000002,40
+1110,3047,Marcus Clarke St after Farrell Pl,-35.281334,149.12401599999998,2601
+1111,3051,Ainslie Av after Cooyong St,-35.278721000000004,149.136529,1780
+1112,3052,Canberra Centre,-35.279421,149.135019,3797
+1113,3053,Ainslie Av after Currong St,-35.278104,149.138127,1780
+1114,3054,Ainslie Av after Doonkuna St,-35.278548,149.138262,1729
+1115,3055,Ainslie Av after Elimatta St,-35.277059,149.140781,1316
+1116,3056,Ainslie Av before Elimatta St,-35.277577,149.140757,1263
+1117,3060,General Bridges Dr before Gallipoli Rd,-35.295156,149.166573,407
+1118,3061,General Bridges Dr after Harrison Rd,-35.295108,149.166842,402
+1119,3062,Robert Campbell Rd opp Miles Rd,-35.296523,149.168646,407
+1120,3063,Robert Campbell Rd before Wilton Rd,-35.295992,149.16911499999998,402
+1121,3064,Robert Campbell Rd before Parnell Rd,-35.297810999999996,149.167099,407
+1122,3065,Parnell St opp Combes Rd,-35.299056,149.16586999999998,402
+1123,3066,Parnell St before Plant Rd,-35.299781,149.165019,407
+1124,3067,Parnell St after Plant Rd,-35.300218,149.164438,402
+1125,3068,Morrison Cct before Bruche Rd,-35.302004,149.163521,407
+1126,3069,Morrison Cct after Bruche Rd,-35.301419,149.162591,402
+1127,3070,Russell Dr after Morshead Dr,-35.300714,149.15094299999998,1035
+1128,3071,Russell Dr before Kelliher Dr,-35.301408,149.15147199999998,1051
+1129,3072,Russell Dr before Kings Av,-35.298778999999996,149.150857,1035
+1130,3073,Russell Dr before Vivian Bullwinkel Way,-35.298741,149.151106,1051
+1131,3074,Blamey Cr before Watt St,-35.291778,149.149495,407
+1132,3075,Blamey Cr before Vasey Cr,-35.291834,149.14988799999998,402
+1133,3076,Blamey Cr opp Chauvel St,-35.290634999999995,149.152764,407
+1134,3077,Blamey Cr after Chauvel St,-35.290309,149.152981,402
+1135,3078,Campbell PS Chauvel St,-35.290636,149.155031,407
+1136,3079,Chauvel St opp Campbell PS,-35.290934,149.15538700000002,402
+1137,3080,Vasey Cr opp 100,-35.289365999999994,149.158089,407
+1138,3081,100 Vasey Cr,-35.289438,149.158165,402
+1139,3082,White St after Vasey Cr,-35.286984999999994,149.157936,407
+1140,3083,Vasey Cr after White St,-35.287827,149.158554,402
+1141,3084,St Thomas More's PS White St,-35.286986999999996,149.155453,411
+1142,3085,White St before 2nd Glossop Cr,-35.286454,149.156599,402
+1143,3086,Campbell Shops White St,-35.288538,149.153701,407
+1144,3087,White St before 1st Glossop Cr,-35.287384,149.155054,402
+1145,3088,Blamey Cr opp Edmondson St,-35.286949,149.152245,407
+1146,3089,White St opp Campbell Shops,-35.288476,149.153582,402
+1147,3090,Blamey Cr before Creswell St,-35.285634,149.14831,407
+1148,3091,Blamey Cr before Edmondson St,-35.286234,149.151253,403
+1149,3092,Currong St after Anzac Park West,-35.284318,149.14379499999998,407
+1150,3093,Blamey Cr after Creswell St,-35.285511,149.14811699999998,403
+1151,3094,Euree St before Elimatta St,-35.282051,149.142387,407
+1152,3095,Currong St before Anzac Park West,-35.284329,149.143971,402
+1153,3096,Gooreen St after Coranderrk St,-35.278631,149.142558,407
+1154,3097,Euree St after Elimatta St,-35.282014000000004,149.14256899999998,402
+1155,3098,Boldrewood St after Barry Dr,-35.271943,149.119452,437
+1156,3099,Gooreen St after Allambee St,-35.278386,149.142543,402
+1157,3100,Boldrewood St after Froggatt St,-35.270967999999996,149.117849,437
+1158,3101,Boldrewood St before Barry Dr,-35.272365,149.120285,446
+1159,3102,Boldrewood St after Ridley St,-35.269943,149.11610100000001,437
+1160,3103,Boldrewood St before Froggatt St,-35.270709000000004,149.117579,446
+1161,3104,Boldrewood St before David St,-35.268954,149.114847,437
+1162,3105,Boldrewood St before Spencer St,-35.269496000000004,149.115556,446
+1163,3106,Miller St after Hobbs St,-35.266756,149.113995,437
+1164,3107,Miller St after Syme Cr,-35.267055,149.114068,446
+1165,3108,Miller St at Cockle St,-35.264695,149.114329,437
+1166,3109,Miller St before Faunce Cr,-35.264157,149.11453799999998,446
+1167,3110,Miller St before Hack St,-35.260928,149.114941,437
+1168,3111,Miller St opp Hack St,-35.26072,149.11509099999998,446
+1169,3112,Miller St after Quandong St,-35.257307,149.115522,437
+1170,3113,Miller St before Banksia St,-35.256979,149.115695,446
+1171,3114,Miller St after Nardoo Cr,-35.253415999999994,149.116123,437
+1172,3115,Miller St after Scrivener St,-35.253724,149.116079,446
+1173,3116,Miller St after Merrit Pl,-35.251058,149.11818799999998,297
+1174,3117,Miller St after Swainsona St,-35.250688000000004,149.118947,316
+1175,3118,Miller St before Wattle St,-35.249642,149.120453,297
+1176,3119,Mackennal St before Wattle St,-35.248962,149.121741,458
+1177,3120,Mackennal St before Earle St,-35.247823,149.122514,467
+1178,3121,Mackennal St at Earle St,-35.24709,149.122761,458
+1179,3122,Mackennal St before Archibald St,-35.245762,149.122858,467
+1180,3123,Mackennal St after Archibald St,-35.245427,149.123051,458
+1181,3124,Archibald St opp Ashton St,-35.245087,149.125022,467
+1182,3125,Archibald St after Ashton St,-35.245155,149.124641,458
+1183,3126,Archibald St before Mouat St,-35.245304,149.126498,467
+1184,3127,Archibald St before Ashton St,-35.245333,149.126059,458
+1185,3128,North Lyneham Shops Cossington Smith Cr,-35.241162,149.124282,925
+1186,3129,Cossington Smith Cr before Fairweather Cct,-35.239917999999996,149.121775,925
+1187,3130,Cossington Smith Cr after Piguenit Cl,-35.236852,149.123986,925
+1188,3132,Dickson Shops Cowper St,-35.250482,149.14058899999998,3845
+1189,3137,Torrens St after Girrahween St,-35.26996,149.134598,464
+1190,3139,Torrens St before Ipima St,-35.267979,149.134919,464
+1191,3140,Torrens St after Henty St,-35.269882,149.134733,466
+1192,3141,Ipima St after Torrens St,-35.266346,149.136068,464
+1193,3142,Torrens St after Ipima St,-35.267573,149.13509,466
+1194,3143,Cowper St after Limestone Av,-35.265386,149.13851,465
+1195,3144,Cowper St opp All Saints Church,-35.265169,149.139266,467
+1196,3145,Cowper St after 1st Bonney St,-35.264373,149.140879,465
+1197,3146,Cowper St after Cox St,-35.263631,149.141568,467
+1198,3147,Cowper St before Wakefield Av,-35.262013,149.141816,465
+1199,3148,Cowper St at Wakefield Av,-35.261475,149.141977,467
+1200,3149,Cowper St at 2nd Bonney St,-35.259595000000004,149.141475,465
+1201,3150,Cowper St before Suttor St,-35.259824,149.14181000000002,467
+1202,3159,Cowper St after Sherbrooke St,-35.257815,149.140126,465
+1203,3161,Cowper St after Hope St,-35.254402,149.138945,465
+1204,3162,Cowper St before Hope St,-35.254175,149.139078,467
+1205,3163,Cowper St opp Daramalan College,-35.252617,149.139492,468
+1206,3164,Cowper St opp Dickson Shops,-35.250227,149.140842,598
+1207,3165,Windeyer St after Phillip Av,-35.241324,149.150794,869
+1208,3166,Windeyer St opp Watson Shops,-35.239290999999994,149.153783,905
+1209,3167,Watson Shops Windeyer St,-35.239160999999996,149.153594,896
+1210,3168,Knox St at 2nd Higinbotham St,-35.239906,149.155945,217
+1211,3169,Knox St after 1st Irvine St,-35.239514,149.155714,513
+1212,3170,Knox St after 1st Higinbotham St,-35.242584,149.15868600000002,217
+1213,3171,Knox St after 2nd Irvine St,-35.242297,149.158503,513
+1214,3172,Antill St opp Knox St,-35.242908,149.161223,144
+1215,3173,Antill St after Knox St,-35.242768,149.16122099999998,514
+1216,3174,Antill St before Fison St,-35.241196,149.163368,144
+1217,3175,Antill St opp Fison St,-35.241028,149.163382,515
+1218,3176,Antill St opp Old Watson Terminus,-35.239754,149.16532,144
+1219,3177,Old Watson Terminus Antill St,-35.239634,149.16526399999998,512
+1220,3178,Antill St before Negus St,-35.232078,149.166653,144
+1221,3179,Antill St after Negus Cr,-35.232068,149.16656799999998,515
+1222,3184,Lyneham PS Brigalow St,-35.251267,149.125213,144
+1223,3185,Hovea St after Macarthur Av,-35.259066,149.123703,327
+1224,3186,Hovea St before Boronia Dr,-35.258258000000005,149.123924,328
+1225,3187,Scrivener St before Brigalow St,-35.255897999999995,149.121969,327
+1226,3188,Scrivener St after Karri St,-35.256129,149.12264199999998,328
+1227,3189,Brigalow St after Scrivener St,-35.254284000000006,149.121414,467
+1228,3190,Brigalow St before Scrivener St,-35.254883,149.12108700000002,458
+1229,3195,Antill St after Phillip Av,-35.246415999999996,149.155931,477
+1230,3196,Antill St before Phillip Av,-35.246427000000004,149.156307,465
+1231,3197,Madigan St after Antill St,-35.244645,149.160068,480
+1232,3198,Madigan St before Antill St,-35.244689,149.159894,468
+1233,3199,Madigan St opp Hackett Shops,-35.247096,149.162957,480
+1234,3200,Hackett Shops Madigan St,-35.248046,149.163186,468
+1235,3201,Madigan St opp Blue Gum PS,-35.249779,149.16408,480
+1236,3202,Blue Gum PS Madigan St,-35.249874,149.163872,468
+1237,3203,Madigan St before Mackenzie St,-35.25202,149.162279,480
+1238,3204,Madigan St opp Mackenzie St,-35.251740000000005,149.162547,468
+1239,3205,Phillip Av opp Madigan St,-35.252666999999995,149.159123,480
+1240,3206,Phillip Av before Madigan St,-35.252836,149.159634,468
+1241,3207,Phillip Av before Majura Av,-35.251424,149.156883,480
+1242,3208,Phillip Av after Stott St,-35.251153,149.15674099999998,468
+1243,3209,Officer Cr after Salomons Pl,-35.251668,149.154608,478
+1244,3210,Officer Cr before Majura Av,-35.251411,149.154301,466
+1245,3211,Officer Cr after Agnew St,-35.253622,149.154742,478
+1246,3212,Officer Cr after 2nd Hannan Cr,-35.253737,149.15444499999998,466
+1247,3213,Officer Cr before Gillen St,-35.255061,149.15287,478
+1248,3214,Officer Cr opp Gillen St,-35.2549,149.152876,466
+1249,3215,Officer Cr after Hawdon St,-35.256833,149.149891,478
+1250,3216,Officer Cr after Beeby St,-35.256821,149.149623,466
+1251,3217,Officer Cr before Tyson St,-35.258790999999995,149.147878,478
+1252,3218,Officer Cr before Davenport St,-35.258487,149.14783899999998,466
+1253,3219,Ebden St after 2nd Hoddle Gdns,-35.261354,149.147449,478
+1254,3220,Officer Cr after Wakefield Av,-35.261568,149.14727299999998,466
+1255,3221,O'Connell St opp Ainslie Shops,-35.262491,149.145898,478
+1256,3222,Ainslie Shops O'Connell St,-35.26231,149.145757,466
+1257,3223,Cox St before Campbell St,-35.263591999999996,149.143947,478
+1258,3224,Campbell St before Cox St,-35.263771000000006,149.143528,466
+1259,3225,Campbell St after Foveaux St,-35.265718,149.143343,478
+1260,3226,Campbell St before Foveaux St,-35.265512,149.143242,466
+1261,3227,Campbell St after 2nd Baker Gdns,-35.268477000000004,149.14441599999998,478
+1262,3228,Campbell St after Leslie St,-35.268758,149.144453,466
+1263,3229,Campbell St before Chisholm St,-35.271144,149.145964,478
+1264,3230,Chisholm St after Paterson St,-35.271755999999996,149.14553700000002,466
+1265,3231,Chisholm St after Howe Cr,-35.272643,149.143544,478
+1266,3232,Chisholm St after Lister Cr,-35.272482000000004,149.143697,466
+1267,3233,Gooreen St after Donaldson St,-35.274395,149.14023400000002,477
+1268,3234,Gooreen St after Chapman St,-35.274651,149.14025800000002,465
+1269,3235,Gooreen St after Batman St,-35.276275,149.141326,477
+1270,3236,Gooreen St before Batman St,-35.276208000000004,149.141162,465
+1271,3237,Melba St at Blacket St,-35.24731,149.142356,488
+1272,3238,Melba St at Allport St,-35.247712,149.14242,529
+1273,3239,Melba St after Legge St,-35.245492,149.142635,488
+1274,3240,Melba St after Bradfield St,-35.24492,149.142878,529
+1275,3241,Melba St after Atherton St,-35.243709,149.14294099999998,488
+1276,3242,Melba St after Bradfield St,-35.243787,149.14306000000002,529
+1277,3243,Bradfield St opp Frencham St,-35.24344,149.145499,488
+1278,3244,Bradfield St after Frencham St,-35.243437,149.144497,529
+1279,3245,Bradfield St before Nicholas St,-35.242508,149.14792,488
+1280,3246,Bradfield St after Burn St,-35.242366,149.14828500000002,529
+1281,3247,Knox St opp Majura PS,-35.238401,149.15389299999998,383
+1282,3248,Majura PS Knox St,-35.23798,149.153647,688
+1283,3249,Knox St after 1st A'Beckett St,-35.237187,149.152321,383
+1284,3250,Knox St opp 1st A'Beckett St,-35.234706,149.15170600000002,688
+1285,3251,Knox St after 2nd A'Beckett St,-35.234956,149.151576,383
+1286,3252,Knox St before Piddington St,-35.232521000000006,149.153198,688
+1287,3253,Knox St after Molesworth St,-35.232347999999995,149.153228,383
+1288,3258,National Library King Edward Tce,-35.297957000000004,149.129267,2206
+1289,3259,The Treasury Building King Edward Tce,-35.298039,149.128988,2166
+1290,3260,John Gorton Building Parkes Pl,-35.301184,149.133879,1855
+1291,3261,Parkes Pl opp John Gorton Building,-35.301181,149.133731,1813
+1292,3262,National Cct before Canberra Av,-35.314057,149.130378,671
+1293,3263,National Cct opp Fitzroy St,-35.313804,149.13056799999998,684
+1294,3270,Monaro Cr before Flinders Way,-35.329658,149.128186,475
+1295,3271,Monaro Cr after Flinders Way,-35.329126,149.128066,464
+1296,3272,Canberra Senior Grammar School Golden Gr,-35.331576,149.12881299999998,475
+1297,3273,Golden Gr opp Canberra Senior Grammar School,-35.331882,149.12854199999998,464
+1298,3274,Golden Gr after Friendship St,-35.334903999999995,149.125687,475
+1299,3275,Golden Gr opp Alexander St,-35.334292,149.126241,464
+1300,3276,Golden Gr before Friendship St,-35.336661,149.125743,475
+1301,3277,Golden Gr before Quiros St,-35.336672,149.125852,464
+1302,3278,Golden Grove after La Perouse St,-35.338756,149.126469,475
+1303,3279,Golden Grove before La Perouse St,-35.338291999999996,149.126307,464
+1304,3280,La Perouse St before Cygnet Cr,-35.340634,149.129512,475
+1305,3281,La Perouse St after Golden Grove,-35.339791,149.127017,464
+1306,3282,La Perouse St before Red Hill Shops,-35.340621,149.132225,475
+1307,3283,La Perouse St before Nuyts St,-35.340313,149.12873000000002,464
+1308,3284,La Perouse St before Dalrymple St,-35.33812,149.135785,205
+1309,3285,La Perouse St opp Red Hill Shops,-35.340646,149.131012,464
+1310,3286,Carnegie Cr after Finniss Cr,-35.337016999999996,149.136597,205
+1311,3287,Red Hill School La Perouse St,-35.339816,149.13401299999998,464
+1312,3288,Carnegie Cr after Scott St,-35.336901,149.14066200000002,205
+1313,3289,La Perouse St before Carnegie Cr,-35.338255,149.135671,196
+1314,3290,Caley Cr before Sprent St,-35.33753,149.14365800000002,205
+1315,3291,Carnegie Cr after La Perouse St,-35.336948,149.136732,196
+1316,3292,Caley Cr after Goyder St,-35.339461,149.145341,205
+1317,3293,Carnegie Cr before Caley Cr,-35.336688,149.14082,196
+1318,3294,Captain Cook Cr before Barrallier St,-35.32578,149.135261,464
+1319,3295,Caley Cr after Sprent St,-35.337652,149.143892,196
+1320,3296,Bremer St before Hodgkinson St,-35.329003,149.134687,464
+1321,3297,Caley Cr before Goyder St,-35.339475,149.145476,196
+1322,3299,Captain Cook Cr before Austin St,-35.326877,149.135214,475
+1323,3301,Bremer St before Captain Cook Cr,-35.328977,149.134429,475
+1324,3319,Fred Daly Av after John Gorton Dr,-35.318909000000005,149.038165,626
+1325,3321,Wentworth Av opp Canberra Railway Stn,-35.319226,149.146794,876
+1326,3322,Collie St after Wollongong St,-35.326815,149.179726,371
+1327,3323,Albany St before Townsville St,-35.327073,149.181764,371
+1328,3329,Fred Daly Av before John Gorton Dr,-35.319287,149.038078,626
+1329,3331,Fred Daly Av after Yorston St,-35.313407,149.04256,626
+1330,3332,Fred Daly Av before Buttfield St,-35.313765000000004,149.04283999999998,626
+1331,3345,Aspinall St opp Watson Terminus,-35.230035,149.162096,600
+1332,3346,Wattle St after Dyson St,-35.250488,149.12276200000002,755
+1333,3347,Brigalow St opp Lyneham Shops,-35.251412,149.124469,134
+1334,3351,Milne Bay Rd after General Bridges Rd,-35.294171999999996,149.162296,651
+1335,3352,Tobruk Rd before Gallipoli Rd,-35.293787,149.164322,651
+1336,3353,Canberra Airport,-35.307562,149.18955,1253
+1337,3356,Legislative Assembly London Cct,-35.281324,149.131463,7940
+1338,3360,Canberra Railway Stn Wentworth Av,-35.319203,149.147373,828
+1339,3369,Cowper St before Majura Av,-35.256820000000005,149.139672,467
+1340,3377,Wattle St before Miller St,-35.249699,149.121427,783
+1341,3378,Brigalow St before Lyneham Shops,-35.252174,149.123329,467
+1342,3379,Brigalow St after Lyneham Shops,-35.252171999999995,149.12348,458
+1343,3382,Ellenborough St before Cossington Smith St,-35.237517,149.125283,1857
+1344,3383,Ellenborough St opp Cossington Smith St,-35.23766,149.12551399999998,925
+1345,3384,Watson Terminus Aspinall St,-35.23007,149.162178,890
+1346,3385,Fawkner St before Elouera St,-35.273182,149.135524,466
+1347,3386,Fawkner St after Elouera St,-35.272622,149.135555,464
+1348,3387,Fawkner St after Girrahween St,-35.27147,149.135821,466
+1349,3388,Fawkner St before Girrahween St,-35.271516999999996,149.135701,464
+1350,3389,Doonkuna St after Donaldson St,-35.275804,149.13734,466
+1351,3390,Doonkuna St before Donaldson St,-35.275786,149.137212,464
+1352,3391,Knox St after Dickinson St,-35.237021,149.152391,688
+1353,3401,City Interchange Plt 10,-35.279369,149.130579,2314
+1354,3402,City Interchange Plt 11,-35.279332000000004,149.13042099999998,161
+1355,3403,Braybrooke St before Battye St,-35.2447,149.0997,662
+1356,3404,City Interchange Plt 12,-35.278735,149.13050900000002,2234
+1357,3406,City Interchange Plt 3,-35.278507,149.1297,2439
+1358,3407,Braybrooke St after Battye St,-35.2443,149.099799,649
+1359,3409,City Interchange Plt 4,-35.278449,149.130382,2895
+1360,3410,City Interchange Plt 6,-35.277767,149.130619,2584
+1361,3413,City Interchange Plt 8,-35.278333,149.13071000000002,1842
+1362,3418,City Interchange Plt 2,-35.278255,149.128729,4916
+1363,3419,City Interchange Plt 1,-35.278321999999996,149.12815,1743
+1364,3420,City Interchange Plt 9,-35.279067,149.13061100000002,18
+1365,3424,Milne Bay Rd before Tobruk Rd,-35.292651,149.163207,651
+1366,3427,Aspinall St opp Roma Mitchell Cr,-35.231061,149.15541100000002,383
+1367,3428,Aspinall St after Roma Mitchell Cr,-35.231117,149.155275,688
+1368,3429,Aspinall St opp Mary Kitson St,-35.230562,149.157569,383
+1369,3430,Aspinall St after Mary Kitson St,-35.230573,149.15774199999998,688
+1370,3431,McCaughey St after Barry Dr,-35.27281,149.122367,593
+1371,3434,Ginninderra Dr before Lance Hill Av,-35.199578,149.018662,889
+1372,3437,Archall St after Cashion Ct,-35.202045,149.015658,598
+1373,3438,Archdall St before Jonsson Ct,-35.202290999999995,149.015919,592
+1374,3441,CISAC College St,-35.242914,149.074506,4949
+1375,3442,College St opp CISAC,-35.243081,149.075035,4997
+1376,3443,Lance Hill Av after Santry Pl,-35.196799,149.021797,724
+1377,3444,Lance Hill Av before Fairlight St,-35.195212,149.020259,724
+1378,3459,Watkin St after Thynne St,-35.244963,149.09548700000002,905
+1379,3460,Watkin St after Battye St,-35.245447,149.095273,928
+1380,3467,Brindabella Business Park Molonglo Dr,-35.315126,149.19028799999998,947
+1381,3469,8 Brindabella Cct,-35.313168,149.190282,947
+1382,3473,War Memorial Fairbairn Av,-35.282613,149.150038,379
+1383,3474,Fairbairn Av opp War Memorial,-35.282709000000004,149.148732,380
+1384,3475,Aspinall St after Zelling St,-35.229219,149.164793,144
+1385,3476,Aspinall St after Antill St,-35.229092,149.165467,515
+1386,3486,Liversidge St before Ellery Cr,-35.282188,149.120969,501
+1387,3487,Liversidge St after Ellery Cr,-35.282472,149.12088899999998,511
+1388,4005,Haydon Dr opp Radford College,-35.24282,149.09075900000002,3074
+1389,4006,Radford College College St,-35.242521,149.088549,4999
+1390,4007,Haydon Dr after University Dr,-35.237503000000004,149.090784,972
+1391,4008,Haydon Dr opp University Dr,-35.237834,149.090972,1004
+1392,4009,Baldwin Dr after Ginninderra Dr,-35.231821000000004,149.092884,1184
+1393,4010,Baldwin Dr before Ginninderra Dr,-35.231787,149.093048,1209
+1394,4011,Maribyrnong Av after Baldwin Dr,-35.229859000000005,149.096648,453
+1395,4012,Baldwin Dr after 2nd Maribyrnong Av,-35.230009,149.094546,1209
+1396,4013,Maribyrnong Av before Baldwin Dr,-35.230176,149.096721,457
+1397,4014,Maribyrnong Av after 1st Diamantina Cr,-35.231761999999996,149.099064,453
+1398,4015,Maribyrnong Av before 2nd Alberga St,-35.232132,149.0994,457
+1399,4016,Maribyrnong Av opp Gwydir Square,-35.233508,149.10286599999998,453
+1400,4017,Gwydir Square Maribyrnong Av,-35.233647999999995,149.10273,457
+1401,4018,Maribyrnong Av opp Daintree Cr,-35.232415,149.107894,453
+1402,4019,Maribyrnong Av after Daintree Cr,-35.232568,149.107775,457
+1403,4020,Maribyrnong Av before Wakool Cct,-35.231195,149.110199,453
+1404,4021,Maribyrnong Av after Ellenborough St,-35.231113,149.11051799999998,457
+1405,4022,Maribyrnong Av opp Warrego Cct,-35.22948,149.111211,486
+1406,4023,Maribyrnong Av after Warrego Cct,-35.229359,149.11137,479
+1407,4024,Maribyrnong Av after Campaspe Cct,-35.22694,149.111114,486
+1408,4025,Maribyrnong Av after Greenough Cct,-35.227108,149.111269,480
+1409,4026,Maribyrnong Av before Tyrell Cct,-35.224027,149.110918,486
+1410,4027,Maribyrnong Av before Ashburton Cct,-35.224243,149.111042,478
+1411,4028,Maribyrnong Av before 1st Staaten Cr,-35.221239000000004,149.111161,486
+1412,4029,Maribyrnong Av after Moruya Cct,-35.221306,149.111287,478
+1413,4030,Maribyrnong Av opp 2nd Yarra St,-35.218999,149.110871,486
+1414,4031,Maribyrnong Av after 1st Yarra St,-35.219121,149.11106999999998,478
+1415,4032,80 Maribyrnong Av,-35.217719,149.109135,486
+1416,4033,Maribyrnong Av before 2nd Onkaparinga Cr,-35.21755,149.108824,478
+1417,4034,Maribyrnong Av before 2nd Staaten Cr,-35.218604,149.105126,486
+1418,4035,Maribyrnong Av before 1st Onkaparinga Cr,-35.218432,149.10525900000002,478
+1419,4036,Kaleen Village Maribyrnong Av,-35.219446999999995,149.102956,486
+1420,4037,Maribyrnong Av opp Kaleen Village,-35.219273,149.103166,478
+1421,4038,Maribyrnong Av after 2nd Georgina Cr,-35.219915,149.10161399999998,486
+1422,4039,Maribyrnong Av before Callabonna St,-35.220012,149.101109,478
+1423,4040,Chuculba Cr before Baldwin Dr,-35.218505,149.098034,960
+1424,4041,Chuculba Cr after Baldwin Dr,-35.218427,149.097949,960
+1425,4042,Chuculba Cr opp Canopus Cr,-35.216209,149.099831,478
+1426,4043,Chuculba Cr after Canopus Cr,-35.215996999999994,149.099776,486
+1427,4044,Chuculba Cr before Lenehan St,-35.213747999999995,149.10153300000002,478
+1428,4045,Chuculba Cr before 1st Spica St,-35.213734,149.101363,486
+1429,4046,Chuculba Cr before 2nd Antares Cr,-35.211194,149.10204299999998,478
+1430,4047,Chuculba Cr opp 1st Antares Cr,-35.211217,149.101899,486
+1431,4048,Chuculba Cr after Nyawi Pl,-35.210207000000004,149.099516,478
+1432,4049,92 Chuculba Cr,-35.210281,149.099374,486
+1433,4050,Chuculba Cr after 2nd Mirrabucca Cr,-35.208926,149.09551000000002,478
+1434,4051,Chuculba Cr after Fornax St,-35.208921000000004,149.09588200000002,486
+1435,4052,Chuculba Cr after Buriga St,-35.209721,149.093504,478
+1436,4053,Chuculba Cr before 2nd Centaurus St,-35.209857,149.093469,486
+1437,4054,Canopus Cr after Achernar Cl,-35.212595,149.091162,482
+1438,4055,Canopus Cr at 1st Balamara St,-35.212675,149.091052,474
+1439,4056,Canopus Cr opp Giralang PS,-35.212971,149.09418300000002,482
+1440,4057,Giralang PS Canopus Cr,-35.212941,149.094748,474
+1441,4058,Canopus Cr after Fornax St,-35.213877000000004,149.096678,482
+1442,4059,Canopus Cr after 2nd Tucana St,-35.214529,149.09655800000002,474
+1443,4060,Canopus Cr after Hirst Pl,-35.215971,149.09814,482
+1444,4061,Canopus Cr after 1st Tucana St,-35.215962,149.09781,474
+1445,4062,John Cleland Cr opp 1st Tattersall Cr,-35.226217,149.05816000000002,687
+1446,4063,John Cleland Cr before 2nd Twelvetrees Cr,-35.225963,149.05850800000002,704
+1447,4064,Florey Shops John Cleland Cr,-35.224726000000004,149.055,689
+1448,4065,John Cleland Cr opp Florey Shops,-35.224788000000004,149.055143,706
+1449,4066,John Cleland Cr opp 2nd Twelvetrees Cr,-35.222826,149.054887,689
+1450,4067,John Cleland Cr before 1st Twelvetrees Cr,-35.222747,149.055017,706
+1451,4068,John Cleland Cr before Ginninderra Dr,-35.221539,149.054338,689
+1452,4069,John Cleland Cr after Ginninderra Dr,-35.221159,149.05433,706
+1453,4070,Copland Dr after Ginninderra Dr,-35.218764,149.053971,701
+1454,4071,Copland Dr after Carlile St,-35.218604,149.054245,718
+1455,4072,Copland College Copland Dr,-35.21243,149.0607,896
+1456,4073,Copland Dr opp Copland College,-35.212715,149.06071799999998,922
+1457,4074,Copland Dr opp Keenan St,-35.209752,149.06117700000001,895
+1458,4075,Copland Dr at Keenan St,-35.209734999999995,149.061362,922
+1459,4076,Copland Dr before 2nd McEachern Cr,-35.208197999999996,149.06305,895
+1460,4077,Copland Dr after Meagher Pl,-35.208371,149.062953,922
+1461,4078,Alpen St after 1st Clifford Cr,-35.206309999999995,149.064551,433
+1462,4079,Alpen St after Baddeley Cr,-35.206257,149.064694,452
+1463,4080,Baddeley Cr after Colborne Pl,-35.20486,149.063691,652
+1464,4081,Baddeley Cr after Broadby Cl,-35.205053,149.063763,665
+1465,4082,Baddeley St after 1st Hancock St,-35.202836,149.065282,651
+1466,4083,Baddeley Cr after Garrard St,-35.202596,149.06568000000001,665
+1467,4084,Baddeley Cr after 2nd Hancock St,-35.200621999999996,149.065989,652
+1468,4085,Baddeley Cr before Edmunds Pl,-35.200136,149.065821,665
+1469,4086,Baddeley Cr after Blumental Pl,-35.199292,149.063349,652
+1470,4087,Baddeley Cr before Crofts Cr,-35.199277,149.0628,665
+1471,4088,Belconnen Way after Coulter Dr,-35.243748,149.05501,358
+1472,4089,Kingsford Smith Dr after Magrath Cr,-35.197792,149.060565,652
+1473,4090,Kingsford Smith Dr opp Magrath Cr,-35.197509000000004,149.06059199999999,665
+1474,4091,Kingsford Smith Dr opp Spence Shops,-35.194784000000006,149.060626,652
+1475,4092,Spence Shops Kingsford Smith Dr,-35.194955,149.060724,665
+1476,4093,Clarey Cr after Clark Cl,-35.19477,149.063759,652
+1477,4094,Clarey Cr before O'Neill St,-35.194877000000005,149.063736,665
+1478,4095,Clarey Cr at 2nd Healy St,-35.196798,149.06596100000002,652
+1479,4096,Clarey Cr at Dunkley Pl,-35.196659999999994,149.06582,665
+1480,4097,Clarey Cr before Boote St,-35.197685,149.068755,652
+1481,4098,Clarey Cr before Scattergood Pl,-35.197841,149.06875,665
+1482,4099,Owen Dixon Dr opp Clarey Cr,-35.197089,149.070549,651
+1483,4101,Owen Dixon Dr before Clarey Cr,-35.197244,149.070649,664
+1484,4102,Owen Dixon Dr opp Douglass St,-35.198646000000004,149.072761,651
+1485,4103,Owen Dixon Dr after Douglass St,-35.198638,149.072573,664
+1486,4104,Copland Dr after Owen Dixon Dr,-35.200393,149.07274099999998,1115
+1487,4105,Copland Dr before Owen Dixon Dr,-35.200283,149.072709,1136
+1488,4111,Evatt Shops Clancy St,-35.209103000000006,149.073239,463
+1489,4112,Clancy St opp Evatt Shops,-35.209266,149.07318700000002,470
+1490,4113,Evatt PS Heydon Cr,-35.207435,149.075167,464
+1491,4114,Heydon Cr opp Evatt PS,-35.207772999999996,149.074975,472
+1492,4115,Heydon Cr before Owen Dixon Dr,-35.207408,149.079609,464
+1493,4116,Heydon Cr after Owen Dixon Dr,-35.207518,149.07996699999998,472
+1494,4129,Dumas St after 1st Baume Cr,-35.214687,149.07324599999998,471
+1495,4130,Dumas St before 2nd Vagabond Cr,-35.215084999999995,149.07343999999998,464
+1496,4131,McKellar Shops Dumas St,-35.217428000000005,149.07388400000002,471
+1497,4132,Dumas St opp McKellar Shops,-35.217512,149.073712,464
+1498,4133,Dumas St at 2nd Grover Cr,-35.219519,149.072155,471
+1499,4134,Dumas St before 2nd Buggy Cr,-35.219424,149.072074,464
+1500,4135,Dumas St opp 1st Bean Cr,-35.22221,149.073161,471
+1501,4136,Dumas St after 2nd Bean Cr,-35.222305,149.07306499999999,464
+1502,4137,Dumas St opp 2nd Bean Cr,-35.22215,149.07463700000002,471
+1503,4138,Dumas St after 1st Bean Cr,-35.222317,149.07454199999998,464
+1504,4139,Dumas St after 1st Slessor Cr,-35.220806,149.076077,471
+1505,4140,Dumas St opp 2nd Slessor Cr,-35.220890000000004,149.07617,464
+1506,4141,Dumas St at 2nd Slessor Cr,-35.219703,149.07846,471
+1507,4142,Dumas St after William Slim Dr,-35.219851,149.07870400000002,464
+1508,4143,Aikman Dr opp UC,-35.238233,149.076885,1641
+1509,4144,Aikman Dr before Townsend Pl,-35.237504,149.076927,1607
+1510,4145,Emu Bank after Aikman Dr,-35.239748999999996,149.074658,1641
+1511,4146,Emu Bank Bus Stn,-35.239589,149.075065,3925
+1512,4147,Charnwood Shops Tillyard Dr,-35.205779,149.035107,532
+1513,4148,Tillyard Dr opp Charnwood Shops,-35.205979,149.035209,502
+1514,4149,Tillyard Dr after Geeves Ct,-35.204621,149.038184,532
+1515,4150,Tillyard Dr after Blackwell Cct,-35.204817,149.038246,502
+1516,4151,Tillyard Dr after McDougall St,-35.202234000000004,149.041639,532
+1517,4152,Tillyard Dr after Crawford Cr,-35.202372,149.04159199999998,502
+1518,4153,Tillyard Dr after Sadleir Pl,-35.20046,149.043039,532
+1519,4154,Tillyard Dr after Spalding St,-35.200398,149.043279,502
+1520,4155,Spalding St before Flierl Pl,-35.199292,149.046677,238
+1521,4156,Spalding St after Flierl Pl,-35.199373,149.046902,246
+1522,4157,Spalding St after Schwartz Pl,-35.201365,149.049653,238
+1523,4158,Spalding St opp Schwarz Pl,-35.201262,149.04952600000001,246
+1524,4159,Spalding St before Kingsford Smith Dr,-35.203272,149.050291,238
+1525,4160,Spalding St after Kingsford Smith Dr,-35.203425,149.050288,246
+1526,4161,Alfred Hill Dr opp Henslowe Pl,-35.206616,149.052108,465
+1527,4162,Alfred Hill Dr after Henslowe Pl,-35.20671,149.051974,451
+1528,4163,Alfred Hill Dr after Bishop Pl,-35.206658000000004,149.054466,465
+1529,4164,Alfred Hill Dr before Henslowe Pl,-35.206765000000004,149.05432199999998,451
+1530,4165,Alfred Hill Dr opp Mount Rogers PS,-35.208411,149.057292,465
+1531,4166,Mount Rogers PS Alfred Hill Dr,-35.208490000000005,149.056928,451
+1532,4167,Alfred Hill Dr after 1st Crossley Cl,-35.206841,149.058807,465
+1533,4168,Alfred Hill Dr after Levey Pl,-35.206296,149.059094,451
+1534,4171,Moynihan St after 1st Deffell St,-35.214546,149.06178,682
+1535,4172,Moynihan St after Fitzhardinge Cr,-35.215011,149.063445,673
+1536,4173,Moynihan St before 2nd Ligertwood St,-35.214853000000005,149.06458899999998,682
+1537,4174,Moynihan St before Callaghan St,-35.214925,149.06568000000001,673
+1538,4175,Moynihan St before 2nd Alderman St,-35.21425,149.067248,682
+1539,4176,Moynihan St after De Lissa St,-35.214263,149.067695,673
+1540,4177,Moynihan St before Norton St,-35.214357,149.070082,682
+1541,4178,Moynihan St after William Webb Dr,-35.214789,149.070536,673
+1542,4179,William Webb Dr opp Callaghan St,-35.216389,149.069943,489
+1543,4180,William Webb Dr before Callaghan St,-35.216567,149.069534,450
+1544,4181,169 William Webb Dr,-35.219882,149.06987,489
+1545,4182,William Webb Dr before Croke Pl,-35.219974,149.069805,450
+1546,4188,Haydon Dr after College St,-35.24136,149.09007,832
+1547,4189,Southern Cross Dr after Ross Smith Cr,-35.22898,149.040702,972
+1548,4190,Southern Cross Dr after Kingsford Smith Dr,-35.228657,149.04055300000002,974
+1549,4191,Kingsford Smith Dr after Southern Cross Dr,-35.225773,149.036328,467
+1550,4192,Kingsford Smith Dr before Southern Cross Dr,-35.226321,149.036183,445
+1551,4193,Kingsford Smith Dr opp St Francis Xavier College,-35.224266,149.037957,467
+1552,4194,St Francis Xavier College Kingsford Smith Dr,-35.223542,149.039089,445
+1553,4195,Kingsford Smith Dr opp Krefft St,-35.219613,149.041331,466
+1554,4196,Kingsford Smith Dr after Ginninderra Dr,-35.219065,149.042245,444
+1555,4197,Companion Cr after Kingsford Smith Dr,-35.213217,149.04525800000002,483
+1556,4198,Companion Cr after Dolling Cr,-35.213111,149.04529499999998,467
+1557,4199,Companion Cr after 2nd Vickers Cr,-35.211349,149.042788,483
+1558,4200,Companion Cr opp 1st Vickers Cr,-35.211981,149.043421,467
+1559,4201,Companion Cr before Noble Pl,-35.20844,149.042157,483
+1560,4202,Companion Cr after 2nd Nulsen Cct,-35.20828,149.04214199999998,467
+1561,4203,Companion Cr at Homann Pl,-35.208812,149.039325,483
+1562,4204,Companion Cr at Dobinson Pl,-35.209303000000006,149.038455,467
+1563,4205,Lhotsky St opp Charnwood Shops,-35.205867,149.033043,632
+1564,4206,Charnwood Shops Lhotsky St,-35.205488,149.032498,640
+1565,4207,Lhotsky St after Florey Dr,-35.203022999999995,149.02764399999998,471
+1566,4208,Lhotsky St after Cartwright St,-35.203168,149.027873,475
+1567,4209,Lhotsky St before Sport Way,-35.201018,149.02716,471
+1568,4210,Lhotsky St before Cartwright St,-35.201274,149.02729399999998,475
+1569,4211,Lhotsky St before Napthali Cl,-35.199125,149.03076000000001,471
+1570,4212,Lhotsky St at Donnison Pl,-35.199314,149.03061200000002,475
+1571,4213,Lhotsky St before Townson Cr,-35.19702,149.033853,471
+1572,4214,Lhotsky St before 2nd Bettington Cct,-35.197261,149.033634,475
+1573,4215,Lhotsky St after 2nd Townson Cr,-35.195777,149.035246,471
+1574,4216,Lhotsky St after Sly Pl,-35.196034000000004,149.03524199999998,475
+1575,4217,Kerrigan St after Winder Pl,-35.193829,149.034683,557
+1576,4218,Kerrigan St opp Winder Pl,-35.193735,149.035033,558
+1577,4219,Shakespeare Cr after Kerrigan St,-35.193188,149.03298,1313
+1578,4220,Shakespeare Cr after Pettifer Pl,-35.193224,149.033089,1312
+1579,4221,Fraser West Terminus Shakespeare Cr,-35.190579,149.03603600000002,3322
+1580,4223,Shakespeare Cr before 2nd Dunbar St,-35.189083000000004,149.038728,451
+1581,4224,Shakespeare Cr opp 1st Dunbar St,-35.188971,149.03884299999999,481
+1582,4225,Shakespeare Cr opp 41,-35.189508000000004,149.041677,451
+1583,4226,41 Shakespeare Cr,-35.189532,149.041553,481
+1584,4227,Shakespeare Cr opp 25,-35.191559000000005,149.040523,451
+1585,4228,Shakespeare Cr after Filshie Cl,-35.191592,149.04036000000002,481
+1586,4229,Kerrigan St after Shakespeare Cr,-35.193692,149.040272,534
+1587,4230,Kerrigan St after Crowley Ct,-35.193771999999996,149.040123,567
+1588,4231,Tillyard Dr after Kerrigan St,-35.193181,149.042274,820
+1589,4232,Tillyard Dr after 2nd Daley Cr,-35.193222999999996,149.04240900000002,812
+1590,4233,Daley Cr opp Fraser Shops,-35.192678,149.044157,492
+1591,4234,Fraser Shops Daley Cr,-35.192710999999996,149.044005,457
+1592,4235,Daley Cr opp 1st Bingley Cr,-35.193471,149.04679099999998,492
+1593,4236,Daley Cr after 2nd Bingley Cr,-35.193673,149.046525,457
+1594,4237,Bingley Cr after 2nd Rochford St,-35.190482,149.050413,457
+1595,4238,Bingley Cr after 2nd Foskett St,-35.190512,149.050176,492
+1596,4239,Bingley Cr at Vercoe Pl,-35.190442,149.05271399999998,457
+1597,4240,Bingley Cr opp Crease Pl,-35.190535,149.05305,492
+1598,4241,Bingley Cr at 1st Brophy St,-35.191047999999995,149.055707,457
+1599,4242,Bingley Cr at Nish Pl,-35.190989,149.055461,492
+1600,4249,Kingsford Smith Dr after Alpen St,-35.203487,149.05893799999998,246
+1601,4250,Kingsford Smith Dr after Le Gallienne St,-35.203008000000004,149.057523,238
+1602,4251,Kingsford Smith Dr before Le Gallienne St,-35.202913,149.05613300000002,246
+1603,4252,Kingsford Smith Dr after 1st Bainton Cr,-35.202751,149.055143,238
+1604,4253,Kingsford Smith Dr before Carandini St,-35.203261,149.05226000000002,246
+1605,4254,Kingsford Smith Dr after Spalding St,-35.203485,149.05148,238
+1606,4255,Kingsford Smith Dr after Alfred Hill Dr,-35.20662,149.048956,451
+1607,4256,Kingsford Smith Dr after Pattinson Cr,-35.206321,149.048811,465
+1608,4257,Melba Shops Kingsford Smith Dr,-35.2087,149.04765700000002,451
+1609,4258,Kingsford Smith Dr opp Melba Shops,-35.208192,149.047372,465
+1610,4259,Verbrugghen St after 1st Grainger Cct,-35.211506,149.050246,472
+1611,4260,Verbrugghen St after Conley Dr,-35.211315,149.050042,477
+1612,4261,Verbrugghen St opp Melba HS,-35.213204,149.051151,475
+1613,4262,Melba HS Verbrugghen St,-35.213177,149.050959,474
+1614,4263,67 Verbrugghen St,-35.213493,149.05436699999998,475
+1615,4264,Verbrugghen St before Brownlee Pl,-35.213576,149.054195,474
+1616,4265,Copland College Verbrugghen St,-35.212967,149.058702,475
+1617,4266,Verbrugghen St opp Copland College,-35.212854,149.05833,474
+1618,4269,Coulter Dr before Lachlan St,-35.246719,149.056242,456
+1619,4270,Coulter Dr before Belconnen Way,-35.245651,149.056165,464
+1620,4271,Coulter Dr after Lachlan St,-35.249320000000004,149.05573600000002,943
+1621,4272,Coulter Dr opp Lachlan St,-35.24929,149.055616,942
+1622,4273,Coulter Dr opp Schumack St,-35.252645,149.05473,943
+1623,4274,Coulter Dr after Schumack St,-35.252734999999994,149.05459,942
+1624,4275,Coulter Dr opp Shumack St,-35.255078000000005,149.054122,476
+1625,4276,Coulter Dr before Shumack St,-35.255246,149.053978,467
+1626,4288,Belconnen HS Murranji St,-35.247157,149.040404,477
+1627,4291,Murranji St opp Hawker College,-35.246438,149.032273,469
+1628,4292,Hawker College Murranji St,-35.246336,149.03232,477
+1629,4293,Murranji St opp Delamere St,-35.243491999999996,149.03205400000002,469
+1630,4294,Murranji St after Delamere St,-35.24377,149.031995,467
+1631,4295,Belconnen Way after Mackinolty St,-35.240775,149.03468,335
+1632,4296,Belconnen Way before Murranji St,-35.241071999999996,149.035761,359
+1633,4297,Kingsford Smith Dr after Findlay St,-35.236275,149.032646,359
+1634,4298,Kingsford Smith Dr opp Findlay St,-35.236746999999994,149.03260600000002,336
+1635,4301,Findlay St after Kinsella St,-35.234176,149.028405,468
+1636,4302,Findlay St after Cantor Cr,-35.23388,149.02827,466
+1637,4303,Fullagar Cr after Davidson St,-35.233268,149.025249,456
+1638,4304,Fullagar Cr opp Cussen St,-35.232995,149.02426,437
+1639,4305,Cussen St before Davidson St,-35.233473,149.02240600000002,331
+1640,4306,Cussen St before Bundey St,-35.23338,149.022401,312
+1641,4307,Drake Brockman Dr opp Cussen St,-35.233087,149.019524,331
+1642,4308,Drake Brockman Dr before Cussen St,-35.233035,149.019671,312
+1643,4310,Starke St before Beaurepaire Cr,-35.227103,149.017232,343
+1644,4311,Beaurepaire Cr after Starke St,-35.226886,149.016027,437
+1645,4312,Beaurepaire Cr before Starke St,-35.226774,149.01601399999998,456
+1646,4313,Beaurepaire Cr before Trickett St,-35.226707,149.013275,437
+1647,4314,Beaurepaire Cr after Rice Pl,-35.226591,149.013494,456
+1648,4315,Beaurepaire Cr opp Holt Shops,-35.225134000000004,149.01091499999998,437
+1649,4316,Holt Shops Beaurepaire Cr,-35.22498,149.011084,456
+1650,4320,Kingsford Smith School Hardwick Cr,-35.227247,149.02314099999998,208
+1651,4321,Spofforth St opp Messenger St,-35.22226,149.00596399999998,456
+1652,4322,Spofforth St before Messenger St,-35.222436,149.006015,437
+1653,4323,Spofforth St before Southern Cross Dr,-35.220376,149.006943,456
+1654,4324,Spofforth St after Southern Cross Dr,-35.220240000000004,149.007119,437
+1655,4325,Southern Cross Dr opp Spofforth St,-35.218075,149.00833899999998,456
+1656,4326,Southern Cross Dr before Spofforth St,-35.218245,149.008617,437
+1657,4327,Southern Cross Dr after O'Reilly St,-35.218685,149.011601,1172
+1658,4328,Southern Cross Dr opp O'Reilly St,-35.218777,149.01140800000002,1159
+1659,4329,Southern Cross Dr before 1st Starke St,-35.219386,149.016066,716
+1660,4330,Southern Cross Dr after 2nd Starke St,-35.219535,149.01631,722
+1661,4331,YMCA Starke St,-35.221451,149.017274,1304
+1662,4332,Starke St opp YMCA,-35.221708,149.01706399999998,1021
+1663,4333,Kippax Interchange,-35.222429999999996,149.019477,3665
+1664,4334,Kippax Terminus,-35.222482,149.019328,660
+1665,4339,Fullagar Cr after Northmore Cr,-35.228202,149.028493,466
+1666,4340,Fullagar Cr opp Northmore Cr,-35.228215000000006,149.028348,468
+1667,4341,Fullagar Cr opp Higgins Shops,-35.231358,149.02778,922
+1668,4342,Higgins Shops Fullagar Cr,-35.231312,149.027617,905
+1669,4343,Castieau St after Dethridge St,-35.230222999999995,149.030829,437
+1670,4344,Castieau St after Hodges St,-35.230327,149.031137,456
+1671,4345,Castieau St after Northmore Cr,-35.229846,149.03354299999998,437
+1672,4346,Castieau St after Kingsford Smith Dr,-35.229966999999995,149.03341899999998,456
+1673,4347,Wirraway Cr after Kingsford Smith Dr,-35.230911,149.035331,444
+1674,4348,Wirraway Cr after Ulm St,-35.231014,149.035287,466
+1675,4349,Southern Cross Early Childhood School Wirraway Cr,-35.231965,149.037159,444
+1676,4350,Wirraway Cr opp Southern Cross Early Childhood Sch,-35.231926,149.03696499999998,466
+1677,4351,Ross Smith Cr opp Scullin Shops,-35.233197,149.03929,444
+1678,4352,Scullin Shops Ross Smith Cr,-35.233359,149.039301,466
+1679,4357,Southern Cross Dr after Kingsford Smith Dr,-35.226771,149.032838,876
+1680,4358,Southern Cross Dr after O'Loghlen St,-35.226572999999995,149.033044,874
+1681,4359,Southern Cross Dr before 1st Starke St,-35.225053,149.03130900000002,876
+1682,4360,192 Southern Cross Dr,-35.222978999999995,149.030252,1333
+1683,4361,Starke St opp Cranleigh School,-35.225465,149.029155,459
+1684,4362,Cranleigh School Starke St,-35.225918,149.028369,461
+1685,4363,Starke St opp Hardwick Cr,-35.228004,149.024459,927
+1686,4364,Starke St after Hardwick Cr,-35.22786,149.024623,927
+1687,4365,Hardwick Cr before Powell St,-35.225322,149.021882,584
+1688,4366,Hardwick Cr after Flack St,-35.225317,149.022051,586
+1689,4367,O'Reilly St before Osburn Dr,-35.21653,149.010712,723
+1690,4368,Osburn Dr opp O'Reilly St,-35.215744,149.010708,714
+1691,4369,Osburn Dr before Lipscomb Pl,-35.213648,149.00905500000002,723
+1692,4370,Osburn Dr before Hirschfeld Cr,-35.213649,149.00919,717
+1693,4371,Osburn Dr opp Macgregor Shops,-35.210952,149.010649,723
+1694,4372,Macgregor Shops Osburn Dr,-35.211256,149.010449,717
+1695,4373,Osburn Dr after Cannan Cr,-35.209733,149.013038,723
+1696,4374,Osburn Dr after Chalmers Pl,-35.210096,149.012231,717
+1697,4375,Osburn Dr before Archdall St,-35.210877,149.017368,723
+1698,4376,Osburn Dr opp Archdall St,-35.211024,149.017666,717
+1699,4377,19 Archdall St,-35.208915000000005,149.017472,723
+1700,4378,Archdall St before Beaney St,-35.208945,149.017619,717
+1701,4379,Archdall St opp Barrett St,-35.205839000000005,149.016593,723
+1702,4380,Archdall St after Barrett St,-35.206063,149.01667,717
+1703,4389,Florey Dr before 2nd Herron Cr,-35.210495,149.02661,474
+1704,4390,Florey Dr opp  1st Heron Cr,-35.211047,149.026136,470
+1705,4391,Florey Dr after Dalley Cr,-35.212398,149.02504199999998,474
+1706,4392,Florey Dr after Osburn Dr,-35.21236,149.02487,470
+1707,4393,Florey Dr opp Hayward St,-35.213971,149.021402,474
+1708,4394,Florey Dr after Hayward St,-35.213916999999995,149.021214,470
+1709,4395,Florey Dr before Southern Cross Dr,-35.21836,149.01938,474
+1710,4396,Florey Dr after Southern Cross Dr,-35.218318,149.019225,470
+1711,4397,Southern Cross Dr before Dalley Cr,-35.220281,149.025002,873
+1712,4398,Southern Cross Dr after Chave St,-35.220645000000005,149.025176,876
+1713,4399,Dalley Cr before 1st Solomon Cr,-35.219528000000004,149.02649499999998,462
+1714,4400,Dalley Cr before 2nd Gurner St,-35.219384000000005,149.026965,460
+1715,4401,Dalley Cr opp 2nd Gurner St,-35.219303000000004,149.028991,462
+1716,4402,Dalley Cr before 1st Gurner St,-35.219426,149.029101,460
+1717,4410,Onslow St opp Latham Shops,-35.219237,149.03193000000002,460
+1718,4411,Latham Shops Onslow St,-35.219136,149.032092,462
+1719,4412,Onslow St opp Latham PS,-35.220651000000004,149.03403,460
+1720,4413,Latham PS Onslow St,-35.220411999999996,149.033883,462
+1721,4414,O'Loghlen St after 1st Chambers St,-35.220482000000004,149.037345,460
+1722,4415,O'Loghlen St after 1st Stretton Cr,-35.220292,149.03731200000001,462
+1723,4416,O'Loghlen St before 2nd Milford St,-35.22153,149.038717,460
+1724,4417,Krefft St before 1st Ennor Cr,-35.222262,149.042754,462
+1725,4418,Krefft St opp 2nd Ennor Cr,-35.22228,149.04262,460
+1726,4419,Krefft St opp Barnard Cct,-35.224712,149.043643,462
+1727,4420,Krefft St before Barnard Cct,-35.224792,149.043542,460
+1728,4421,Krefft St after 2nd Ennor Cr,-35.225843,149.045799,463
+1729,4422,Krefft St opp 1st Ennor Cr,-35.225891,149.045387,461
+1730,4423,Krefft St opp 1st Boswell Cr,-35.2254,149.04843200000002,463
+1731,4424,Krefft St before 2nd Boswell Cr,-35.225543,149.048444,461
+1732,4425,Florey PS Krefft St,-35.225887,149.051412,463
+1733,4426,Krefft St opp Florey PS,-35.225876,149.051219,461
+1734,4427,Florey Shops Ratcliffe Cr,-35.226839,149.054575,463
+1735,4428,Ratcliffe Cr opp Florey Shops,-35.226887,149.054364,461
+1736,4429,Ratcliffe Cr after Connah St,-35.227818,149.056202,463
+1737,4430,Ratcliffe Cr opp Connah St,-35.227691,149.05593100000002,461
+1738,4431,Ratcliffe Cr after 1st Lightfoot Cr,-35.230581,149.055299,463
+1739,4432,Ratcliffe Cr before Woolnough St,-35.230295,149.05541599999998,461
+1740,4433,Ratcliffe Cr opp 2nd Challinor Cr,-35.23281,149.054609,463
+1741,4434,Ratcliffe Cr before 2nd Challinor Cr,-35.231848,149.054488,461
+1742,4435,Ratcliffe Cr after Southern Cross Dr,-35.233517,149.054235,461
+1743,4436,Kingsford Smith Dr opp Verbrugghen St,-35.210692,149.047992,426
+1744,4437,Shumack St after Harcourt St,-35.253723,149.051652,469
+1745,4438,Shumack St before 2nd Abernethy St,-35.253673,149.05184,477
+1746,4439,Weetangera PS Shumack St,-35.250834999999995,149.048951,469
+1747,4440,Shumack St opp Weetangera PS,-35.251379,149.04918500000002,477
+1748,4441,Weetangera Shops Shumack St,-35.249269,149.0493,469
+1749,4442,Shumack St opp Weetangera Shops,-35.249385,149.049599,477
+1750,4443,Gillespie St before Southwell St,-35.247203000000006,149.047228,469
+1751,4444,Gillespie St before 2nd Morton St,-35.246981,149.047328,477
+1752,4445,Gillespie St before Springvale Dr,-35.245408000000005,149.044835,469
+1753,4446,Gillespie St before 1st Morton St,-35.245379,149.04503,477
+1754,4447,Hawker Pl opp Hawker Shops,-35.243609,149.043307,469
+1755,4448,Hawker Shops Hawker Pl,-35.243708000000005,149.04385200000002,477
+1756,4449,Beetaloo St after Bonrook St,-35.245262,149.040876,469
+1757,4450,Beetaloo St opp Bonrook St,-35.24524,149.040786,477
+1758,4451,Erldunda Cctbefore 2nd Woolner Cct,-35.250075,149.040575,344
+1759,4452,Erldunda Cct opp 2nd Woolner Cct,-35.24942,149.040404,352
+1760,4453,Erldunda Cct after 1st Ambalindum St,-35.251195,149.0376,344
+1761,4454,Erldunda Cct before 2nd Kulgera St,-35.251096000000004,149.037729,352
+1762,4455,Erldunda Cct opp Hawker PS,-35.250389,149.034027,344
+1763,4456,Hawker PS Erldunda Cct,-35.250785,149.03496,352
+1764,4457,Erldunda Cct before Mataranka St,-35.248214000000004,149.03212,344
+1765,4458,Erldunda Cct after Tobermorey Pl,-35.248457,149.032296,352
+1766,4465,McGinness St after Ross Smith Cr,-35.233484999999995,149.04252,444
+1767,4466,McGinness St after Keith St,-35.233426,149.042219,466
+1768,4467,Chewings St opp McGinness St,-35.236429,149.04380700000002,445
+1769,4468,Chewings St before McGinness St,-35.236270000000005,149.04378,466
+1770,4469,Chewings St before Petterd St,-35.238229,149.04200600000001,445
+1771,4470,Chewings St opp Petterd St,-35.23807,149.04193,466
+1772,4471,Petterd St after Roseby St,-35.239205,149.045751,444
+1773,4472,Petterd St after 2nd Hannaford St,-35.239286,149.044929,466
+1774,4473,Petterd St after Halford Cr,-35.239529,149.048526,444
+1775,4474,Petterd St after Herrgott St,-35.239691,149.048471,466
+1776,4475,Page Shops Petterd St,-35.240111999999996,149.052355,444
+1777,4476,Petterd St opp Page Shops,-35.240287,149.05236599999998,466
+1778,4477,Ogilby Cr before Burkitt St,-35.23874,149.05473999999998,444
+1779,4478,Ogilby Cr after Kirchauff St,-35.239071,149.054218,466
+1780,4479,Cohen St Interchange Plt 3,-35.239884,149.06027,3979
+1781,4480,Cohen St Interchange Plt 5,-35.240120000000005,149.059685,1586
+1782,4482,Lance Hill Av before 2nd Evelyn Owen Cr,-35.199308,149.019576,718
+1783,4483,Lance Hill Av before 1st Alarmon Cr,-35.199308,149.019484,724
+1784,4484,Lance Hill Av opp 2nd Alarmon Cr,-35.198318,149.020466,718
+1785,4485,Lance Hill Av after 2nd Alarmon Cr,-35.198246000000005,149.020448,724
+1786,4486,Archdall St before Hugh McKay Cr,-35.19988,149.015657,849
+1787,4487,Tillyard Dr before Reuther St,-35.194914000000004,149.04161299999998,665
+1788,4488,Tillyard Dr before Kerrigan St,-35.195157,149.041469,703
+1789,4489,Tillyard Dr before Spalding St,-35.198113,149.044625,664
+1790,4490,Tillyard Dr opp Barber Cr,-35.197113,149.04286299999998,702
+1791,4491,Florey Dr after 1st Herron Cr,-35.208329,149.027002,599
+1792,4492,Florey Dr after Handcock Cr,-35.208458,149.026851,595
+1793,4494,Canberra HS Bindubi St,-35.251789,149.075043,505
+1794,4503,Bennelong Cr after Lachlan St,-35.248073,149.059013,478
+1795,4504,Bennelong Cr before Lachlan St,-35.248104999999995,149.05891599999998,487
+1796,4505,Macquarie PS Bennelong Cr,-35.250935999999996,149.058766,478
+1797,4506,Bennelong Cr opp Macquarie PS,-35.251092,149.058626,487
+1798,4507,Bennelong Cr after Roberts St,-35.253309,149.060081,478
+1799,4508,Bennelong Cr at Liverpool St,-35.25357,149.06047,487
+1800,4509,Bennelong Cr after Goulburn St,-35.253648,149.063071,478
+1801,4510,Lachlan St before Bennelong Cr,-35.254134,149.063606,487
+1802,4511,Redfern St before Allman Cct,-35.256107,149.06621299999998,478
+1803,4512,Redfern St before Lyttleton Cr,-35.256197,149.066128,487
+1804,4513,Redfern St after Allman St,-35.255824,149.068373,478
+1805,4514,Redfern St after Dexter St,-35.256002,149.068224,487
+1806,4515,Bowman St before Jamison Centre,-35.253155,149.069539,478
+1807,4516,Bowman St after Jamison Centre,-35.252881,149.069723,487
+1808,4517,Bowman St opp Jamison Centre,-35.252528999999996,149.07279,480
+1809,4518,Jamison Centre Bowman St,-35.252547,149.07266,487
+1810,4521,Aranda PS Bandjalong Cr,-35.256204,149.079656,488
+1811,4522,Bandjalong Cr opp Aranda PS,-35.256195,149.078506,479
+1812,4523,Bandjalong Cr before Nungara St,-35.257332,149.08229,488
+1813,4524,Bandjalong Cr opp Nungara St,-35.25736,149.082128,479
+1814,4525,Bandjalong Cr before Banambila St,-35.259004,149.084678,488
+1815,4526,Bandjalong Cr opp Banambila St,-35.259339000000004,149.085632,479
+1816,4527,Barry Dr opp ANU,-35.272489,149.118165,3605
+1817,4528,ANU Barry Dr,-35.272968,149.11901699999999,3560
+1818,4529,ANU Rimmer St,-35.276452,149.125783,4667
+1819,4530,Marcus Clarke St before Rimmer St,-35.277219,149.12639,4324
+1820,4532,Hennessy St at Greene Pl,-35.244071999999996,149.0721,500
+1821,4533,Hennessy St at Osborne Pl,-35.244045,149.071975,483
+1822,4534,Hennessy St after Strong Pl,-35.246351000000004,149.071482,500
+1823,4535,Hennessy St after Solly Pl,-35.246109999999994,149.071277,483
+1824,4536,Hennessy St at Gatehouse Pl,-35.248115999999996,149.073622,500
+1825,4537,Hennessy St after Buik Pl,-35.248249,149.073678,483
+1826,4541,Ashkanasy Cr after Keenan St,-35.208189000000004,149.06624399999998,470
+1827,4542,Ashkanasy Cr after Copland Dr,-35.208056,149.06631299999998,463
+1828,4547,National Hockey Centre Mouat St,-35.244457000000004,149.127216,2267
+1829,4548,Mouat St opp National Hockey Centre,-35.245721,149.127426,2081
+1830,4549,Southwell Park Mouat St,-35.247904999999996,149.13149099999998,2275
+1831,4550,Mouat St opp Southwell Park,-35.248015,149.13131,2281
+1832,4568,Ashkanasy Cr before Hatfield St,-35.210978000000004,149.067758,470
+1833,4569,Ashkanasy Cr opp Hatfield St,-35.210682,149.06745,463
+1834,4570,Kingsford Smith Dr after Companion Cr,-35.213285,149.046424,426
+1835,4577,Macarthur Av before Coolibah Cr,-35.259345,149.121718,327
+1836,4578,MacArthur Av before Macpherson St,-35.259702000000004,149.121735,328
+1837,4583,Antill St before Pigot St,-35.248355,149.136252,207
+1838,4584,Antill St after Badham St,-35.24863,149.13689499999998,203
+1839,4585,Antill St opp Dickson Shops,-35.248688,149.13962800000002,420
+1840,4586,Dickson Shops Antill St,-35.248948,149.140063,2567
+1841,4587,Antill St opp Rosevear Pl,-35.248495,149.144652,859
+1842,4588,Antill St before Rosevear Pl,-35.248738,149.144569,841
+1843,4589,Antill St before Gale St,-35.248273,149.14668500000002,859
+1844,4590,Antill St before Hawdon Pl,-35.248428000000004,149.147477,841
+1845,4591,Antill St before Cadell St,-35.247842,149.150258,859
+1846,4592,Antill St opp Cadell St,-35.248013,149.15088799999998,841
+1847,4593,Phillip Av after Antill St,-35.245158,149.15353100000002,381
+1848,4594,Phillip Av before Antill St,-35.244403999999996,149.15344,375
+1849,4595,Phillip Av after Shirley St,-35.242984,149.151633,381
+1850,4596,Phillip Av opp Shirley St,-35.243173999999996,149.152233,375
+1851,4597,Phillip Av before Bradfield St,-35.241647,149.150016,529
+1852,4605,Thynne St opp Eardley St,-35.241524,149.092817,637
+1853,4606,Thynne St after Traeger Ct,-35.241744,149.092714,650
+1854,4607,Macpherson St after Lilley St,-35.261765000000004,149.120793,584
+1855,4608,Macpherson St after Tate St,-35.261648,149.120729,593
+1856,4609,O'Connor Shops Macpherson St,-35.264584,149.122181,584
+1857,4610,Macpherson St opp O'Connor Shops,-35.26383,149.121572,593
+1858,4611,McCaughey St before Condamine St,-35.266044,149.123083,584
+1859,4612,McCaughey St after Condamine St,-35.266449,149.12325900000002,593
+1860,4613,McCaughey St before Masson St,-35.268419,149.12358899999998,584
+1861,4614,McCaughey St at Masson St,-35.270140000000005,149.123228,593
+1862,4615,McCaughey St after Masson St,-35.271669,149.123068,584
+1863,4628,Liversidge St before Balmain Cr,-35.285087,149.11864599999998,505
+1864,4629,Liversidge St after Brian Lewis Cr,-35.284778,149.119078,505
+1865,4630,Old Canberra House Lennox Crossing,-35.288134,149.11690900000002,505
+1866,4631,Constables Cottage Lennox Crossing,-35.28778,149.117059,505
+1867,4632,National Museum Lennox Crossing,-35.29168,149.11869199999998,820
+1868,4633,Edinburgh Av after London Cct,-35.283462,149.125235,46
+1869,4634,Kerrigan St before Douglas Waterhouse Dr,-35.189139000000004,149.022064,760
+1870,4635,Kerrigan St opp Traeger St,-35.189198,149.026525,760
+1871,4636,Redfern St after Templeton St,-35.256659,149.056409,467
+1872,4637,Redfern St after Coulter Dr,-35.256614,149.05621100000002,476
+1873,4638,Templeton St opp Ellis St,-35.258956,149.060075,467
+1874,4639,Templeton St after Ellis St,-35.25915,149.060829,476
+1875,4640,Templeton St opp Cook Shops,-35.259745,149.063703,467
+1876,4641,Cook Shops Templeton St,-35.259589,149.063721,476
+1877,4642,Lyttleton Cr after Wybalena Gr,-35.261414,149.06901000000002,467
+1878,4643,Lyttleton Cr before 2nd Cambridge St,-35.261531,149.06809099999998,476
+1879,4644,Lyttleton Cr after Bindubi St,-35.260794,149.072806,467
+1880,4645,Lyttleton Cr before Bindubi St,-35.260686,149.072562,476
+1881,4646,Bandjalong Cr after 2nd Barada Cr,-35.26063,149.07489099999998,479
+1882,4647,Bandjalong Cr after Bindubi St,-35.26051,149.074936,488
+1883,4648,Bandjalong Cr after Barada Cr,-35.258317,149.075636,479
+1884,4649,Bandjalong Cr after Amangu St,-35.258419,149.075536,488
+1885,4660,Limestone Av opp Campbell HS,-35.277824,149.144467,379
+1886,4661,Campbell HS Limestone Av,-35.27776,149.144801,451
+1887,4662,Limestone Av opp War Memorial,-35.280274,149.145855,379
+1888,4663,War Memorial Limestone Av,-35.279920000000004,149.146076,449
+1889,4664,Campbell Park Offices Northcott Dr,-35.283528000000004,149.17058,343
+1890,4665,Fairbairn Av after Treloar Cr,-35.283097,149.154778,379
+1891,4666,Owen Dixon Dr opp Copland Dr,-35.200918,149.074467,472
+1892,4667,Owen Dixon Dr before Copland Dr,-35.200922999999996,149.074313,464
+1893,4668,Owen Dixon Dr opp Badenoch Cr,-35.202507000000004,149.076355,472
+1894,4669,Owen Dixon Dr after Badenoch Cr,-35.2026,149.076287,464
+1895,4670,Owen Dixon Dr 2nd after Badenoch Cr,-35.204446000000004,149.080391,472
+1896,4671,Owen Dixon Dr 2nd after Heydon Cr,-35.204532,149.080351,464
+1897,4672,Owen Dixon Dr opp Heydon Cr,-35.206115999999994,149.081423,472
+1898,4673,Owen Dixon after Heydon Cr,-35.206185999999995,149.0813,464
+1899,4674,O'Hanlon Pl opp Federation Square,-35.190360999999996,149.08343,765
+1900,4675,Federation Square O'Hanlon Pl,-35.190919,149.08416499999998,760
+1901,4676,McClelland Av opp Moriarty St,-35.18456,149.084194,487
+1902,4677,McClelland Av before Moriarty St,-35.184474,149.084321,482
+1903,4678,McClelland Av after Donnan St,-35.181039,149.087314,487
+1904,4679,McClelland Av before Fitzsimmons St,-35.18114,149.087397,482
+1905,4680,McClelland Av after Clemenger St,-35.180482,149.09022,487
+1906,4681,McClelland Av before Metcalfe St,-35.180555,149.090305,482
+1907,4686,Holy Spirit PS Kelleway Av,-35.18031,149.102059,495
+1908,4687,Kelleway Av opp Holy Spirit PS,-35.180634000000005,149.101753,486
+1909,4694,Wanganeen Av after Jabanungga Av,-35.172226,149.109273,464
+1910,4695,Wanganeen Av before Arabanoo Cr,-35.172233,149.109396,465
+1911,4696,Ngunnawal PS Wanganeen Av,-35.169599,149.111245,939
+1912,4697,Wanganeen Av opp Ngunnawal PS,-35.169715000000004,149.11123700000002,928
+1913,4698,Unaipon Av after Ngunnawal PS,-35.167805,149.112125,477
+1914,4699,Unaipon Av opp Ngunnawal PS,-35.168029,149.112208,465
+1915,4700,Unaipon Av before Yumba Av,-35.166204,149.111801,477
+1916,4701,Unaipon Av after Windradyne St,-35.165951,149.11178999999998,465
+1917,4702,Unaipon Av before Len Waters St,-35.164238,149.11148300000002,477
+1918,4703,Unaipon Av after Len Waters St,-35.164066999999996,149.111503,465
+1919,4704,Len Waters St before Maynard St,-35.162471999999994,149.111535,477
+1920,4705,Len Waters St after Windradyne St,-35.162483,149.111705,465
+1921,4706,Mirrabei Dr after Crackajack Way,-35.163388,149.114169,477
+1922,4707,Mirrabei Dr opp Crackajack Way,-35.163177000000005,149.113929,465
+1923,4708,Mirrabei Dr opp Wanganeen Av,-35.166097,149.114816,477
+1924,4709,Mirrabei Dr after Wanganeen Av Northbound,-35.166071,149.114631,465
+1925,4710,Mirrabei Dr after Wanganeen Av Southbound,-35.170604,149.116687,939
+1926,4711,Mirrabei Dr before Wanganeen Av,-35.169793,149.11626299999998,928
+1927,4712,Mirrabei Dr before Shoalhaven Av,-35.173468,149.119819,939
+1928,4713,Mirrabei Dr after 2nd Paul Coe Cr,-35.172947,149.118855,928
+1929,4714,Shoalhaven Av before Roderick St,-35.17329,149.122136,466
+1930,4715,Shoalhaven Av after Roderick St,-35.173328000000005,149.122373,469
+1931,4716,Burdekin Av before Wanderer Ct,-35.170246,149.12028600000002,466
+1932,4718,Burdekin Av before Reeve Cl,-35.168405,149.122031,466
+1933,4720,Paul Coe Cr Shops Paul Coe Cr,-35.174667,149.12004199999998,434
+1934,4721,Paul Coe Cr after Paul Coe Cr Shops,-35.175402000000005,149.119933,445
+1935,4722,Paul Coe Cr after Mulleun Cl,-35.176311,149.119521,434
+1936,4723,Paul Coe Cr after Noongale Cct,-35.176243,149.119676,445
+1937,4724,Paul Coe Cr after Galmarra St,-35.177828999999996,149.118989,434
+1938,4725,Paul Coe Cr before Galmarra St,-35.177919,149.11907,445
+1939,4726,Gungahlin Lakes Club Gundaroo Dr,-35.18789,149.11594499999998,770
+1940,4727,Gundaroo Dr opp Gungahlin Lakes Club,-35.188227000000005,149.115734,775
+1941,4728,Lexcen Av after Northam St,-35.183776,149.108168,486
+1942,4729,Lexcen Av opp Anne Clark Av,-35.184149,149.10634,486
+1943,4730,Anne Clark Av before Monaghan Pl,-35.184064,149.104627,486
+1944,4731,Anne Clark Av opp Freda Bennett Cct,-35.18132,149.104023,486
+1945,4733,Jabanungga Av after Ngunnawal Shops,-35.172969,149.1074,463
+1946,4734,Jabanungga Av after Manity Cr,-35.172779999999996,149.10734399999998,462
+1947,4735,Jabanungga Av after 1st Bimbiang Cr,-35.171657,149.105174,463
+1948,4736,Jabanungga Av after Taylor St,-35.171595,149.10523999999998,462
+1949,4737,Jabanungga Av before 2nd Bimbiang Cr,-35.171014,149.104016,463
+1950,4742,Gurrang Av after Wanganeen Av,-35.170969,149.110769,465
+1951,4743,Gurrang Av opp Deumonga Ct,-35.172337,149.114599,465
+1952,4744,Gurrang Av before Ferguson Cct,-35.175013,149.113844,465
+1953,4745,Amagula Av after Ferguson Cct,-35.176849,149.113623,465
+1954,4746,Amagula Av after Taggerty St,-35.178653000000004,149.11453600000002,465
+1955,4747,Amagula Av after Yirawala St,-35.180504,149.113069,465
+1956,4748,Amagula Av before 2nd Bungaree Cr,-35.181511,149.112743,465
+1957,4753,Gurrang Av after Marungul Av,-35.174649,149.11381,477
+1958,4755,Sandford St before 1st Winchombe Ct,-35.22065,149.141145,463
+1959,4756,Sandford St opp 2nd Kemble Crt,-35.220562,149.13875900000002,122
+1960,4758,Hoskins St opp Lysaght St,-35.216571,149.137108,120
+1961,4760,Lysaght St opp Grimwade St,-35.215059000000004,149.139177,622
+1962,4773,Kosciuszko Av before Gungahlin Dr,-35.193753,149.126941,435
+1963,4774,Kosciuszko Av opp Redcliffe St,-35.194948,149.12519,446
+1964,4775,Kosciuszko Av before Mainwaring Rich Cct,-35.194618,149.125458,435
+1965,4776,Kosciuszko Av before Bollard St,-35.196326,149.124427,446
+1966,4777,Kosciuszko Av before Redcliffe St,-35.196258,149.12432900000002,435
+1967,4778,Kosciuszko Av after Bollard St,-35.197849,149.12336000000002,446
+1968,4779,Kosciuszko Av opp Bollard St,-35.197691999999996,149.123505,435
+1969,4780,Palmerston PS Koscuiszko Av,-35.197829,149.121715,442
+1970,4781,Koscuiszko Av after Palmerston Shops,-35.19768,149.11928400000002,435
+1971,4782,Kosciuszko Av before Grampians St,-35.196146999999996,149.11598,446
+1972,4783,Kosciuszko Av before Tiptree Cr,-35.196146999999996,149.116123,435
+1973,4784,Kosciuszko Av after Bimberi Cr,-35.193962,149.114444,788
+1974,4785,Kosciuszko Av opp Brinkley Cct,-35.193749,149.11451200000002,776
+1975,4786,Kosciuszko Av before Burrowa St,-35.192333000000005,149.114625,788
+1976,4787,Kosciuszko Av before 2nd Freeling Cct,-35.192223,149.114747,776
+1977,4788,Kosciuszko Av after 2nd Sentry Cr,-35.190581,149.11801499999999,788
+1978,4789,Kosciuszko Av after Gingera St,-35.190698,149.11776799999998,776
+1979,4790,Kosciuszko Av after 2nd Buller Cr,-35.189452,149.120827,788
+1980,4791,Kosciuszko Av after Amarina St,-35.189671999999995,149.12066399999998,776
+1981,4792,William Slim Dr after Chuculba Cr,-35.209901,149.087964,1467
+1982,4793,William Slim Dr opp Chuculba Cr,-35.209680999999996,149.087909,1414
+1983,4803,Haydon Dr opp Calvary Hospital,-35.252559999999995,149.08695,3030
+1984,4804,Calvary Hospital Haydon Dr,-35.253253,149.086738,3330
+1985,4805,Canopus Cr before Chuculba Cr,-35.210229,149.090401,474
+1986,4806,Canopus Cr after Chuculba Cr,-35.210308000000005,149.09053899999998,482
+1987,4807,Copland Dr Spence Terminus,-35.200702,149.068587,2006
+1988,4808,Mirrabei Dr after 2nd Paul Coe Cr,-35.177467,149.124277,1400
+1989,4809,Hirschfeld Cr Macgregor PS SSO,-35.213215000000005,149.01265,8
+1990,4810,Murranji St opp Alexandria St,-35.242207,149.032764,469
+1991,4811,Murranji St before Alexandria St,-35.241894,149.033008,467
+1992,4814,Gold Creek HS Kelleway Av,-35.180254999999995,149.093228,285
+1993,4819,CIT Bruce Haydon Dr,-35.249345,149.090131,3330
+1994,4820,Ellenborough St opp Daintree Cr,-35.230740000000004,149.113062,925
+1995,4821,Ellenborough St before Maribyrnong Av,-35.230793,149.112965,932
+1996,4823,Hawker Shops Belconnen Way,-35.241855,149.043454,358
+1997,4824,Belconnen Way opp Chewings St,-35.240978999999996,149.038783,359
+1998,4825,Belconnen Way before Chewings St,-35.240805,149.038717,335
+1999,4826,St Matthew's PS Belconnen Way,-35.241596,149.04337900000002,335
+2000,4829,Koscuiszko Av opp Palmerston Shops,-35.197781,149.118819,446
+2001,4830,Holy Spirit PS Kelleway Av,-35.180638,149.101496,75
+2002,4836,Anthony Rolfe Av before Gundaroo Rd,-35.182714000000004,149.129582,2479
+2003,4839,Kingsford Smith Dr opp Companion Cr,-35.212405,149.047783,420
+2004,4841,Plimsoll Dr before 2nd Bott Cr,-35.163345,149.098085,462
+2005,4842,Plimsoll Dr before Ronald Walker St,-35.162438,149.098352,463
+2006,4843,Whitrod Av after Kowalski St,-35.15952,149.10133000000002,462
+2007,4844,Whitrod Av after McGovern St,-35.159636,149.100921,463
+2008,4845,Amagula Av before 1st Murrung Cr,-35.180862,149.11252,477
+2009,4846,Plimsoll Dr after Skermer St,-35.166761,149.09624,462
+2010,4847,Amagula Av after Yirawala St,-35.179144,149.114288,477
+2011,4848,Amagula Av after Gula Pl,-35.176715,149.113503,477
+2012,4849,Gurrang Av after Marungul Av,-35.173126,149.114545,477
+2013,4850,Gurrang Av after Deumonga Ct,-35.171819,149.114044,477
+2014,4851,Gurrang Av before Wellington St,-35.171149,149.111795,477
+2015,4852,Jabanungga Av opp 2nd Mundang Av,-35.170097999999996,149.102925,462
+2016,4853,Horse Park Dr before Yeend Av,-35.167237,149.100629,201
+2017,4855,Jabanungga Av before 2nd Warabin Cr,-35.168409999999994,149.103566,462
+2018,4857,Plimsoll Dr before David Miller Cr,-35.1681,149.095856,463
+2019,4859,Hardwick Cr after Powell St,-35.224266,149.02028700000002,1291
+2020,4860,Hardwick Cr before Flack St,-35.224253999999995,149.020511,1575
+2021,4864,Burramarra Av after Jabanungga Av,-35.160245,149.10447299999998,463
+2022,4865,Burramarra Av before Kavangal Cct,-35.160209,149.104613,462
+2023,4867,Ngunnawal PS Unaipon Av,-35.168834000000004,149.112111,476
+2024,4871,Jabanungga Av after 1st Mundang Cr,-35.169557,149.10297,463
+2025,4872,Jabanungga Av before 2nd Mundang Cr,-35.168127,149.103261,463
+2026,4873,Horse Park Dr after Arrabri St,-35.167208,149.100868,204
+2027,4874,Mirrabei Dr before 1st Paul Coe Cr,-35.177537,149.124129,1369
+2028,4875,Anne Clark Av before Linn St,-35.181971000000004,149.104508,495
+2029,4876,Anne Clark Av before Lexcen Av,-35.184086,149.104838,495
+2030,4877,Lexcen Av after Anne Clark Av,-35.184022999999996,149.106348,495
+2031,4878,Lexcen Av after Arthaldo Ct,-35.183516999999995,149.108917,495
+2032,4880,Kinsella St after 1st Nicholas St,-35.235934,149.027996,466
+2033,4881,Kinsella St before Findlay St,-35.235176,149.028403,468
+2034,4882,Kinsella St before 2nd Nicholas St,-35.237903,149.026385,466
+2035,4883,Kinsella St after Drake Brockman Dr,-35.237959000000004,149.026142,468
+2036,4884,Bingley Cr after Woodger Pl,-35.193402,149.051083,457
+2037,4885,Bingley Cr opp Wickens Pl,-35.193439,149.050835,492
+2038,4886,Bingley Cr opp Bazley St,-35.192177,149.05318300000002,492
+2039,4887,Bingley Cr before Bazley St,-35.192384999999994,149.05388100000002,457
+2040,4888,Tillyard opp Fraser East Terminus,-35.190819,149.04556100000002,326
+2041,4889,Fraser East Terminus Tillyard Dr,-35.190082000000004,149.046479,492
+2042,4892,Belconnen Way opp Shumack St,-35.243212,149.048419,335
+2043,4893,Belconnen Way after Shumack St,-35.243344,149.048133,358
+2044,4894,Moyes Cr before Southern Cross Dr,-35.220778,149.021638,989
+2045,4895,Moyes Cr before Postle Cct,-35.220469,149.021861,707
+2046,4896,Starke St opp Kingsford Smith School,-35.228402,149.019679,468
+2047,4897,Ashkanasy Cr opp 2nd Pitcairn St,-35.210440000000006,149.069789,470
+2048,4898,Ashkanasy Cr after 1st Pitcairn St,-35.210387,149.069672,463
+2049,4899,Kerrigan St before Traeger St,-35.189240999999996,149.026405,758
+2050,49,Tuggeranong Interchange Plt 5,-35.414204,149.06541,1048
+2051,4904,Jabanunga Av after 1st Bindugan Cr,-35.16362,149.104415,462
+2052,4905,Jabanunga Av after Yerradhang St,-35.163784,149.10422,463
+2053,4907,Southern Cross Dr after 1st Starke St,-35.223073,149.02991699999998,1337
+2054,4908,Southern Cross Dr before Chave St,-35.22166,149.027657,1337
+2055,4909,Southern Cross Dr after Dalley Cr,-35.221410999999996,149.027741,1333
+2056,4910,Haydon Dr opp CIT Bruce,-35.249122,149.090046,3030
+2057,4911,Wanganeen Av before Jandamarra St,-35.168506,149.114169,462
+2058,4913,Horse Park Dr 2nd after Newlop St,-35.169051,149.099937,201
+2059,4914,Horse Park Dr before Newlop St,-35.169891,149.099436,204
+2060,4918,Hoskins St before Lysaght St,-35.213924,149.13788300000002,622
+2061,4919,Hoskins St before Well Station Dr,-35.20856,149.13871,656
+2062,4920,Hoskins St before Vicars St,-35.20835,149.13901,622
+2063,4923,Brookes St after Lysaght St,-35.216695,149.141357,622
+2064,4925,Brookes St after Heffernan St,-35.219285,149.140836,622
+2065,4931,Alpen St after Alfred Hill Dr,-35.204397,149.060159,246
+2066,4932,Shakespeare Cr opp Fraser West Terminus,-35.19084,149.03554,1288
+2067,4933,Daley Cr opp Fraser East Terminus,-35.19,149.04720600000002,457
+2068,4934,Hoskins St before Dacre St,-35.213928,149.137656,656
+2069,4935,Horse Park Dr after Overall Av,-35.170485,149.098764,201
+2070,4937,Aikman Dr after Joy Cummings Pl,-35.234331,149.078408,1641
+2071,4938,Aikman Dr after Joy Cummings Pl,-35.233616,149.07868,1537
+2072,4940,Alpen St after Kingsford Smith Dr,-35.204257,149.060196,238
+2073,4942,Starke St after Blackham St,-35.224706,149.030183,461
+2074,4943,Drake Brockman Dr opp Macnaughton St,-35.231953000000004,149.015742,456
+2075,4944,Drake Brockman Dr before MacNaughton St,-35.231867,149.015927,437
+2076,4945,Drake Brockman Dr opp Trickett St,-35.230854,149.011581,456
+2077,4946,Drake Brockman Dr after Trickett St,-35.230740999999995,149.01169199999998,437
+2078,4947,Drake Brockman Dr opp Spofforth St,-35.229985,149.008985,456
+2079,4948,Drake Brockman Dr after Spofforth St,-35.229741,149.008592,437
+2080,4949,Spofforth St opp 26,-35.22718,149.006269,456
+2081,4950,26 Spofforth St,-35.226982,149.00626499999998,437
+2082,4951,Spofforth St opp 44,-35.225278,149.004996,456
+2083,4952,Beaurepaire Cr before Southern Cross Dr,-35.219735,149.013521,437
+2084,4953,Beaurepaire Cr after Southern Cross Dr,-35.219837,149.013652,456
+2085,4954,Beaurepaire Cr after 1st Armstrong Cr,-35.222074,149.01191699999998,437
+2086,4955,Beaurepaire Cr after 1st Pickworth St,-35.222167,149.012001,456
+2087,4956,Starke St opp Beaurepaire Cr,-35.226011,149.01689,778
+2088,4957,Starke St after Beaurepaire Cr,-35.224949,149.01668700000002,799
+2089,4958,Starke St opp Luke St,-35.223240000000004,149.016754,799
+2090,4959,Starke St after Luke St,-35.22351,149.016851,778
+2091,4971,Eardley St after Haydon Dr,-35.240219,149.0916,905
+2092,4972,College St opp University of Canberra,-35.242540000000005,149.085707,4997
+2093,4979,University of Canberra College St,-35.242314,149.086319,4951
+2094,4980,Kerrigan St after Dunnett St,-35.191624,149.02836000000002,758
+2095,4981,Kerrigan St after Branson St,-35.191696,149.028468,760
+2096,4982,Eardley St after Thynne St,-35.240351000000004,149.09158100000002,928
+2097,4983,Drake Brockman Dr after Kinsella St,-35.239663,149.02611299999998,466
+2098,4984,Drake Brockman Dr after Kingsford Smith Dr,-35.239823,149.026108,468
+2099,4989,Castieau St after Fullager Cr,-35.229977000000005,149.028535,437
+2100,4990,Castieau St before Fullagar Cr,-35.230096,149.028441,456
+2101,4991,Kingsford Smith Dr before Castieau St,-35.231838,149.034161,359
+2102,4993,O'Loghlen St before 2nd Stretton Cr,-35.221105,149.038367,462
+2103,5003,Southern Cross Dr before Ratcliffe Cr,-35.229382,149.044452,974
+2104,5004,Baldwin Dr after 1st Maribyrnong Av,-35.221942,149.100391,753
+2105,5005,Baldwin Dr opp 2nd Maribyrnong Av,-35.221828,149.100203,732
+2106,5007,UC High School Kaleen Baldwin Dr,-35.224988,149.100581,754
+2107,5008,Baldwin Dr after Kaleen HS,-35.22681,149.099591,753
+2108,5009,Baldwin Dr before Kaleen HS,-35.226741,149.099511,732
+2109,5010,Baldwin Dr after Stockman Av,-35.228392,149.097453,732
+2110,5011,Baldwin Dr before 2nd Maribyrnong Av,-35.22803,149.098481,753
+2111,5012,Baldwin Dr before Stockman Av,-35.229893,149.09452199999998,1184
+2112,5021,Belconnen Way after Petterd St,-35.243528999999995,149.054637,335
+2113,5022,Kingsford Smith Dr after Wirraway Cr,-35.231947,149.03446100000002,336
+2114,5024,Southern Cross Dr before Ross Smith Cr,-35.23041,149.046512,972
+2115,5026,Kerrigan St opp Douglas Waterhouse Dr,-35.189391,149.021711,758
+2116,5028,Southern Cross Dr after 1st Ratcliffe St,-35.231945,149.049721,974
+2117,5029,Southern Cross Dr before Chewings St,-35.232515,149.04998899999998,972
+2118,5030,Spofforth St after Messsenger St,-35.224971999999994,149.00509,437
+2119,5031,Canberra Av opp Geelong St,-35.333304,149.166471,928
+2120,5042,Baldwin Dr opp UC High School Kaleen,-35.224375,149.100503,732
+2121,5043,Archdall St before Fleay Pl,-35.199948,149.01570800000002,843
+2122,5051,Gundaroo Dr before Candblebark Cl,-35.196652,149.105751,1048
+2123,5052,Gundaroo Dr after Nudurr Dr,-35.196764,149.10573200000002,1048
+2124,5053,Gundaroo Dr before Burrowa St,-35.193870000000004,149.110729,770
+2125,5054,Gundaroo Dr after Burrowa St,-35.193861,149.110857,775
+2126,5062,Temperley St after Curran Dr,-35.184461,149.092027,495
+2127,5063,Temperley St after Dobbin Cct,-35.184489,149.09184399999998,486
+2128,5064,Temperley St before Stebman Pl,-35.186136,149.09299,495
+2129,5066,Temperley St before Vine Pl,-35.188026,149.094157,495
+2130,5067,Temperley St opp Stedman Pl,-35.186159,149.09281000000001,486
+2131,5068,Temperley St before Krantzcke Cct,-35.189887,149.095371,495
+2132,5069,Temperley St before 2nd Sue Geh Cct,-35.188084,149.094249,486
+2133,5070,Temperley St opp 2nd Sue Geh Cct,-35.192611,149.096317,495
+2134,5071,Temperley St before 2nd McRitchie Cct,-35.189759,149.095276,486
+2135,5072,Kelleway Av before Lexcen Av,-35.183399,149.099538,486
+2136,5073,Kelleway Av after Lexcen Av,-35.183279,149.099546,495
+2137,5074,Lexcen Av after Temperley St,-35.188621000000005,149.10147,495
+2138,5075,Lexcen Av opp Temperley St,-35.188677,149.101597,486
+2139,5076,Temperley St before 1st Sue Geh Cct,-35.192368,149.095814,486
+2140,5077,Temperley St after 2nd Whitfield Cct,-35.192271999999996,149.09845900000002,486
+2141,5078,Temperley St after Wendy Ey Pl,-35.190697,149.100057,495
+2142,5079,Temperley St before 2nd Whitfield Cct,-35.190745,149.10013899999998,486
+2143,5080,Katherine Av opp Auburn St,-35.168079999999996,149.127998,866
+2144,5081,Katherine Av before Proserpine Cct,-35.169154999999996,149.12940700000001,866
+2145,5082,Katherine Av opp Cooloola St,-35.169461,149.13182700000002,866
+2146,5083,The Valley Av opp Burgmann School Valley Campus,-35.186933,149.124061,880
+2147,5084,Burgmann Anglican School Valley Campus,-35.187759,149.12331,848
+2148,5085,Gozzard St before Swain St,-35.181183000000004,149.133242,899
+2149,5086,Gozzard St before Bruning St,-35.181793,149.133216,901
+2150,5088,Spofforth St before Drake Brockman Dr,-35.228722,149.007161,437
+2151,5089,Spofforth St after Strockdill Dr,-35.22876,149.007022,456
+2152,5098,Lance Hill Av before 1st Evelyn Owen Cr,-35.197162,149.021842,718
+2153,5099,Lance Hill Av after Shoobridge Cct,-35.195165,149.020372,718
+2154,5101,Kerrigan St after Polilight St,-35.193721000000004,149.03133400000002,760
+2155,5102,Kerrigan St before Dunnet St,-35.193759,149.03123,758
+2156,5103,Catalina Dr before Lancaster Pl,-35.299033,149.1881,415
+2157,5105,Mt Stromlo HS School Grounds SSO,-35.355,149.05444,8
+2158,5110,Dakota Dr before Beaufighter St,-35.300127,149.189025,415
+2159,5111,Costco Catalina Dr,-35.295663,149.189659,415
+2160,5123,Covenant College School Grounds SSO,-35.439518,149.090233,19
+2161,5127,Canberra Av after Ipswich St,-35.330884999999995,149.162578,902
+2162,5128,Alfred Deakin High School Grounds SSO,-35.324106,149.093537,12
+2163,5137,Curran Dr after McClelland Av,-35.18226,149.091887,216
+2164,5138,Curran Dr before McClelland Av,-35.182237,149.091794,207
+2165,5168,CIT Bruce Battye St,-35.246526,149.09663500000002,662
+2166,5169,John Paul College Gungahlin Dr,-35.176121,149.10111899999998,385
+2167,5170,Gungahlin Dr opp John Paul College,-35.175981,149.101379,400
+2168,5171,Braybrooke St before Ginninderra Dr,-35.240176,149.103025,649
+2169,5172,Braybrooke St after Ginninderra Dr,-35.240418,149.103165,662
+2170,5173,Wanganeen Av after Mirrabei Dr,-35.168307,149.114503,463
+2171,5174,Kingsford Smith Dr before Ginninderra Dr,-35.214779,149.045702,444
+2172,5175,Temperley St before Wendy Ey Pl,-35.192137,149.098434,495
+2173,5182,John Paul College School Grounds SSO,-35.177065999999996,149.100304,26
+2174,5501,Westfield Belconnen Plt 1,-35.238971,149.064032,7109
+2175,5502,Westfield Belconnen Plt 2,-35.238593,149.06365,3724
+2176,5503,Westfield Belconnen Set Down Only,-35.238789000000004,149.063804,8050
+2177,5511,Belconnen Interchange Plt 1,-35.239796999999996,149.069696,3839
+2178,5512,Belconnen Interchange Plt 2,-35.239779,149.069179,1071
+2179,5513,Belconnen Interchange Plt 3,-35.239813,149.068407,2199
+2180,5514,Belconnen Interchange Plt 4,-35.240093,149.068052,2137
+2181,5515,Belconnen Interchange Plt 5,-35.240015,149.068853,1584
+2182,5517,Belconnen Interchange Arrivals,-35.23989,149.069018,8050
+2183,5520,Eastern Valley Way Bus Stn,-35.239992,149.07291999999998,7775
+2184,5521,Eastern Valley Way after Emu Bank Dr,-35.240571,149.07343999999998,5466
+2185,5901,Burdekin Av opp Amaroo School,-35.165749,149.126804,215
+2186,5902,Burdekin Av opp Good Shepherd PS,-35.166132,149.12472,215
+2187,5903,Burdekin Av before Traine Ct,-35.168446,149.122128,215
+2188,5904,Burdekin Av after Bywaters St,-35.17072,149.120951,215
+2189,5994,Galmarra St after Paul Coe Cr,-35.17866,149.12105400000002,434
+2190,5995,Galmarra St before Paul Coe Cr,-35.178702,149.12133,445
+2191,5996,Paul Coe Cr after Nona Pl,-35.177876,149.122262,445
+2192,5997,Good Shepherd PS Burdekin Av,-35.166072,149.124589,466
+2193,5999,Paul Coe Cr after Kardang St,-35.178274,149.122424,434
+2194,6000,Amaroo School Burdekin Av,-35.16561,149.12735,466
+2195,6001,Katherine Av opp Clarendon St,-35.169912,149.13443,866
+2196,6005,Jane Sutherland St after Tom Roberts Av,-35.467028000000006,149.105954,536
+2197,6006,Well Station Dr before Kings Canyon St,-35.20962,149.155529,289
+2198,6007,Well Station Dr opp Kings Canyon St,-35.209740000000004,149.15528,272
+2199,6008,Well Station Dr after Albatross Cr,-35.20528,149.16345900000002,289
+2200,6009,Well Station Dr opp Albatross Cr,-35.205541,149.163469,272
+2201,6013,Templestowe Av before Morrison St,-35.465923,149.11089099999998,513
+2202,6014,Templestowe Av after Jane Sutherland St,-35.465765999999995,149.111085,539
+2203,6015,Templestowe Av after 2nd Montefiore Cr,-35.466454999999996,149.10853500000002,513
+2204,6016,Templestowe Av before Humphrey St,-35.466516999999996,149.108445,539
+2205,6018,Templestowe Av before Tom Roberts Av,-35.465489,149.106581,539
+2206,6024,Gundaroo Dr after Hollingsworth St,-35.180842,149.14059699999999,899
+2207,6025,Gundaroo Dr before Pallin St,-35.181016,149.140443,901
+2208,6026,Gundaroo Dr before Hollingsworth St,-35.180642999999996,149.138472,899
+2209,6027,Gundaroo Dr after Pallin St,-35.180792,149.138466,901
+2210,6028,Gundaroo Dr before Nellie Hamilton Av,-35.180169,149.135575,899
+2211,6029,Gundaroo Dr after Gungahlin Pl,-35.180275,149.135451,901
+2212,6030,Gundaroo Dr before Nari St,-35.18357,149.124766,1102
+2213,6031,Gundaroo Dr after Ginn St,-35.184785999999995,149.122715,1112
+2214,6032,Katherine Av before Cooloola St,-35.169542,149.131802,618
+2215,6033,Katherine Av before Clarendon St,-35.170167,149.134901,618
+2216,6034,Katherine Av after 2nd Carstairs Cct,-35.169593,149.13785,866
+2217,6035,Katherine Av before 1st Benaroon Cct,-35.169806,149.137682,618
+2218,6045,Kerrigan St after Lance Hill Av,-35.193226,149.01871699999998,760
+2219,6046,Kerrigan St before Lance Hill Av,-35.193115999999996,149.018833,758
+2220,6048,Katherine Av before Shoalhaven Av,-35.167853,149.127872,618
+2221,6049,Katherine Av before Timboram St,-35.169272,149.129446,618
+2222,6050,Nullarbor Av after Adder St,-35.20205,149.156836,331
+2223,6051,Nullarbor Av after Katoomba St,-35.201965,149.156548,345
+2224,6052,Cultivation St before Angora St,-35.200195,149.158347,603
+2225,6053,Cultivation St after Dimby St,-35.200681,149.15793200000002,634
+2226,6054,Cultivation St before Tanami St,-35.198599,149.15948899999998,603
+2227,6055,Cultivation St after Tanami St,-35.19852,149.15941999999998,634
+2228,6056,Cultivation St before Granites St,-35.196338,149.160287,603
+2229,6057,Cultivation St opp Granites St,-35.196452,149.160208,634
+2230,6058,Jenolan St before Cultivation St,-35.195551,149.158305,603
+2231,6059,Jenolan St after Cultivation St,-35.195413,149.1582,634
+2232,6060,Mapleton Av opp Nimbera St,-35.194806,149.159278,419
+2233,6061,Mapleton Av after Nimbera St,-35.1947,149.159307,452
+2234,6068,Anthony Rolfe Av after Ansett St,-35.186075,149.152334,204
+2235,6069,Anthony Rolfe Av after DeBortoli St,-35.186391,149.152152,451
+2236,6070,Nullarbor Av opp Phantom St,-35.200872,149.161435,289
+2237,6071,Nullarbor Av after Cape York St,-35.201326,149.163061,272
+2238,6073,Mapleton Av after Megalong Cr,-35.194802,149.157718,185
+2239,6074,Mapleton Av after Jenolan St,-35.194925,149.157486,183
+2240,6075,Grampians St before Clear St,-35.197955,149.114545,341
+2241,6076,Grampians St opp Clear St,-35.198273,149.114207,342
+2242,6078,Hoskins St after Oodgeroo Av,-35.202612,149.139937,427
+2243,6079,Hoskins St before Oodgeroo Av,-35.202451,149.139847,453
+2244,6080,Hoskins St after Well Station Dr,-35.205577000000005,149.139295,453
+2245,6081,Hoskins St before Daniels St,-35.204822,149.139544,427
+2246,6088,Amy Ackman St before Francis Forde St,-35.171081,149.141903,498
+2247,6089,Amy Ackman St after Francis Forde St,-35.171053,149.14178,500
+2248,6090,Amy Ackman St before Quinane Av,-35.166278999999996,149.145078,498
+2249,6091,Amy Ackman St after Helen Leonard Cr,-35.166789,149.14439199999998,498
+2250,6092,Well Station Dr after Flemington Rd,-35.208676000000004,149.148401,120
+2251,6093,Well Station Dr before Flemington Rd,-35.208834,149.148782,122
+2252,6100,Redruth St opp Crace Shops,-35.201876,149.106915,478
+2253,6101,Bernard Heinze Av after Gussey St,-35.157847,149.12339599999999,134
+2254,6102,Bernard Heinze Av before Tycho St,-35.157853,149.122278,403
+2255,6103,Bernard Heinze Av after Yidaki Way,-35.157109999999996,149.118185,134
+2256,6104,Bernard Heinze Av before Crackajack Way,-35.15752,149.117899,400
+2257,6105,Mirrabei Dr after Yamma Way,-35.155823999999996,149.114397,403
+2258,6106,Mirrabei Dr after O'Keefe Av,-35.154728999999996,149.115046,134
+2259,6107,Mirrabei Dr after Len Waters St,-35.158757,149.113172,130
+2260,6108,Mirrabei Dr before Len Waters St,-35.158955,149.11326,122
+2261,6109,Casey Market Town Kingsland Pde,-35.173770000000005,149.096273,390
+2262,6110,Kingslande Pde opp Casey Market Town,-35.174791,149.096054,382
+2263,6111,Crackajack Way before Bandstand St,-35.159646,149.11791399999998,122
+2264,6112,Crackajack Way opp Bandstand St,-35.159639,149.118088,130
+2265,6113,Margaret Hendry School Sutherland Cr,-35.151599,149.114478,136
+2266,6114,Sutherland Cr opp Margaret Hendry School,-35.150882,149.114724,134
+2267,6115,Sutherland Cr opp Chadwick St,-35.148553,149.112316,136
+2268,6116,Sutherland Cr after Chadwick St,-35.148476,149.11319699999999,134
+2269,6117,Sutherland Cr opp Bischoff St,-35.149293,149.108768,136
+2270,6118,Sutherland Cr before Bischoff St,-35.149104,149.10864899999999,134
+2271,6119,Grenfell Av before Morath St,-35.153163,149.10445900000002,270
+2272,6120,Grenfell Av after Holdford St,-35.153067,149.104626,270
+2273,6121,Horse Park Dr before Burrumarra Av,-35.157112,149.104546,136
+2274,6122,Horse Park Dr before Grenfell Av,-35.157026,149.104422,134
+2275,6130,The Valley Av opp Gungahlin Leisure Centre,-35.186889,149.12958700000001,835
+2276,6131,Gungahlin Leisure Centre The Valley Av,-35.186797999999996,149.129603,873
+2277,6132,The Valley Av after Warwick St,-35.186475,149.12658000000002,634
+2278,6133,The Valley Av before Warwick St,-35.186415999999994,149.126662,873
+2279,6134,Crace Shops Redruth St,-35.202087,149.10708400000001,474
+2280,6142,Anthony Rolfe Av after Wizard St,-35.185901,149.149099,452
+2281,6145,Anthony Rolfe Av before Rosanna St,-35.185643,149.149372,418
+2282,6148,Langtree Cr opp 1st Cocoparra Cr,-35.205259000000005,149.109677,474
+2283,6149,Langtree Cr after 2nd Cocoparra Cr,-35.205278,149.109019,478
+2284,6152,Langtree Cr after Fergus St,-35.204,149.11426200000002,474
+2285,6154,Katherine Av opp Amaroo Shops,-35.164467,149.130583,403
+2286,6155,Bimberi Centre,-35.222590999999994,149.156114,65
+2287,6156,Kaleen PS School Grounds SSO,-35.224637,149.11316399999998,16
+2288,6157,Langtree Cr after Geegeela St,-35.205044,149.113904,478
+2289,6158,Nullarbor Av after Flemington Rd,-35.200884,149.148575,331
+2290,6159,Nullarbor Av before Flemington Rd,-35.200702,149.14861499999998,345
+2291,6165,Burgmann Anglican School Forde Campus,-35.170833,149.143845,507
+2292,6175,Amaroo Shops Katherine Av,-35.16514,149.130674,654
+2293,6180,Oodgeroo Av before Kilmeny Cl,-35.198699,149.14422199999998,453
+2294,6181,Oodgeroo Av after Nullarbor Av,-35.198979,149.14394,427
+2295,6182,Manning Clark Cr before Whitington St,-35.193133,149.14573000000001,291
+2296,6183,Manning Clark Cr before Alice Crist St,-35.193042,149.14597,282
+2297,6184,Manning Clark Cr opp Barbara Jefferis St,-35.189994,149.143399,291
+2298,6185,Manning Clark Cr after Barbara Jefferis St,-35.189996,149.143548,282
+2299,6186,Oodgeroo Av before Brissenden St,-35.200275,149.141536,453
+2300,6187,Oogeroo Av after Rolls St,-35.200395,149.141597,427
+2301,6188,Nullarbor Av before Pinnacles St,-35.201305,149.151607,331
+2302,6189,Nullarbor Av after Wimmera St,-35.201177,149.15143899999998,345
+2303,6190,Castleton Cr before Finlay Pl,-35.411696,149.113881,199
+2304,6193,Anthony Rolfe Av after Horse Park Dr,-35.185036,149.155123,451
+2305,6199,Bettong Av before Dragon St,-35.193133,149.163555,142
+2306,6200,Bettong Av before Hawksbill St,-35.192605,149.164109,136
+2307,6201,Bettong Av opp Shingleback St,-35.187466,149.162039,142
+2308,6202,Bettong Av after Shingleback St,-35.187525,149.16281899999998,136
+2309,6203,Bettong Av before Gecko Way,-35.183306,149.158707,142
+2310,6204,Bettong Av after Pipistrelle St,-35.183203000000006,149.159248,136
+2311,6304,Overall Av after Shedden St,-35.171076,149.09475,454
+2312,6305,Overall Av after Kingsland Pde,-35.171245,149.09549099999998,470
+2313,6306,Overall Av opp Tippett St,-35.172424,149.09178799999998,454
+2314,6307,Overall Av before Tippett St,-35.172561,149.091868,470
+2315,6308,Overall Av after Powley St,-35.175938,149.09071200000002,454
+2316,6309,Overall Av before 2nd John Crawford Cr,-35.174597999999996,149.090938,470
+2317,6310,David Walsh Av after Zakharov Av,-35.175171,149.146639,504
+2318,6311,David Walsh Av before Desmond Ln,-35.17581,149.146299,501
+2319,6312,Zakharov Av after Justice Kelly St,-35.171357,149.14883799999998,504
+2320,6313,Zakharov Av after Alice Berry St,-35.171907,149.14848899999998,501
+2321,6315,Forde Shops Francis Forde Bvd,-35.171132,149.143074,504
+2322,6316,Amy Ackman St after Handbury Way,-35.163469,149.148748,210
+2323,6317,Amy Ackman St after Turbayne Cr,-35.162506,149.14986299999998,500
+2324,6318,Handbury St before Amy Ackman St,-35.159372,149.150297,210
+2325,6319,Handbury Way before Mulligans Flat Rd,-35.159275,149.149603,500
+2326,6320,Henry Williams St before Duguid St,-35.15701,149.147019,210
+2327,6321,Henry Williams after Mabo Bvd,-35.157497,149.14668600000002,500
+2328,6322,Essie Coffey St before Quagliotti St,-35.153647,149.14380500000001,210
+2329,6323,Essie Coffey St before Margaret Tucker St,-35.15378,149.143459,500
+2330,6324,Essie Coffey St before Roy Marika St,-35.153867,149.139911,210
+2331,6325,Essie Coffey St before Irinyili St,-35.1541,149.13953999999998,500
+2332,6326,Roden Cutler Dr before Essie Coffey St,-35.155241,149.13466,210
+2333,6327,Roden Cutler Dr after Essie Coffey St,-35.155879999999996,149.134985,500
+2334,6328,Mobourne St before Mallett St,-35.16048,149.13620600000002,210
+2335,6329,Mobourne St before Ben Blakeney St,-35.160359,149.13625,500
+2336,6330,Bonner Shops Mabo Bvd,-35.161314000000004,149.139551,212
+2337,6331,Neville Bonner PS Mabo Bvd,-35.162156,149.13951200000002,503
+2338,6332,Langtree Cr before 1st Drooka Cr,-35.200692,149.113629,478
+2339,6333,Langtree Cr opp Jellicoe St,-35.200672999999995,149.113216,474
+2340,6334,Abena Av before Dobikin St,-35.200644,149.104121,474
+2341,6335,Abena Av after Taplow St,-35.200769,149.104088,478
+2342,6338,David Walsh Av opp Max Purnell St,-35.178853000000004,149.144723,502
+2343,6339,David Walsh Av before Max Purnell St,-35.178909999999995,149.144269,500
+2344,6340,Manning Clark Cr before Isaacson St,-35.193262,149.147368,122
+2345,6341,Manning Clark Cr before Oodgeroo Av,-35.193387,149.147348,183
+2346,7009,The Valley Av before Manning Clark Cr,-35.188371999999994,149.14217,1641
+2347,7010,The Valley Av after Manning Clark Cr,-35.188338,149.14059699999999,1711
+2348,7011,Gungahlin Place Plt 3,-35.18535,149.13516,5688
+2349,7012,Gungahlin Place Plt 4,-35.18461,149.13495600000002,5797
+2350,7014,Gungahlin Pl and Valley Av Layover,-35.186873999999996,149.134299,1054
+2351,8888,Regetta Point Commonwealth Av,-35.288396,149.127827,5876
+2352,8889,Commonwealth Av opp Regatta Point,-35.288746,149.127372,5836
+2353,940,Cohen St Interchange Plt 6,-35.24,149.060282,2138
+2354,941,Cohen St Interchange Plt 1,-35.239492999999996,149.060292,1539
+2355,942,Cohen St Interchange Plt 2,-35.23961,149.06017,1731
+2356,945,Dickson Interchange Plt 1,-35.251049,149.134937,2317
+2357,946,Dickson Interchange Plt 2,-35.251121000000005,149.13443,2370
+2358,956,Cohen St Interchange Arrivals,-35.239740000000005,149.060014,5732
+2359,959,Cohen St Interchange,-35.239903999999996,149.06020900000001,2178
+2360,1640,Mt Vernon Dr after Kambah Pool Rd SSO,-35.388978,149.032491,39
+2361,2818,Bielski St after Heseltine St SSO,-35.306556,149.026303,236
+2362,4003,Canberra HS Bowman St SSO,-35.251667,149.072074,2
+2363,4493,Bindubi St opp Canberra HS SSO,-35.252802,149.074961,37
+2364,4495,Bindubi St after Bindel St SSO,-35.254589,149.074252,49
+2365,4496,Bindubi St before Redfern St SSO,-35.254611,149.073999,49
+2366,4497,Bindubi St opp Cross St SSO,-35.256707,149.073768,49
+2367,4498,Bindubi St before Cross St SSO,-35.256595000000004,149.073533,49
+2368,4499,Bindubi St before Bandjalong Cr SSO,-35.259238,149.073667,49
+2369,4500,Bindubi St after Lyttleton Cr SSO,-35.25942,149.073388,49
+2370,4551,Dickson Interchange Northborne Av,-35.24993,149.134127,2664
+2371,4552,Northbourne Av opp Dickson Interchange,-35.250884,149.133404,2598
+2372,4557,Northbourne Av after Macarthur Av,-35.261466999999996,149.132253,1874
+2373,4558,Northbourne Av before Macarthur Av,-35.261384,149.131704,1900
+2374,4559,Northbourne Av Fenner Hall,-35.265527,149.131601,1038
+2375,4560,Northbourne Av Condamine Court,-35.264568,149.1312,1036
+2376,4561,Northbourne Av Northbourne Flats,-35.268046000000005,149.13119,1038
+2377,4562,Northbourne Av after Greenway St,-35.267625,149.13069199999998,1036
+2378,4565,Northbourne Av Mantra,-35.274151,149.130208,1874
+2379,4566,Northbourne Av Canberra Centre Apartments,-35.274608,149.129513,1900
+2380,4603,Northbourne Av After Swinden St,-35.244881,149.13466499999998,476
+2381,4604,Northbourne Av Yowani Country Club,-35.243388,149.134663,512
+2382,4749,Federal Hwy after Phillip Av,-35.236714,149.142902,1312
+2383,4750,Federal Hwy opp Phillip Av,-35.235662,149.14385900000002,1376
+2384,6160,Flemington Rd after Nullarbor Av,-35.200221,149.149284,864
+2385,6161,Flemington Rd after Nullarbor Av Sth,-35.201498,149.149273,836
+2386,6168,Flemington Rd after Hamer St,-35.187082000000004,149.14498799999998,836
+2387,6171,Flemington Road after Manning Clark Cr,-35.193248,149.15080600000002,864
+2388,6172,Flemington Road after Mapleton Av,-35.194514,149.150939,836
+2389,6173,Flemington Road before Geikie St,-35.207799,149.147412,864
+2390,6174,Flemington Rd before Well Station Rd,-35.207556,149.147865,836
+2391,32,Arboretum Car Park,-35.28751,149.068323,30
+2392,33,Arboretum Stop 3,-35.29189,149.063996,30
+2393,200,Longstay Caravan Park in Grounds SSO,-35.347227000000004,149.152829,2
+2394,100,O'Halloran Cct Urambi PS SSO,-35.394665,149.064693,3
+2395,1003,Hambidge Cr after Truganini Pl,-35.418969,149.120024,90
+2396,1005,Noorooma St opp Isabella Plains PS SSO,-35.428946999999994,149.088168,72
+2397,1039,Theodore Terminus Chippindall Cct,-35.45308,149.118749,1
+2398,1048,Coombe St after Barr Smith Av,-35.428455,149.075308,56
+2399,1049,Coombe St after Kneebone St,-35.428544,149.07533,52
+2400,1050,Kingscote Cr after Marquet Rt,-35.430765,149.077624,56
+2401,1051,Kingscote Cr after Kneebone St,-35.430834999999995,149.07765,52
+2402,1087,Barraclough Cr after Cowdery Pl,-35.41718,149.100642,52
+2403,1088,Barraclough Cr after Ashley Dr,-35.417182000000004,149.100373,54
+2404,1141,Heagney Cr before 2nd Louisa Lawson Cr,-35.416932,149.13546000000002,26
+2405,1142,Heagney Cr 3rd after Emily Bullock Cr,-35.416758,149.135052,26
+2406,1145,Heagney Cr after Louisa Lawson Cr North Entry,-35.414936,149.132898,26
+2407,1146,Heagney Cr before Hambidge Cr,-35.41498,149.132813,26
+2408,1169,Longmore Cr after Angliss Pl,-35.39891,149.099474,114
+2409,1209,Tom Roberts Av after Brittlebank Cct,-35.46698,149.10165800000001,2
+2410,1222,Tom Roberts Av opp Angell Pl,-35.467084,149.103703,2
+2411,1244,Barr Smith Av before Drakeford Dr,-35.428792,149.082206,56
+2412,1245,Barr Smith Av after Drakeford Dr,-35.428827000000005,149.08236399999998,52
+2413,1247,Streeton Dr before Hindmarsh Dr,-35.340982000000004,149.050285,58
+2414,1309,Livingston Av after Cutbush St,-35.389587,149.07921100000002,107
+2415,1310,Livingston Av after Shops,-35.389345,149.07929,102
+2416,1311,Livingston Av after Maxworthy St,-35.388111,149.081109,107
+2417,1312,Livingston Av before Maxworthy St,-35.387968,149.081262,102
+2418,1313,Livingston Av after Symers St,-35.387685,149.08383,102
+2419,1314,Livingston Av after Atkins St,-35.387805,149.084126,107
+2420,1315,Atkins St after Athllon Dr,-35.388238,149.085723,107
+2421,1316,Atkins St after Livingston Av,-35.388206,149.085893,102
+2422,1317,Garratt St opp Wanniassa Shops,-35.392428,149.08666599999998,52
+2423,1318,Garratt St Wanniassa Shops,-35.392551,149.086527,52
+2424,1329,Wheeler Cr after Annand Pl,-35.404077,149.08181499999998,104
+2425,1330,Wheeler Cr after Derham Cct,-35.403994,149.081789,105
+2426,1331,Wheeler Cr after Riddell Ct,-35.404009,149.08491899999999,105
+2427,1332,Wheeler Cr after Curtain Pl,-35.404176,149.08435,104
+2428,1333,Sternberg Cr after Mackinnon St,-35.403705,149.088928,156
+2429,1334,Sternberg Cr after Sitwell St,-35.403546,149.08853100000002,159
+2430,1377,Sainsbury St before Sullwood Dr,-35.387071,149.097437,101
+2431,1378,Sainsbury St after Sulwood Dr,-35.387174,149.097611,110
+2432,1379,Longmore Cr after Toohey Pl,-35.387158,149.09608,108
+2433,1380,Longmore Cr after Bosisto Pl,-35.38734,149.096296,106
+2434,1381,Longmore Cr after Methven Pl,-35.387633,149.09367,108
+2435,1382,Longmore Cr 2nd after Sainsbury St,-35.387847,149.093518,106
+2436,1383,Longmore Cr after Wilkie Pl,-35.38904,149.09116,108
+2437,1384,Longmore Cr after Strachan Pl,-35.389167,149.090785,106
+2438,1385,Longmore Cr after Lobb Pl,-35.389769,149.087979,106
+2439,1386,Longmore Cr after Langdon Av,-35.389611,149.088101,108
+2440,1387,Vosper St after Livingston Av,-35.391073,149.078705,107
+2441,1388,Vosper St after Athllon Dr,-35.391133,149.07851000000002,102
+2442,1391,Newman-Morris Cct after McIlveen Pl,-35.411885999999996,149.081741,106
+2443,1392,Newman-Morris Cct after 2nd Cuthbertson Cr,-35.411784999999995,149.081747,104
+2444,1393,Newman-Morris Cct after Raphael Cl,-35.410218,149.083609,106
+2445,1394,Newman-Morris Cct after 2nd Nunan Cr,-35.409715999999996,149.082952,104
+2446,1395,Newman-Morris Cct after Farrelly Cl,-35.408348,149.082194,106
+2447,1396,Newman-Morris Cct after Clutterbuck Cr,-35.407307,149.081186,104
+2448,1397,Newman-Morris Cct 2nd before Farrelly Cl,-35.406721999999995,149.07958200000002,106
+2449,1398,Newman-Morris Cct after 2nd Clutterbuck Cr,-35.406843,149.077597,104
+2450,1399,Newman-Morris Cct after Forlonge St,-35.40672,149.077534,106
+2451,1433,Sternberg Cr Wanniassa Shops,-35.401078999999996,149.086168,54
+2452,1434,Sternberg Cr after Jenner Cct,-35.401967,149.086703,52
+2453,1455,Hambidge Cr after Goldstein Cr,-35.418906,149.119976,81
+2454,1464,MacKinnon St opp MacKillop College,-35.405373,149.089506,26
+2455,1474,Kirkton St after Wheeler Cr,-35.397467999999996,149.089956,54
+2456,1475,Kirkton St after Balfour Cr,-35.397537,149.09017,56
+2457,1476,Kirkton St after Holden Cr,-35.397269,149.094785,54
+2458,1477,Kirkton St after Embling St,-35.397309,149.09419499999998,56
+2459,1484,Longmore Cr after Sainsbury St,-35.388087,149.097982,114
+2460,1485,Longmore Cr North of Gaunson Cr,-35.388494,149.09830300000002,103
+2461,1502,Bugden Av after Kellett St,-35.414660999999995,149.112501,105
+2462,1503,Bugden Av after Castleton Cr,-35.414521,149.11286299999998,110
+2463,1514,Partridge St after Castleton Cr,-35.405716999999996,149.11373899999998,101
+2464,1515,Partridge St after Garrick St,-35.405751,149.113823,112
+2465,1516,Partridge St after Airey Cr,-35.403247,149.115823,101
+2466,1517,Partridge St after Bulcock Pl,-35.402653,149.11606799999998,112
+2467,1518,Longmore Cr after Cruikshank St,-35.398782000000004,149.099354,103
+2468,1519,Longmore Cr after Petit Pl,-35.398786,149.102922,103
+2469,1520,Longmore Cr before Pettit Pl,-35.398917,149.102815,114
+2470,1521,Longmore Cr after Harker Pl,-35.396854,149.10408999999999,103
+2471,1522,Longmore Cr 4th after Gaunson St,-35.397308,149.10415700000001,114
+2472,1523,Longmore Cr & McKenna St,-35.395018,149.103472,103
+2473,1524,Longmore Cr Backing Sulwood Dr,-35.395365999999996,149.103749,114
+2474,1525,Longmore Cr after McKenna St,-35.39286,149.101976,103
+2475,1526,Longmore Cr 2nd from Gaunson Cr,-35.392956,149.102092,114
+2476,1527,Longmore Cr after Bindon Pl,-35.390843,149.100652,103
+2477,1528,Longmore Cr South of Gaunson Cr,-35.390702000000005,149.10068700000002,114
+2478,1541,Newman-Morris Cct before Farrelly Cl,-35.40708,149.08103799999998,52
+2479,1574,Goldstein Cr after Norriss St,-35.418155,149.11693400000001,81
+2480,1575,Goldstein Cr 2nd after Wolstenholme St,-35.418202,149.116663,90
+2481,1590,Clive Steele Av after Alabaster St,-35.414957,149.093896,1
+2482,1591,Clive Steele Av after Barraclough Cr,-35.415046999999994,149.094128,1
+2483,1592,Clive Steele Av after Haigh Pl,-35.415547,149.091381,1
+2484,1593,Clive Steele Av before Kenyon Cct,-35.415721999999995,149.091205,1
+2485,1607,Caroline Chisholm Senior School Hambidge Cr SSO,-35.418419,149.121692,2
+2486,1662,Sulwood Dr Kambah Fire Station,-35.373368,149.054824,118
+2487,1663,Sulwood Dr opp Kambah Fire Station,-35.373409,149.054676,116
+2488,1700,Chippindall Cct opp Theodore Terminus,-35.453297,149.119026,3
+2489,1733,Canberra Hospital Palmer St,-35.348012,149.10281899999998,121
+2490,2046,Beasley St after Pethebridge St,-35.365704,149.088674,74
+2491,2047,Beasley St after Batchelor St,-35.365838000000004,149.08853200000001,76
+2492,2048,Beasley St Sacred Heart PS,-35.366625,149.084946,74
+2493,2049,Beasley St after Parkin St,-35.36654,149.085431,76
+2494,2078,Hodgson Cr Pearce Shops,-35.362497,149.08221799999998,76
+2495,2079,Hodgson Cr opp Pearce Shops,-35.363021999999994,149.082044,74
+2496,2080,Hodgson Cr after Pethebrigde St,-35.360476,149.084691,74
+2497,2081,Hodgson Cr after Shepherd St,-35.360454,149.084468,76
+2498,2082,Hodgson Cr after Collings St,-35.357919,149.086717,76
+2499,2083,Hodgson Cr after Marr St,-35.357964,149.08688600000002,74
+2500,2084,Melrose Dr 2nd after Botany St,-35.354983000000004,149.086504,74
+2501,2085,Melrose Dr after Hodgson Cr,-35.355208000000005,149.086249,77
+2502,2086,Melrose Dr after Botany St,-35.35279,149.085728,74
+2503,2087,Melrose Dr 2nd after Hodgson Cr,-35.352848,149.085428,77
+2504,2088,Botany St after Devine Ct,-35.350876,149.086396,76
+2505,2089,Botany St after Townshend St,-35.350968,149.086694,74
+2506,2146,Hindmarsh Dr after Bangalay Cr,-35.342247,149.036823,3
+2507,2236,Cunningham St after Wentworth Av,-35.317617,149.149584,2
+2508,2237,Cunningham St behind railway tracks,-35.317634999999996,149.149174,2
+2509,2238,Sandalwood St after Spinifex St,-35.316199,149.151171,2
+2510,2239,Cunningham St after The Causeway,-35.317766,149.150976,2
+2511,2241,Queen Victoria Tce East Block Govt Offices,-35.304157000000004,149.130809,101
+2512,2242,Queen Victoria Tce Tennis Courts,-35.304008,149.13088,66
+2513,2252,Sydney Av before State Cir,-35.311257,149.12913400000002,18
+2514,2253,Sydney Av after State Cir,-35.31109,149.12978,22
+2515,2260,Anzac Parade after Fairbairn Av,-35.283512,149.146711,30
+2516,2356,McMillan Cr at Mckinlay St,-35.325416,149.147883,1
+2517,2377,Whyalla St before Newcastle St,-35.332815000000004,149.17586,44
+2518,2383,Canberra Av Service Rd before Whyalla St,-35.33426,149.169907,44
+2519,2384,Nyrang St after Canberra Av,-35.325108,149.155296,86
+2520,2385,Canberra Av Service Rd before Geelong St,-35.332415999999995,149.166046,44
+2521,2386,Canberra Av Service Rd after Geelong St,-35.332689,149.166273,46
+2522,2405,Whyalla St after Canberra Av,-35.333876000000004,149.17335400000002,44
+2523,2446,Brisbane Av after National Cct,-35.309296999999994,149.132555,52
+2524,2447,Brisbane Av after State Cir,-35.308883,149.132956,52
+2525,2498,Hindmarsh Dr before Bangalay Cr,-35.342152,149.036598,3
+2526,2541,Wisdom St opp Malkara School,-35.337005,149.093857,66
+2527,2549,Nyrang St before Canberra Av,-35.325382,149.155202,88
+2528,2550,Mildura St Fyshwick Markets,-35.323314,149.15577199999998,86
+2529,2551,Mildura St before Dalby St,-35.322086,149.153896,88
+2530,2554,UC High School Kaleen School Grounds,-35.225564,149.100784,1
+2531,2555,St Francis Xavier College Barnard Cct,-35.224695000000004,149.041843,16
+2532,2557,Canberra Girls Grammar Junior School Grounds,-35.312181,149.111471,11
+2533,2561,Phillip Av opp Dickson College,-35.248806,149.154862,1
+2534,2562,Forrest PS Hobart Av SSO,-35.315160999999996,149.125114,10
+2535,2564,St John the Apostle PS Barnard Cct,-35.224882,149.04179299999998,4
+2536,2570,Wisdom St Malkara School,-35.337401,149.093736,71
+2537,2577,St Matthews PS Stutchbury St SSO,-35.239913,149.042544,6
+2538,2579,Lhotsky St St Thomas Aquinas PS SSO,-35.204801,149.030662,69
+2539,2580,Telopea Park School New South Wales Cr SSO,-35.315092,149.133817,5
+2540,2588,Groom St before Kent St,-35.332433,149.093903,77
+2541,2590,Lithgow St Fyshwick Terminus,-35.330517,149.16372900000002,44
+2542,2599,Lithgow St opp Fyshwick Terminus,-35.330555,149.163622,46
+2543,2602,Hindmarsh Dr CIT,-35.349691,149.096894,168
+2544,2603,Hindmarsh Dr opp CIT Woden,-35.350157,149.097144,164
+2545,2608,Lambrigg St after Pudney St Farrer Terminus,-35.380029,149.110632,160
+2546,2624,Whyalla St after Newcastle St,-35.333157,149.175465,46
+2547,2625,Whyalla St 2nd after Newcastle St,-35.334049,149.173201,46
+2548,2626,Canberra Av Service Rd after Whyalla St,-35.334334000000005,149.169837,46
+2549,2628,Dalrymple St before La Perouse St,-35.339431,149.136658,121
+2550,2629,Dalrymple St before Logan St,-35.338986,149.136359,120
+2551,2638,Groom St St. Andrews Village,-35.328978,149.08853,72
+2552,2639,Groom St opp St. Andrews Village,-35.328666,149.088665,77
+2553,2640,Groom St after Webster St,-35.331596000000005,149.089269,72
+2554,2641,Groom St after Jensen St,-35.331841,149.089666,77
+2555,2657,Sheppard St before Tralee St,-35.39283,149.16458899999998,18
+2556,2661,Sheppard St after Johns Pl,-35.388841,149.170329,18
+2557,2663,Sheppard St before Arnott St,-35.386243,149.173424,18
+2558,2691,Palmer St opp Canberra Hospital,-35.347813,149.102879,118
+2559,2692,Palmer St before Gilmore Cr,-35.346160999999995,149.103125,121
+2560,2693,Palmer St before Dennis St,-35.346393,149.103174,118
+2561,2703,Woden Interchange Plt 3,-35.344596,149.086663,17
+2562,2711,Woden Bus Stn Plt 11,-35.343926,149.08761,265
+2563,2712,Woden Bus Stn Plt 12,-35.34424,149.087698,231
+2564,2732,State Cir after Melbourne Av,-35.312233,149.123345,22
+2565,2937,Clunies Ross St before Barry Dr,-35.273245,149.116509,30
+2566,2945,Mildura St Opp Fyshwick Markets,-35.323003,149.155427,88
+2567,2946,Mildura St after Leeton St,-35.321057,149.151515,86
+2568,2947,Mildura St before Leeton St Fyshwick,-35.321131,149.151903,88
+2569,3002,London Cct before East Row,-35.279619,149.130251,444
+2570,3134,Mort St before Cooyong St,-35.274885,149.131255,144
+2571,3138,Mort St after Girrahween St,-35.2708,149.13191,144
+2572,3191,Wattle St after Hall St,-35.254428999999995,149.126386,48
+2573,3192,Wattle St after Scrivener St,-35.254753,149.12652,50
+2574,3193,Goodwin St after Wattle St,-35.255434,149.129142,48
+2575,3194,Goodwin St after Murdoch St,-35.255596999999995,149.12913500000002,50
+2576,3318,Canberra Railway Station Kingston,-35.319524,149.14863799999998,133
+2577,3320,Railway Station Kingston,-35.320068,149.14904199999998,92
+2578,3324,Clunies Ross St Botanic Gdns,-35.278684999999996,149.109308,30
+2579,3326,Lady Denman Dr ATSIS,-35.288621,149.083015,30
+2580,3327,Lady Denman Dr National Zoo & Aquarium,-35.299375,149.06957,30
+2581,3340,Narrabundah Lane Therapeutic Goods Administration,-35.352232,149.14968100000002,90
+2582,3355,Goodwin St opp Lyneham HS,-35.25114,149.131352,51
+2583,3380,Wattle St opp Lyneham Shops,-35.25268,149.124578,50
+2584,3398,Wattle St Lyneham Shops,-35.252919,149.125015,48
+2585,3399,Menindee Dr ACT Hospice,-35.303583,149.15156100000002,80
+2586,3405,City Bus Stn Plt 4,-35.278543,149.1301,242
+2587,3408,Thynne St after Paget St,-35.2435,149.0983,119
+2588,3411,Thynne St after Watkins St,-35.2433,149.0983,125
+2589,3412,Thynne St after Slowey Pl,-35.239931,149.097245,125
+2590,3414,Thynne St after Lampard Cct,-35.239602000000005,149.096792,119
+2591,3415,King Edward Tce before  Bowen Dr,-35.301602,149.135381,162
+2592,3416,King Edward Tce after Bowen Dr,-35.301196000000004,149.13438100000002,163
+2593,3435,Jerrabomberra Av City Premier Inn,-35.340135,149.151861,1
+2594,3439,Vowels Cr before Purdie St TAFE,-35.250079,149.095924,115
+2595,3440,Vowles Cr after Purdie St  Bruce CIT,-35.250052000000004,149.09571599999998,120
+2596,3462,Akuna St before Bunda St,-35.281255,149.13360500000002,144
+2597,3471,Brindabella Business Park Brindabella Cct,-35.310961999999996,149.18835,100
+2598,3477,Northcott Dr before Tobruk Rd,-35.290556,149.164434,122
+2599,3485,Campbell PS School Grounds SSO,-35.290514,149.156082,4
+2600,4106,Owen Dixon Dr opp McKellar Soccer Club,-35.211866,149.08461499999999,108
+2601,4119,William Webb Dr after Owen Dixon Dr,-35.210132,149.081866,126
+2602,4120,William Webb Dr before Owen Dixon Dr,-35.210069,149.081801,108
+2603,4121,William Webb Dr before Jeanne Young Cct,-35.211775,149.08138200000002,126
+2604,4122,William Webb Dr after 2nd Rohan Rivett Cr,-35.211560999999996,149.081357,108
+2605,4123,William Webb Dr & Rohan Rivett Cr,-35.213145000000004,149.07908899999998,126
+2606,4124,William Webb Dr after 2nd Sproule Cct,-35.213063,149.079127,108
+2607,4125,William Webb Dr after Rohan Rivett Cr,-35.21291,149.07657,126
+2608,4126,William Webb Dr after Sproule Cct,-35.212829,149.076642,108
+2609,4127,William Webb Dr after Clancy St,-35.213564,149.072974,126
+2610,4128,William Webb Dr after Dumas St,-35.21333,149.073188,108
+2611,4169,Alpen St before Clifford Cr,-35.205427,149.061544,135
+2612,4170,Alpen St after 2nd Clifford Cr,-35.205469,149.061309,132
+2613,4267,Benjamin Wy after CLG St,-35.244881,149.06765900000002,50
+2614,4268,Benjamin Wy after Lathlain St,-35.244702000000004,149.06727800000002,50
+2615,4289,Murranji St Eastbound after Erldunda Cct,-35.247741,149.03618799999998,50
+2616,4290,Murranji St Westbound after Erldunda Cct,-35.247646,149.036256,50
+2617,4309,MacNaughton St after Drake Brockman Dr,-35.230542,149.01727,50
+2618,4381,Handcock Cr after Archdall St,-35.204114000000004,149.017281,50
+2619,4382,Handcock Cr after 2nd Ballow Cr,-35.2042,149.017353,50
+2620,4383,Handcock Cr after 2nd Pockley Cl,-35.205433,149.021185,50
+2621,4384,Handcock Cr & Ballow Cr,-35.205498999999996,149.021118,50
+2622,4385,Handcock Cr before Fiaschi St,-35.206663,149.02267,50
+2623,4386,Handcock Cr after Ballow Cr,-35.207062,149.02288000000001,50
+2624,4387,Handcock Cr after Duhig Pl,-35.209775,149.02551699999998,50
+2625,4388,Handcock Cr after Florey Dr,-35.209853,149.025485,50
+2626,4403,Dalley Cr after Box Pl,-35.217233,149.032227,131
+2627,4404,Dalley Cr after Macrossan Cr,-35.217203999999995,149.032354,131
+2628,4405,Dalley Cr after Inglis Pl,-35.215503999999996,149.029826,131
+2629,4406,Macrossan Cr after Dalley Cr,-35.213840999999995,149.028275,131
+2630,4407,Macrossan Cr 2nd after Dalley Cr,-35.212922,149.030698,131
+2631,4408,Macrossan Cr 3rd after Dalley Cr,-35.21266,149.033503,131
+2632,4409,Macrossan Cr after Rudall St,-35.215872999999995,149.034534,131
+2633,4481,Ginninderra Dr after Florey Dr,-35.202678999999996,149.022047,68
+2634,4553,Northbourne Av before Morphett St,-35.252831,149.133652,937
+2635,4554,Northbourne Av Lyneham Flats,-35.253399,149.132999,950
+2636,4555,Northbourne Av The Pavilion,-35.257677,149.13286499999998,519
+2637,4556,Northbourne Av Owen Flats,-35.257688,149.132303,518
+2638,4563,Northbourne Av The Marque Hotel,-35.271095,149.130685,519
+2639,4564,Northbourne Av ACIL House,-35.270987,149.130176,518
+2640,4567,Northbourne Av after Morphett St,-35.255195,149.133267,519
+2641,4571,Fairfax St after Belconnen Wy,-35.258587,149.108646,115
+2642,4572,Fairfax St after Dryandra St,-35.258815999999996,149.10924,120
+2643,4573,Macarthur Av after Miller St,-35.25877,149.116324,115
+2644,4574,Macarthur Av after Todd St,-35.259168,149.116995,120
+2645,4575,Macarthur Av after Wonga St,-35.259078,149.119121,115
+2646,4576,Macarthur Av after Peel St,-35.259406,149.11915,120
+2647,4616,Daley Rd opp Anutech House,-35.273717,149.12051499999998,120
+2648,4617,Daley Rd Anutech House,-35.273674,149.120318,115
+2649,4618,Daley Rd Bruce Hall,-35.274182,149.117323,120
+2650,4619,Daley Rd opp Bruce Hall,-35.274471000000005,149.117372,115
+2651,4620,Daley Rd ANU Burton & Garran Hall,-35.275825,149.115906,120
+2652,4621,Daley Rd opp ANU Burton & Garran Hall,-35.275976,149.11598600000002,115
+2653,4622,Daley Rd John XXIII CLG,-35.279812,149.114336,120
+2654,4623,Daley Rd opp John XXIII CLG,-35.279737,149.114476,115
+2655,4624,Garran Rd New Graduate House,-35.282379,149.116332,120
+2656,4625,Garran Rd opp New Graduate House,-35.282707,149.117144,115
+2657,4626,Garran Rd University House,-35.283128000000005,149.119007,120
+2658,4627,Garran Rd opp University House,-35.283278,149.119521,115
+2659,4717,Shoalhaven Av after Naas Cl,-35.172159,149.12436499999998,114
+2660,4719,Shoalhaven Av after Tyenna Cl,-35.170878,149.125393,114
+2661,4754,Sandford St after Flemington Rd,-35.221084000000005,149.142702,212
+2662,4761,Lysaght St after Huddart Ct,-35.215398,149.14005500000002,212
+2663,4827,MacNaughton St after Gore St,-35.229774,149.017684,50
+2664,4835,Narrabundah Lane opp Therapeutic Goods Admin,-35.352142,149.149723,90
+2665,4890,Southern Cross Dr after Moyes Cr,-35.219625,149.02158500000002,84
+2666,4891,Southern Cross Dr after Florey Dr,-35.219386,149.02127,12
+2667,4924,Brookes St after Buckland St,-35.216798,149.14125,212
+2668,4926,Brookes St after Sandford St,-35.21901,149.140803,212
+2669,4960,Mugga Lane Quamby Detention Centre,-35.345227,149.138745,90
+2670,4961,Mugga Lane after Hindmarsh Dr,-35.345317,149.138802,90
+2671,4962,Narrabundah Lane opp Sundown Motel,-35.348786,149.155979,90
+2672,4963,Narrabundah Lane Sundown Motel Resort,-35.348706,149.155904,90
+2673,4964,Jerrabomberra Av opp AGSO,-35.343984000000006,149.15491,90
+2674,4965,Jerrabomberra Av AGSO,-35.344454,149.155688,90
+2675,4969,Kerrigan St after Ginninderra Dr,-35.196442,149.01511499999998,18
+2676,4970,Kerrigan St after Bedourie St,-35.196498999999996,149.015208,20
+2677,4973,Mary Potter Cct Calvary Hospital,-35.251682,149.090223,115
+2678,4974,Calvary Hospital 3rd after Haydon Dr,-35.251862,149.09041100000002,120
+2679,4975,Calvary Hospital A&E East Side,-35.252838,149.09108999999998,115
+2680,4976,Calvary Hospital A&E West Side,-35.252848,149.090918,120
+2681,4977,Mary Potter Cct 3rd Calvary Hospital,-35.253913,149.08879,115
+2682,4978,Calvary Hospital Main Entrance,-35.253882,149.08921899999999,120
+2683,4985,Fullagar Cr after Starke St,-35.229202,149.02282,50
+2684,4986,Fullagar Cr before Ashburner St,-35.229664,149.022773,50
+2685,4987,Fullagar Cr Higgins Oval,-35.23095,149.02311,50
+2686,4988,Fullagar Cr 2nd before Ashburner St,-35.231278,149.02300400000001,50
+2687,4992,Charnwood Dunlop PS School Grounds,-35.198640999999995,149.036048,2
+2688,50,Tuggeranong Interchange Plt 6,-35.414402,149.065349,1
+2689,5013,Baldwin Dr before William Slim Dr,-35.217644,149.086659,116
+2690,5014,Baldwin Dr before Gum St,-35.217511,149.09044,116
+2691,5015,Baldwin Dr after Gum St,-35.217416,149.090335,122
+2692,5016,Baldwin Dr after William Slim Dr,-35.217576,149.08678799999998,122
+2693,5025,Ginninderra Dr after Lance Hill Av,-35.202498999999996,149.021945,70
+2694,5033,Flagstaff St after Learmonth Dr SSO,-35.393046999999996,149.040161,7
+2695,5034,Ivo Whitton Cct after James Scott Cl SSO,-35.394853999999995,149.037204,7
+2696,5035,Ivo Whitton Cct after Lemprierre Cr SSO,-35.391447,149.037904,7
+2697,5036,Learmonth Dr opp 1st Meredith Cct SSO,-35.393181,149.046106,4
+2698,5040,Learmonth Dr after 2nd Meredith Cct SSO,-35.393369,149.046037,7
+2699,5044,Owen Dixon Dr McKellar Soccer Club,-35.211995,149.08456999999999,126
+2700,5045,Ginninderra Dr after Kerrigan St,-35.197731,149.015129,20
+2701,5046,Ginninderra Dr before Kerrigan St,-35.197917,149.01538200000002,18
+2702,5048,Goodwin St after Oliver St,-35.249371000000004,149.13163,50
+2703,5049,Murdoch St after Goodwin St,-35.252435,149.131665,49
+2704,5058,Curran Dr after McClelland Av South Entry,-35.185411,149.08498400000002,126
+2705,5059,Curran Dr before McClelland Av,-35.185496,149.085204,126
+2706,5060,Curran Dr 2nd after McClelland Av,-35.18442,149.088765,126
+2707,5061,Curran Dr after Temperly St,-35.184571000000005,149.088831,126
+2708,5065,Kelleway Av opp Gold Creek High,-35.180422,149.093187,122
+2709,5096,Baldwin Dr after Chuculba Cr,-35.218678000000004,149.09661699999998,116
+2710,5097,Baldwin Dr before Chuculba Cr,-35.218632,149.096751,122
+2711,5106,Daramalan College Morphett St SSO,-35.253665000000005,149.13860400000002,6
+2712,5131,Fraser PS School Grounds SSO,-35.191878,149.04370600000001,2
+2713,5139,Joynton Smith Dr after Sutherland Cr,-35.230595,149.061759,20
+2714,5140,Joynton Smith Dr North after Sutherland Cr,-35.231246999999996,149.06161699999998,18
+2715,5141,Joynton Smith Dr after Morell St,-35.233607,149.062442,20
+2716,5142,Joynton Smith Dr after Beissel St,-35.2337,149.062313,18
+2717,5147,Emu Bank Dr before Benjamin Wy,-35.236290000000004,149.06843999999998,18
+2718,5148,Emu Bank Dr after Benjamin Wy,-35.236158,149.068522,20
+2719,5149,Emu Bank Dr after Veryard Cl,-35.238397,149.071049,18
+2720,5150,Emu Bank Dr after Soundy Cl,-35.238731,149.071248,20
+2721,5176,Windeyer St before Burton St SSO,-35.240961999999996,149.15131499999998,1
+2722,5177,Baldwin Dr 2nd after Gum St,-35.217290000000006,149.094496,122
+2723,5178,Baldwin Dr 2nd after Chuculba Cr,-35.217408,149.094446,116
+2724,5516,Belconnen Interchange Plt 6,-35.240010999999996,149.069342,3
+2725,5522,Eastern Valley Way Eastern Valley Oval,-35.24576,149.074855,78
+2726,5523,Eastern Valley Way opp Eastern Valley Oval,-35.245612,149.07527199999998,74
+2727,5998,Shoalhaven Av after Katherine Av,-35.168141,149.126831,114
+2728,6036,Flemington Rd after Sandford St,-35.220104,149.14488300000002,482
+2729,6037,Flemington Rd after Lysaght St,-35.217923,149.145372,462
+2730,6062,Moonlight Av after Kalianna St,-35.186347999999995,149.154689,94
+2731,6063,Moonlight Av after Anthony Rolfe Av,-35.186315,149.154796,106
+2732,6064,Moonlight Av after Haven St,-35.189136,149.155073,94
+2733,6065,Moonlight Av after Redbank St,-35.189153999999995,149.155175,106
+2734,6066,Moonlight Av after Parsley St,-35.190502,149.153144,94
+2735,6067,Moonlight Av after Osprey St,-35.190657,149.152965,106
+2736,6072,North Ainslie PS School Grounds SSO,-35.254628000000004,149.148214,2
+2737,6077,Debortoli St after Anthony Rolfe Av,-35.186704,149.152494,94
+2738,6140,Anthony Rolfe Av after Peters St,-35.185289000000004,149.14538100000001,106
+2739,6141,Anthony Rolfe Av 2nd after Kate Crace St,-35.185027000000005,149.145652,94
+2740,6153,Harrison School Wimmera St SSO,-35.198689,149.15104,2
+2741,6162,Mother Teresa PS Wimmera St,-35.195196,149.152624,2
+2742,6169,Flemington Road before 2nd Manning Clarke Cr,-35.187979,149.14840800000002,432
+2743,6170,Flemington Rd after Wizard St,-35.18817,149.149563,418
+2744,6191,Oodgeroo Av before Marie Pitt St,-35.196112,149.14570700000002,54
+2745,6192,Oodgeroo Av after Marie Pitt St,-35.196656,149.14588500000002,48
+2746,6194,Horse Park Dr after Gecko Way,-35.184891,149.156497,94
+2747,6195,Horse Park Dr before Dugong Way,-35.191357,149.16085900000002,94
+2748,6198,Horse Park Dr after Mapleton Av,-35.189983000000005,149.16001,106
+2749,6302,Mulligans Flat Rd after Mabo Bvd,-35.165034000000006,149.141416,130
+2750,6666,Alexander Maconochie Centre,-35.372115,149.17000900000002,80
+2751,9,Athllon Dr opp Centrelink Office,-35.420281,149.065985,303
+2752,914,Pearce Av Fairbairn Pk,-35.302213,149.202241,60
+2753,915,Fairbairn Pk Service Rd,-35.305267,149.203583,60
+2754,916,Scherger Dr Fairbairn Pk,-35.303643,149.206494,60
+2755,9999,Canberra Senior Grammar School Golden Gr SSO,-35.332052000000004,149.128207,12
