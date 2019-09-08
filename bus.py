@@ -55,5 +55,5 @@ out['frequency_diff'] = out.apply(
 )
 
 print(out)
-with open(f'data/middle?.csv', 'w+') as f:
+with open(f'data/middle.csv', 'w+') as f:
     f.write(out.to_csv())
