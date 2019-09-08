@@ -51,7 +51,7 @@ out['frequency_old'] = out.apply(
     lambda row: times1[times1.stop_id == row.id].trip_id.count(), axis=1)
 
 out['frequency_diff'] = out.apply(
-    lambda row: (row['frequency_new'] + 1) - (row['frequency_old'] + 1)/(row['frequency_old'] + 1), axis=1
+    lambda row: ((row['frequency_new'] + 1) - (row['frequency_old'] + 1))/(row['frequency_old'] + 1), axis=1
 )
 
 print(out)
