@@ -4,18 +4,21 @@ import os
 
 print('1')
 stops = pd.concat([
-    pd.read_csv(f"data/gtfs (0)/stops.txt"),
-    pd.read_csv(f"data/gtfs (1)/stops.txt")
+    pd.read_csv(f"data/gtfs (2)/stops.txt"),
+    pd.read_csv(f"data/gtfs (3)/stops.txt"),
+    pd.read_csv(f"data/gtfs (4)/stops.txt")
 ])
 print('1')
 times = pd.concat([
-    pd.read_csv(f"data/gtfs (0)/stop_times.txt"),
-    pd.read_csv(f"data/gtfs (1)/stop_times.txt")
+    pd.read_csv(f"data/gtfs (2)/stop_times.txt"),
+    pd.read_csv(f"data/gtfs (3)/stop_times.txt"),
+    pd.read_csv(f"data/gtfs (4)/stop_times.txt")
 ])
 print('1')
 trip = pd.concat([
-    pd.read_csv(f"data/gtfs (0)/trips.txt"),
-    pd.read_csv(f"data/gtfs (1)/trips.txt")
+    pd.read_csv(f"data/gtfs (2)/trips.txt"),
+    pd.read_csv(f"data/gtfs (3)/trips.txt"),
+    pd.read_csv(f"data/gtfs (4)/trips.txt")
 ])
 print('1')
 out = pd.DataFrame()
@@ -45,5 +48,5 @@ out['fequency'] = out.apply(
     lambda row: times[times.stop_id == row.id].trip_id.count(), axis=1)
 
 print(out)
-with open(f'data/new.csv', 'w+') as f:
+with open(f'data/old.csv', 'w+') as f:
     f.write(out.to_csv())
